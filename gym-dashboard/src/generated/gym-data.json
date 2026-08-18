@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T14:22:41.843Z",
+  "generatedAt": "2026-08-18T16:30:07.215Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "40a477a8ce3f1aedc5e080e4cc106ab0e7ab8032f973be12555cfd49f658e826"
+      "sha256": "b17b85c4c7e916415d59bc2b3d364ff344a5834c8253776a5f90ce503dbed22e"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "d9ecac654343d86317b363fd012f74520176e2b2dba68c51f1652d3ca41f173f"
+      "sha256": "ccc375fbb4c285f361096874aa43039607bc0afe81b1d5c5e19f7e331eaa6a96"
     }
   ],
   "workbook": {
@@ -205,7 +205,7 @@
             "",
             "",
             "Chest",
-            12
+            18
           ],
           [
             "",
@@ -225,7 +225,7 @@
             "",
             "",
             "",
-            13,
+            14,
             "",
             52,
             "",
@@ -426,7 +426,7 @@
             "22.5 kg/side x 7 @ RIR 1",
             "22.5 kg/side x 8 @ RIR 1-2",
             "In progress",
-            "Bar excluded",
+            "Bar excluded; improve reserve",
             "",
             "",
             ""
@@ -437,10 +437,10 @@
             "",
             "",
             "Incline Barbell Bench",
-            "15 kg/side x 8 nearly assisted",
-            "15 kg/side x 8 clean @ RIR 2",
-            "Verify clean rep",
-            "Separate from incline DB",
+            "15 kg/side x 9 @ RIR 1 clean",
+            "15 kg/side x 9 @ RIR 2",
+            "In progress",
+            "No assistance; do not add load",
             "",
             "",
             ""
@@ -4844,6 +4844,326 @@
             0
           ],
           [
+            "2026-08-18",
+            "Chest",
+            "Flat Bench Press",
+            1,
+            17.5,
+            "kg plates each side; bar excluded",
+            12,
+            "No assistance; prescribed preparation-set completion To verify",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Flat Bench Press",
+            2,
+            20,
+            "kg plates each side; bar excluded",
+            10,
+            "No assistance; rep target met but harder than planned",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Flat Bench Press",
+            3,
+            22.5,
+            "kg plates each side; bar excluded",
+            7,
+            "No assistance; matched prior result",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Incline Barbell Bench Press",
+            1,
+            10,
+            "kg plates each side; bar excluded",
+            13,
+            "No assistance; performed before plate chest press",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Incline Barbell Bench Press",
+            2,
+            12.5,
+            "kg plates each side; bar excluded",
+            11,
+            "No assistance; performed before plate chest press",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Incline Barbell Bench Press",
+            3,
+            15,
+            "kg plates each side; bar excluded",
+            9,
+            "No assistance; progressed from 8 nearly assisted reps to 9 clean reps",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Plate Chest Press",
+            1,
+            30,
+            "kg plates each side",
+            15,
+            "Clean and unassisted",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Plate Chest Press",
+            2,
+            40,
+            "kg plates each side",
+            10,
+            "Clean and unassisted",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Plate Chest Press",
+            3,
+            45,
+            "kg plates each side",
+            8,
+            "New baseline; explicitly confirmed clean and unassisted",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Pec Deck Fly",
+            1,
+            45,
+            "kg total machine stack",
+            15,
+            "No assistance reported",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Pec Deck Fly",
+            2,
+            50,
+            "kg total machine stack",
+            12,
+            "No assistance reported",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Pec Deck Fly",
+            3,
+            55,
+            "kg total machine stack",
+            12,
+            "Progressed from 11 to 12 reps; no assistance",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Cable Fly",
+            1,
+            15,
+            "kg each side; conventional horizontal path",
+            25,
+            "No assistance; load now too light for efficient working use",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Cable Fly",
+            2,
+            20,
+            "kg each side; conventional horizontal path",
+            14,
+            "No assistance; controlled-form detail To verify",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Cable Fly",
+            3,
+            25,
+            "kg each side; conventional horizontal path",
+            12,
+            "No assistance; progressed from 10 to 12 reps",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Front Plank",
+            1,
+            "Body weight",
+            "seconds",
+            60,
+            "Strict completion; no hip sag or lower-back discomfort",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Core finisher",
+            "To verify"
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Front Plank",
+            2,
+            "Body weight",
+            "seconds",
+            60,
+            "Strict completion; no hip sag or lower-back discomfort",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Core finisher",
+            "To verify"
+          ],
+          [
+            "2026-08-18",
+            "Chest",
+            "Front Plank",
+            3,
+            "Body weight",
+            "seconds",
+            60,
+            "Strict completion; no hip sag or lower-back discomfort",
+            "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+            "Medium to low final",
+            "Good",
+            "",
+            "Core finisher",
+            "To verify"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
             "",
             "",
             "",
@@ -5405,12 +5725,12 @@
             "Chest",
             "Flat Bench Press",
             "22.5 kg/side x 7 @ RIR 1",
-            "20-22.5 kg/side",
+            "17.5-22.5 kg/side",
             "22.5 kg/side x 8 @ RIR 1-2",
-            "Add reps before load",
+            "Improve reserve; add rep before load",
             "Shoulder blades set",
             "In progress",
-            "Bar excluded"
+            "20 kg/side x 10 reached only RIR 1; bar excluded"
           ],
           [
             "Chest",
@@ -5426,35 +5746,35 @@
           [
             "Chest",
             "Plate Chest Press",
-            "40 kg/side x 10 @ RIR 1",
-            "30-40 kg/side",
-            "40 kg/side x 10-11 @ RIR 2",
-            "Improve reserve",
+            "45 kg/side x 8 @ RIR 1 clean",
+            "30-45 kg/side",
+            "45 kg/side x 9 @ RIR 2",
+            "Add clean rep with reserve",
             "Controlled eccentric",
             "In progress",
-            "Use as one of maximum 3 presses"
+            "New 45 kg/side baseline; clean and unassisted"
           ],
           [
             "Chest",
             "Cable Fly",
-            "25 kg/side x 10 @ RIR 2",
-            "15-25 kg/side",
-            "25 kg/side x 11-12 @ RIR 2",
-            "Add clean reps",
-            "Hugging arc",
+            "25 kg/side x 12 @ RIR 2",
+            "20-25 kg/side",
+            "25 kg/side x 12 for 2 sets @ RIR 2",
+            "Remove 15 kg working set; build second top set",
+            "Soft elbow bend; hugging arc",
             "In progress",
-            "Clean form confirmed on 2026-08-11"
+            "20 kg x 15-18 @ RIR 3, then two 25 kg sets"
           ],
           [
             "Chest",
             "Pec Deck Fly",
-            "55 kg x 11 @ RIR 1",
+            "55 kg x 12 @ RIR 1",
             "45-55 kg",
-            "55 kg x 11 @ RIR 2",
-            "Improve reserve",
-            "Slow stretch",
+            "55 kg x 12 @ RIR 2",
+            "Improve reserve; no load increase",
+            "Slow stretch; shoulders controlled",
             "In progress",
-            "No load increase"
+            "Build reserve before load"
           ],
           [
             "Biceps",
@@ -5756,13 +6076,13 @@
           [
             "Chest",
             "Incline Barbell Bench Press",
-            "15 kg/side x 8 @ RIR 1; nearly assisted",
+            "15 kg/side x 9 @ RIR 1; unassisted",
             "10-15 kg/side",
-            "15 kg/side x 8 clean @ RIR 2",
-            "Repeat clean before progression",
+            "15 kg/side x 9 @ RIR 2",
+            "Improve reserve before load",
             "Controlled bar path",
-            "Verify clean rep",
-            "Bar excluded; separate from incline dumbbells"
+            "In progress",
+            "Bar excluded; 12.5 kg/side target remains 12 reps"
           ],
           [
             "Chest",
@@ -5807,6 +6127,17 @@
             "Pull only to comfortable height",
             "In progress",
             "Grip and exact effective stack To verify"
+          ],
+          [
+            "Core",
+            "Front Plank",
+            "3 x 60 sec strict",
+            "Body weight",
+            "3 x 60 sec strict",
+            "Add time only after perfect sets",
+            "Glutes tight; ribs down; no hip sag",
+            "In progress",
+            "No lower-back discomfort reported"
           ]
         ]
       },
@@ -6172,16 +6503,16 @@
             null
           ],
           [
+            "2026-08-18",
             "",
             "",
+            "Good",
+            "Medium to low final",
+            "No pain; little lower-biceps pump after final cable fly",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Chest workout - 90 min; medium chest pump; 3 x 60-sec strict plank",
+            "Full EAA+ scoop; no black coffee; no assisted reps; lower-biceps pump side and resolution To verify",
             "",
             "",
             "",
@@ -10460,6 +10791,16 @@
             null,
             null,
             null
+          ],
+          [
+            "Chest volume cap applied",
+            "The 2026-08-18 Chest session used exactly 15 direct sets plus three 60-second plank sets with no assistance",
+            "Multiple exercises progressed while final energy still fell to Medium-Low",
+            "Retain the 15-set chest cap, improve RIR before load, and keep core work separate",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -10638,14 +10979,14 @@
             "Exactly 15 direct sets; no +20 kg hyperextension; use body weight and +10 kg with reserve"
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-18",
+            "Chest",
+            6,
+            18,
+            "Green",
+            "Good sleep; Medium start and Medium-Low final energy; no pain; little lower-biceps pump after final cable fly; medium chest pump; 90 min; no assistance; full EAA+; no coffee; three strict 60-sec planks",
+            "Exactly 15 direct chest sets plus 3 core sets. Incline press, plate press, pec deck and cable fly progressed; flat-bench top set remained unchanged and several early sets were harder than planned.",
+            "Retain 15 direct sets; improve reserve before load; remove 15 kg cable-fly working set; keep 3 x 60-sec strict planks"
           ],
           [
             "",
@@ -10789,9 +11130,9 @@
           [
             "Health",
             "Current pain or movement restrictions",
-            "No joint pain reported through 2026-08-17. Lower-back muscular pump occurred after an unprescribed +20 kg hyperextension set at RIR 0; no pain.",
+            "No joint pain reported through 2026-08-18. A little lower-biceps pump followed the final cable-fly set; exact side and resolution remain To verify.",
             "Partial",
-            "Continue pre-workout checks; avoid +20 kg hyperextensions next session"
+            "Check that the lower-biceps pump resolved before Biceps training"
           ],
           [
             "Goal",
@@ -10866,9 +11207,9 @@
           [
             "Training",
             "Current sequence",
-            "Completed Back on 2026-08-17 in the retained one-body-part split. Next session follows the same split unless Vipin activates the researched Push-Pull-Legs hybrid.",
+            "Completed Chest on 2026-08-18 in the retained one-body-part split. Biceps is next, subject to fresh readiness and confirmation that the lower-biceps pump resolved.",
             "Known",
-            "Confirm readiness before the next scheduled muscle group"
+            "Collect fresh readiness before Biceps"
           ],
           [
             "Training",
@@ -17984,6 +18325,402 @@
         "row": 271,
         "range": "A271"
       }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Flat Bench Press",
+      "Set": 1,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 12,
+      "Form Note": "No assistance; prescribed preparation-set completion To verify",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 272,
+        "range": "A272"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Flat Bench Press",
+      "Set": 2,
+      "Weight": 20,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 10,
+      "Form Note": "No assistance; rep target met but harder than planned",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 273,
+        "range": "A273"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Flat Bench Press",
+      "Set": 3,
+      "Weight": 22.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 7,
+      "Form Note": "No assistance; matched prior result",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 274,
+        "range": "A274"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 1,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 13,
+      "Form Note": "No assistance; performed before plate chest press",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 275,
+        "range": "A275"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 2,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 11,
+      "Form Note": "No assistance; performed before plate chest press",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 276,
+        "range": "A276"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 3,
+      "Weight": 15,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 9,
+      "Form Note": "No assistance; progressed from 8 nearly assisted reps to 9 clean reps",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 277,
+        "range": "A277"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Plate Chest Press",
+      "Set": 1,
+      "Weight": 30,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 15,
+      "Form Note": "Clean and unassisted",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 278,
+        "range": "A278"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Plate Chest Press",
+      "Set": 2,
+      "Weight": 40,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 10,
+      "Form Note": "Clean and unassisted",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 279,
+        "range": "A279"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Plate Chest Press",
+      "Set": 3,
+      "Weight": 45,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 8,
+      "Form Note": "New baseline; explicitly confirmed clean and unassisted",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 280,
+        "range": "A280"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Pec Deck Fly",
+      "Set": 1,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total machine stack",
+      "Reps": 15,
+      "Form Note": "No assistance reported",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 281,
+        "range": "A281"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Pec Deck Fly",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total machine stack",
+      "Reps": 12,
+      "Form Note": "No assistance reported",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 282,
+        "range": "A282"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Pec Deck Fly",
+      "Set": 3,
+      "Weight": 55,
+      "Unit / Load Basis": "kg total machine stack",
+      "Reps": 12,
+      "Form Note": "Progressed from 11 to 12 reps; no assistance",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 283,
+        "range": "A283"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Cable Fly",
+      "Set": 1,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each side; conventional horizontal path",
+      "Reps": 25,
+      "Form Note": "No assistance; load now too light for efficient working use",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 284,
+        "range": "A284"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Cable Fly",
+      "Set": 2,
+      "Weight": 20,
+      "Unit / Load Basis": "kg each side; conventional horizontal path",
+      "Reps": 14,
+      "Form Note": "No assistance; controlled-form detail To verify",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 285,
+        "range": "A285"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Cable Fly",
+      "Set": 3,
+      "Weight": 25,
+      "Unit / Load Basis": "kg each side; conventional horizontal path",
+      "Reps": 12,
+      "Form Note": "No assistance; progressed from 10 to 12 reps",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 286,
+        "range": "A286"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Front Plank",
+      "Set": 1,
+      "Weight": "Body weight",
+      "Unit / Load Basis": "seconds",
+      "Reps": 60,
+      "Form Note": "Strict completion; no hip sag or lower-back discomfort",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Core finisher",
+      "RIR": "To verify",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 287,
+        "range": "A287"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Front Plank",
+      "Set": 2,
+      "Weight": "Body weight",
+      "Unit / Load Basis": "seconds",
+      "Reps": 60,
+      "Form Note": "Strict completion; no hip sag or lower-back discomfort",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Core finisher",
+      "RIR": "To verify",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 288,
+        "range": "A288"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercise": "Front Plank",
+      "Set": 3,
+      "Weight": "Body weight",
+      "Unit / Load Basis": "seconds",
+      "Reps": 60,
+      "Form Note": "Strict completion; no hip sag or lower-back discomfort",
+      "Pain / Soreness": "No pain; little lower-biceps pump after final cable-fly set; exact side and resolution To verify",
+      "Energy": "Medium to low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Core finisher",
+      "RIR": "To verify",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 289,
+        "range": "A289"
+      }
     }
   ],
   "sessions": [
@@ -18194,6 +18931,22 @@
         "row": 17,
         "range": "A17"
       }
+    },
+    {
+      "Date": "2026-08-18",
+      "Workout": "Chest",
+      "Exercises": 6,
+      "Set Entries": 18,
+      "Readiness": "Green",
+      "Recovery Notes": "Good sleep; Medium start and Medium-Low final energy; no pain; little lower-biceps pump after final cable fly; medium chest pump; 90 min; no assistance; full EAA+; no coffee; three strict 60-sec planks",
+      "Coach Assessment": "Exactly 15 direct chest sets plus 3 core sets. Incline press, plate press, pec deck and cable fly progressed; flat-bench top set remained unchanged and several early sets were harder than planned.",
+      "Next-Session Status": "Retain 15 direct sets; improve reserve before load; remove 15 kg cable-fly working set; keep 3 x 60-sec strict planks",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 18,
+        "range": "A18"
+      }
     }
   ],
   "targets": [
@@ -18269,12 +19022,12 @@
       "Muscle": "Chest",
       "Exercise": "Flat Bench Press",
       "Current Best Set": "22.5 kg/side x 7 @ RIR 1",
-      "Current Working Zone": "20-22.5 kg/side",
+      "Current Working Zone": "17.5-22.5 kg/side",
       "Next Target": "22.5 kg/side x 8 @ RIR 1-2",
-      "Progress Rule": "Add reps before load",
+      "Progress Rule": "Improve reserve; add rep before load",
       "Technique Focus": "Shoulder blades set",
       "Status": "In progress",
-      "Notes": "Bar excluded",
+      "Notes": "20 kg/side x 10 reached only RIR 1; bar excluded",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -18302,13 +19055,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Plate Chest Press",
-      "Current Best Set": "40 kg/side x 10 @ RIR 1",
-      "Current Working Zone": "30-40 kg/side",
-      "Next Target": "40 kg/side x 10-11 @ RIR 2",
-      "Progress Rule": "Improve reserve",
+      "Current Best Set": "45 kg/side x 8 @ RIR 1 clean",
+      "Current Working Zone": "30-45 kg/side",
+      "Next Target": "45 kg/side x 9 @ RIR 2",
+      "Progress Rule": "Add clean rep with reserve",
       "Technique Focus": "Controlled eccentric",
       "Status": "In progress",
-      "Notes": "Use as one of maximum 3 presses",
+      "Notes": "New 45 kg/side baseline; clean and unassisted",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -18319,13 +19072,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Cable Fly",
-      "Current Best Set": "25 kg/side x 10 @ RIR 2",
-      "Current Working Zone": "15-25 kg/side",
-      "Next Target": "25 kg/side x 11-12 @ RIR 2",
-      "Progress Rule": "Add clean reps",
-      "Technique Focus": "Hugging arc",
+      "Current Best Set": "25 kg/side x 12 @ RIR 2",
+      "Current Working Zone": "20-25 kg/side",
+      "Next Target": "25 kg/side x 12 for 2 sets @ RIR 2",
+      "Progress Rule": "Remove 15 kg working set; build second top set",
+      "Technique Focus": "Soft elbow bend; hugging arc",
       "Status": "In progress",
-      "Notes": "Clean form confirmed on 2026-08-11",
+      "Notes": "20 kg x 15-18 @ RIR 3, then two 25 kg sets",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -18336,13 +19089,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Pec Deck Fly",
-      "Current Best Set": "55 kg x 11 @ RIR 1",
+      "Current Best Set": "55 kg x 12 @ RIR 1",
       "Current Working Zone": "45-55 kg",
-      "Next Target": "55 kg x 11 @ RIR 2",
-      "Progress Rule": "Improve reserve",
-      "Technique Focus": "Slow stretch",
+      "Next Target": "55 kg x 12 @ RIR 2",
+      "Progress Rule": "Improve reserve; no load increase",
+      "Technique Focus": "Slow stretch; shoulders controlled",
       "Status": "In progress",
-      "Notes": "No load increase",
+      "Notes": "Build reserve before load",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -18812,13 +19565,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Incline Barbell Bench Press",
-      "Current Best Set": "15 kg/side x 8 @ RIR 1; nearly assisted",
+      "Current Best Set": "15 kg/side x 9 @ RIR 1; unassisted",
       "Current Working Zone": "10-15 kg/side",
-      "Next Target": "15 kg/side x 8 clean @ RIR 2",
-      "Progress Rule": "Repeat clean before progression",
+      "Next Target": "15 kg/side x 9 @ RIR 2",
+      "Progress Rule": "Improve reserve before load",
       "Technique Focus": "Controlled bar path",
-      "Status": "Verify clean rep",
-      "Notes": "Bar excluded; separate from incline dumbbells",
+      "Status": "In progress",
+      "Notes": "Bar excluded; 12.5 kg/side target remains 12 reps",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -18892,6 +19645,23 @@
         "sheet": "Exercise Targets",
         "row": 45,
         "range": "A45"
+      }
+    },
+    {
+      "Muscle": "Core",
+      "Exercise": "Front Plank",
+      "Current Best Set": "3 x 60 sec strict",
+      "Current Working Zone": "Body weight",
+      "Next Target": "3 x 60 sec strict",
+      "Progress Rule": "Add time only after perfect sets",
+      "Technique Focus": "Glutes tight; ribs down; no hip sag",
+      "Status": "In progress",
+      "Notes": "No lower-back discomfort reported",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 46,
+        "range": "A46"
       }
     }
   ],
@@ -19154,6 +19924,26 @@
         "sheet": "Recovery & Body",
         "row": 17,
         "range": "A17"
+      }
+    },
+    {
+      "Date": "2026-08-18",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Medium to low final",
+      "Soreness / Pain": "No pain; little lower-biceps pump after final cable fly",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Chest workout - 90 min; medium chest pump; 3 x 60-sec strict plank",
+      "Notes": "Full EAA+ scoop; no black coffee; no assisted reps; lower-biceps pump side and resolution To verify",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 18,
+        "range": "A18"
       }
     }
   ],
@@ -19466,9 +20256,9 @@
     {
       "Category": "Health",
       "Item": "Current pain or movement restrictions",
-      "Current Value": "No joint pain reported through 2026-08-17. Lower-back muscular pump occurred after an unprescribed +20 kg hyperextension set at RIR 0; no pain.",
+      "Current Value": "No joint pain reported through 2026-08-18. A little lower-biceps pump followed the final cable-fly set; exact side and resolution remain To verify.",
       "Status": "Partial",
-      "Why Needed / Next Check": "Continue pre-workout checks; avoid +20 kg hyperextensions next session",
+      "Why Needed / Next Check": "Check that the lower-biceps pump resolved before Biceps training",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -19609,9 +20399,9 @@
     {
       "Category": "Training",
       "Item": "Current sequence",
-      "Current Value": "Completed Back on 2026-08-17 in the retained one-body-part split. Next session follows the same split unless Vipin activates the researched Push-Pull-Legs hybrid.",
+      "Current Value": "Completed Chest on 2026-08-18 in the retained one-body-part split. Biceps is next, subject to fresh readiness and confirmation that the lower-biceps pump resolved.",
       "Status": "Known",
-      "Why Needed / Next Check": "Confirm readiness before the next scheduled muscle group",
+      "Why Needed / Next Check": "Collect fresh readiness before Biceps",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -20205,6 +20995,18 @@
         "sheet": "Program Notes",
         "row": 42,
         "range": "A42"
+      }
+    },
+    {
+      "Category": "Chest volume cap applied",
+      "Rule / Observation": "The 2026-08-18 Chest session used exactly 15 direct sets plus three 60-second plank sets with no assistance",
+      "Why It Matters": "Multiple exercises progressed while final energy still fell to Medium-Low",
+      "Action": "Retain the 15-set chest cap, improve RIR before load, and keep core work separate",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 43,
+        "range": "A43"
       }
     }
   ],
@@ -22739,6 +23541,174 @@
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "tracker-reconciliation-completed-2026-08-18"
+      }
+    },
+    {
+      "id": "md-212",
+      "level": 1,
+      "title": "Chest Workout - 2026-08-18",
+      "anchor": "chest-workout-2026-08-18",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "chest-workout-2026-08-18"
+      }
+    },
+    {
+      "id": "md-213",
+      "level": 2,
+      "title": "Pre-workout readiness",
+      "anchor": "pre-workout-readiness-7",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium**.\n- Chest or shoulder soreness: **None**.\n- Pain: **None reported**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium</strong>.</li>\n<li>Chest or shoulder soreness: <strong>None</strong>.</li>\n<li>Pain: <strong>None reported</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pre-workout-readiness-7"
+      }
+    },
+    {
+      "id": "md-214",
+      "level": 2,
+      "title": "Completed sets",
+      "anchor": "completed-sets-7",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-sets-7"
+      }
+    },
+    {
+      "id": "md-215",
+      "level": 3,
+      "title": "Flat bench press - plates each side; bar excluded",
+      "anchor": "flat-bench-press-plates-each-side-bar-excluded-3",
+      "raw": "| Set | Load | Reps | RIR | Note |\n|---:|---:|---:|---:|---|\n| 1 | 17.5 kg/side | 12 | 2 | Target met |\n| 2 | 20 kg/side | 10 | 1 | Rep target met, but one repetition less in reserve than planned |\n| 3 | 22.5 kg/side | 7 | 1 | Matched the prior session; eight-repetition target remains open |\n\nNo assisted repetitions were reported. Genuine preparation sets were prescribed, but their completion details were not reported and remain **To verify**; they are not added as completed working sets.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">17.5 kg/side</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Target met</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">20 kg/side</td>\n<td align=\"right\">10</td>\n<td align=\"right\">1</td>\n<td>Rep target met, but one repetition less in reserve than planned</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">22.5 kg/side</td>\n<td align=\"right\">7</td>\n<td align=\"right\">1</td>\n<td>Matched the prior session; eight-repetition target remains open</td>\n</tr>\n</tbody></table>\n<p>No assisted repetitions were reported. Genuine preparation sets were prescribed, but their completion details were not reported and remain <strong>To verify</strong>; they are not added as completed working sets.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "flat-bench-press-plates-each-side-bar-excluded-3"
+      }
+    },
+    {
+      "id": "md-216",
+      "level": 3,
+      "title": "Incline barbell bench press - plates each side; bar excluded",
+      "anchor": "incline-barbell-bench-press-plates-each-side-bar-excluded-2",
+      "raw": "This exercise was performed before the plate-loaded chest press.\n\n| Set | Load | Reps | RIR | Note |\n|---:|---:|---:|---:|---|\n| 1 | 10 kg/side | 13 | 2 | One extra repetition, but harder than the planned RIR 3 |\n| 2 | 12.5 kg/side | 11 | 2 | One repetition below target |\n| 3 | 15 kg/side | 9 | 1 | Progressed from eight nearly assisted repetitions to nine without assistance |",
+      "html": "<p>This exercise was performed before the plate-loaded chest press.</p>\n<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">10 kg/side</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n<td>One extra repetition, but harder than the planned RIR 3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">12.5 kg/side</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n<td>One repetition below target</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">15 kg/side</td>\n<td align=\"right\">9</td>\n<td align=\"right\">1</td>\n<td>Progressed from eight nearly assisted repetitions to nine without assistance</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "incline-barbell-bench-press-plates-each-side-bar-excluded-2"
+      }
+    },
+    {
+      "id": "md-217",
+      "level": 3,
+      "title": "Plate-loaded converging chest press - plates each side",
+      "anchor": "plate-loaded-converging-chest-press-plates-each-side-3",
+      "raw": "| Set | Load | Reps | RIR | Note |\n|---:|---:|---:|---:|---|\n| 1 | 30 kg/side | 15 | 2 | Rep target met, but harder than the planned RIR 3 |\n| 2 | 40 kg/side | 10 | 2 | Target met exactly |\n| 3 | 45 kg/side | 8 | 1 | New load baseline; explicitly confirmed clean and unassisted |",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">30 kg/side</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n<td>Rep target met, but harder than the planned RIR 3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">40 kg/side</td>\n<td align=\"right\">10</td>\n<td align=\"right\">2</td>\n<td>Target met exactly</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">45 kg/side</td>\n<td align=\"right\">8</td>\n<td align=\"right\">1</td>\n<td>New load baseline; explicitly confirmed clean and unassisted</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "plate-loaded-converging-chest-press-plates-each-side-3"
+      }
+    },
+    {
+      "id": "md-218",
+      "level": 3,
+      "title": "Pec deck fly - total machine-stack weight",
+      "anchor": "pec-deck-fly-total-machine-stack-weight-2",
+      "raw": "| Set | Load | Reps | RIR | Note |\n|---:|---:|---:|---:|---|\n| 1 | 45 kg | 15 | 2 | Reps met; one repetition less in reserve than planned |\n| 2 | 50 kg | 12 | 2 | Target met |\n| 3 | 55 kg | 12 | 1 | Progressed from 11 to 12 repetitions |",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n<td>Reps met; one repetition less in reserve than planned</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Target met</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">55 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">1</td>\n<td>Progressed from 11 to 12 repetitions</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pec-deck-fly-total-machine-stack-weight-2"
+      }
+    },
+    {
+      "id": "md-219",
+      "level": 3,
+      "title": "Conventional horizontal cable fly - weight each side",
+      "anchor": "conventional-horizontal-cable-fly-weight-each-side-2",
+      "raw": "| Set | Load | Reps | RIR | Note |\n|---:|---:|---:|---:|---|\n| 1 | 15 kg/side | 25 | 3 | Well above the prescribed range; no longer an efficient working load |\n| 2 | 20 kg/side | 14 | 2 | One repetition below target |\n| 3 | 25 kg/side | 12 | 2 | Progressed from 10 to 12 clean repetitions |",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Note</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">15 kg/side</td>\n<td align=\"right\">25</td>\n<td align=\"right\">3</td>\n<td>Well above the prescribed range; no longer an efficient working load</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">20 kg/side</td>\n<td align=\"right\">14</td>\n<td align=\"right\">2</td>\n<td>One repetition below target</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">25 kg/side</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Progressed from 10 to 12 clean repetitions</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "conventional-horizontal-cable-fly-weight-each-side-2"
+      }
+    },
+    {
+      "id": "md-220",
+      "level": 3,
+      "title": "Front plank - body weight",
+      "anchor": "front-plank-body-weight",
+      "raw": "| Set | Duration | Form / pain |\n|---:|---:|---|\n| 1 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |\n| 2 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |\n| 3 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |\n\nThese core sets were completed after the 15 direct chest sets and are retained separately as finisher/core work.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Duration</th>\n<th>Form / pain</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">60 seconds</td>\n<td>Strict completion reported; no hip sag or lower-back discomfort</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">60 seconds</td>\n<td>Strict completion reported; no hip sag or lower-back discomfort</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">60 seconds</td>\n<td>Strict completion reported; no hip sag or lower-back discomfort</td>\n</tr>\n</tbody></table>\n<p>These core sets were completed after the 15 direct chest sets and are retained separately as finisher/core work.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "front-plank-body-weight"
+      }
+    },
+    {
+      "id": "md-221",
+      "level": 2,
+      "title": "Post-workout recovery",
+      "anchor": "post-workout-recovery-7",
+      "raw": "- Final energy: **Medium to Low**.\n- Duration: **Approximately 1 hour 30 minutes**.\n- Chest pump: **Medium**.\n- Assisted repetitions: **None**.\n- Pain: **None reported**.\n- Additional sensation: **A little pump in the lower biceps after the final cable-fly set**. This is preserved as reported and is not classified as pain. Exact side and whether it resolved after the session remain **To verify**.\n- Plank form: **All three sets completed without hip sag or lower-back discomfort**.",
+      "html": "<ul>\n<li>Final energy: <strong>Medium to Low</strong>.</li>\n<li>Duration: <strong>Approximately 1 hour 30 minutes</strong>.</li>\n<li>Chest pump: <strong>Medium</strong>.</li>\n<li>Assisted repetitions: <strong>None</strong>.</li>\n<li>Pain: <strong>None reported</strong>.</li>\n<li>Additional sensation: <strong>A little pump in the lower biceps after the final cable-fly set</strong>. This is preserved as reported and is not classified as pain. Exact side and whether it resolved after the session remain <strong>To verify</strong>.</li>\n<li>Plank form: <strong>All three sets completed without hip sag or lower-back discomfort</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "post-workout-recovery-7"
+      }
+    },
+    {
+      "id": "md-222",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-10",
+      "raw": "This session successfully applied the revised volume structure: exactly **15 direct chest working sets**, no assisted repetitions, three pressing movements and only one cable-fly angle. The three plank sets were separate core work. This was a better stimulus-to-fatigue structure than the 18-set Chest session on 2026-08-11.\n\nSeveral meaningful improvements occurred. Incline barbell press advanced from 15 kg/side x 8 with a nearly assisted finish to 15 kg/side x 9 with no assistance. The plate-loaded press established a clean 45 kg/side x 8 baseline. Pec deck improved from 55 kg x 11 to 55 kg x 12, and cable fly improved from 25 kg/side x 10 to 25 kg/side x 12 at RIR 2.\n\nFlat bench did not fully meet its progression target: 20 kg/side reached 10 repetitions but at RIR 1 rather than RIR 2, and 22.5 kg/side remained at seven repetitions. The 15 kg/side cable-fly set reached 25 repetitions at RIR 3 and should no longer be used as a direct working set. Final energy still declined from Medium to Medium-Low, so the next Chest session should retain the same 15-set cap and earn better reserve before adding load.",
+      "html": "<p>This session successfully applied the revised volume structure: exactly <strong>15 direct chest working sets</strong>, no assisted repetitions, three pressing movements and only one cable-fly angle. The three plank sets were separate core work. This was a better stimulus-to-fatigue structure than the 18-set Chest session on 2026-08-11.</p>\n<p>Several meaningful improvements occurred. Incline barbell press advanced from 15 kg/side x 8 with a nearly assisted finish to 15 kg/side x 9 with no assistance. The plate-loaded press established a clean 45 kg/side x 8 baseline. Pec deck improved from 55 kg x 11 to 55 kg x 12, and cable fly improved from 25 kg/side x 10 to 25 kg/side x 12 at RIR 2.</p>\n<p>Flat bench did not fully meet its progression target: 20 kg/side reached 10 repetitions but at RIR 1 rather than RIR 2, and 22.5 kg/side remained at seven repetitions. The 15 kg/side cable-fly set reached 25 repetitions at RIR 3 and should no longer be used as a direct working set. Final energy still declined from Medium to Medium-Low, so the next Chest session should retain the same 15-set cap and earn better reserve before adding load.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-10"
+      }
+    },
+    {
+      "id": "md-223",
+      "level": 2,
+      "title": "Next Chest-session targets",
+      "anchor": "next-chest-session-targets-2",
+      "raw": "| Exercise | Next target |\n|---|---|\n| Flat bench press | Use genuine low-fatigue preparation sets; 17.5 kg/side x 12 @ RIR 3; 20 kg/side x 10 @ RIR 2; 22.5 kg/side x 8 @ RIR 1-2, clean and unassisted |\n| Incline barbell bench press | 10 kg/side x 12-13 @ RIR 3; 12.5 kg/side x 12 @ RIR 2; 15 kg/side x 9 @ RIR 2; do not add load yet |\n| Plate-loaded chest press | 30 kg/side x 15 @ RIR 3; 40 kg/side x 10-11 @ RIR 2; 45 kg/side x 9 @ RIR 2 |\n| Pec deck fly | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2-3; 55 kg x 12 @ RIR 2; do not increase load |\n| Conventional cable fly | Remove the 15 kg/side working set. Use 20 kg/side x 15-18 @ RIR 3, then two 25 kg/side sets of 10-12 @ RIR 2. Do not add load until both 25 kg sets are clean. |\n| Front plank | Retain 3 x 60 seconds with strict alignment. Add time only after all three sets remain free of hip sag and lower-back discomfort. |\n\nThe next Chest session remains capped at **15 direct working sets plus up to three strict plank sets**. Biceps is next in the retained one-body-part split, subject to a fresh readiness check.",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Flat bench press</td>\n<td>Use genuine low-fatigue preparation sets; 17.5 kg/side x 12 @ RIR 3; 20 kg/side x 10 @ RIR 2; 22.5 kg/side x 8 @ RIR 1-2, clean and unassisted</td>\n</tr>\n<tr>\n<td>Incline barbell bench press</td>\n<td>10 kg/side x 12-13 @ RIR 3; 12.5 kg/side x 12 @ RIR 2; 15 kg/side x 9 @ RIR 2; do not add load yet</td>\n</tr>\n<tr>\n<td>Plate-loaded chest press</td>\n<td>30 kg/side x 15 @ RIR 3; 40 kg/side x 10-11 @ RIR 2; 45 kg/side x 9 @ RIR 2</td>\n</tr>\n<tr>\n<td>Pec deck fly</td>\n<td>45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2-3; 55 kg x 12 @ RIR 2; do not increase load</td>\n</tr>\n<tr>\n<td>Conventional cable fly</td>\n<td>Remove the 15 kg/side working set. Use 20 kg/side x 15-18 @ RIR 3, then two 25 kg/side sets of 10-12 @ RIR 2. Do not add load until both 25 kg sets are clean.</td>\n</tr>\n<tr>\n<td>Front plank</td>\n<td>Retain 3 x 60 seconds with strict alignment. Add time only after all three sets remain free of hip sag and lower-back discomfort.</td>\n</tr>\n</tbody></table>\n<p>The next Chest session remains capped at <strong>15 direct working sets plus up to three strict plank sets</strong>. Biceps is next in the retained one-body-part split, subject to a fresh readiness check.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-chest-session-targets-2"
+      }
+    },
+    {
+      "id": "md-224",
+      "level": 2,
+      "title": "Tracker status after 2026-08-18 Chest session",
+      "anchor": "tracker-status-after-2026-08-18-chest-session",
+      "raw": "- Markdown workout history: **Updated**.\n- Canonical Excel tracker: **Pending this session's reconciliation**.\n- Public dashboard: **Pending synchronization and deployment**.",
+      "html": "<ul>\n<li>Markdown workout history: <strong>Updated</strong>.</li>\n<li>Canonical Excel tracker: <strong>Pending this session&#39;s reconciliation</strong>.</li>\n<li>Public dashboard: <strong>Pending synchronization and deployment</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-status-after-2026-08-18-chest-session"
+      }
+    },
+    {
+      "id": "md-225",
+      "level": 2,
+      "title": "Tracker reconciliation completed - 2026-08-18 Chest session",
+      "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session",
+      "raw": "- The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.\n- No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.\n- The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain **To verify**.\n- Markdown workout history: **Updated through 2026-08-18**.\n- Canonical Excel tracker: **Updated and verified through 2026-08-18**.\n- Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.",
+      "html": "<ul>\n<li>The 18 completed entries were reconciled as <strong>15 direct Chest working sets plus three Front Plank core-finisher sets</strong>.</li>\n<li>No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.</li>\n<li>The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain <strong>To verify</strong>.</li>\n<li>Markdown workout history: <strong>Updated through 2026-08-18</strong>.</li>\n<li>Canonical Excel tracker: <strong>Updated and verified through 2026-08-18</strong>.</li>\n<li>Website source dataset: <strong>Regenerated from the canonical files for the current deployment pipeline</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session"
       }
     }
   ],

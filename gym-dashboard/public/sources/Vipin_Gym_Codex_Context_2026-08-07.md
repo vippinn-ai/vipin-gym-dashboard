@@ -1650,3 +1650,116 @@ The next Back session is capped at **15 working sets** plus genuine preparation 
 - The previously written Back target above is preserved as historical coaching text. After reviewing the Low final energy, lower-back pump and RIR 0 result, the safer current Hyperextension target for the **next** Back session is only two working entries: body weight x 15 near RIR 3 and body weight +10 kg x 12-15 at RIR 2. Do not use +15 kg or +20 kg in that next session. Reassess progression after a pump-free, pain-free session.
 - Markdown workout history: **Updated through 2026-08-17**.
 - Canonical Excel tracker: **Updated and verified through 2026-08-17**.
+
+# Chest Workout - 2026-08-18
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Chest or shoulder soreness: **None**.
+- Pain: **None reported**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+
+## Completed sets
+
+### Flat bench press - plates each side; bar excluded
+
+| Set | Load | Reps | RIR | Note |
+|---:|---:|---:|---:|---|
+| 1 | 17.5 kg/side | 12 | 2 | Target met |
+| 2 | 20 kg/side | 10 | 1 | Rep target met, but one repetition less in reserve than planned |
+| 3 | 22.5 kg/side | 7 | 1 | Matched the prior session; eight-repetition target remains open |
+
+No assisted repetitions were reported. Genuine preparation sets were prescribed, but their completion details were not reported and remain **To verify**; they are not added as completed working sets.
+
+### Incline barbell bench press - plates each side; bar excluded
+
+This exercise was performed before the plate-loaded chest press.
+
+| Set | Load | Reps | RIR | Note |
+|---:|---:|---:|---:|---|
+| 1 | 10 kg/side | 13 | 2 | One extra repetition, but harder than the planned RIR 3 |
+| 2 | 12.5 kg/side | 11 | 2 | One repetition below target |
+| 3 | 15 kg/side | 9 | 1 | Progressed from eight nearly assisted repetitions to nine without assistance |
+
+### Plate-loaded converging chest press - plates each side
+
+| Set | Load | Reps | RIR | Note |
+|---:|---:|---:|---:|---|
+| 1 | 30 kg/side | 15 | 2 | Rep target met, but harder than the planned RIR 3 |
+| 2 | 40 kg/side | 10 | 2 | Target met exactly |
+| 3 | 45 kg/side | 8 | 1 | New load baseline; explicitly confirmed clean and unassisted |
+
+### Pec deck fly - total machine-stack weight
+
+| Set | Load | Reps | RIR | Note |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 15 | 2 | Reps met; one repetition less in reserve than planned |
+| 2 | 50 kg | 12 | 2 | Target met |
+| 3 | 55 kg | 12 | 1 | Progressed from 11 to 12 repetitions |
+
+### Conventional horizontal cable fly - weight each side
+
+| Set | Load | Reps | RIR | Note |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg/side | 25 | 3 | Well above the prescribed range; no longer an efficient working load |
+| 2 | 20 kg/side | 14 | 2 | One repetition below target |
+| 3 | 25 kg/side | 12 | 2 | Progressed from 10 to 12 clean repetitions |
+
+### Front plank - body weight
+
+| Set | Duration | Form / pain |
+|---:|---:|---|
+| 1 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |
+| 2 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |
+| 3 | 60 seconds | Strict completion reported; no hip sag or lower-back discomfort |
+
+These core sets were completed after the 15 direct chest sets and are retained separately as finisher/core work.
+
+## Post-workout recovery
+
+- Final energy: **Medium to Low**.
+- Duration: **Approximately 1 hour 30 minutes**.
+- Chest pump: **Medium**.
+- Assisted repetitions: **None**.
+- Pain: **None reported**.
+- Additional sensation: **A little pump in the lower biceps after the final cable-fly set**. This is preserved as reported and is not classified as pain. Exact side and whether it resolved after the session remain **To verify**.
+- Plank form: **All three sets completed without hip sag or lower-back discomfort**.
+
+## Coaching assessment
+
+This session successfully applied the revised volume structure: exactly **15 direct chest working sets**, no assisted repetitions, three pressing movements and only one cable-fly angle. The three plank sets were separate core work. This was a better stimulus-to-fatigue structure than the 18-set Chest session on 2026-08-11.
+
+Several meaningful improvements occurred. Incline barbell press advanced from 15 kg/side x 8 with a nearly assisted finish to 15 kg/side x 9 with no assistance. The plate-loaded press established a clean 45 kg/side x 8 baseline. Pec deck improved from 55 kg x 11 to 55 kg x 12, and cable fly improved from 25 kg/side x 10 to 25 kg/side x 12 at RIR 2.
+
+Flat bench did not fully meet its progression target: 20 kg/side reached 10 repetitions but at RIR 1 rather than RIR 2, and 22.5 kg/side remained at seven repetitions. The 15 kg/side cable-fly set reached 25 repetitions at RIR 3 and should no longer be used as a direct working set. Final energy still declined from Medium to Medium-Low, so the next Chest session should retain the same 15-set cap and earn better reserve before adding load.
+
+## Next Chest-session targets
+
+| Exercise | Next target |
+|---|---|
+| Flat bench press | Use genuine low-fatigue preparation sets; 17.5 kg/side x 12 @ RIR 3; 20 kg/side x 10 @ RIR 2; 22.5 kg/side x 8 @ RIR 1-2, clean and unassisted |
+| Incline barbell bench press | 10 kg/side x 12-13 @ RIR 3; 12.5 kg/side x 12 @ RIR 2; 15 kg/side x 9 @ RIR 2; do not add load yet |
+| Plate-loaded chest press | 30 kg/side x 15 @ RIR 3; 40 kg/side x 10-11 @ RIR 2; 45 kg/side x 9 @ RIR 2 |
+| Pec deck fly | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2-3; 55 kg x 12 @ RIR 2; do not increase load |
+| Conventional cable fly | Remove the 15 kg/side working set. Use 20 kg/side x 15-18 @ RIR 3, then two 25 kg/side sets of 10-12 @ RIR 2. Do not add load until both 25 kg sets are clean. |
+| Front plank | Retain 3 x 60 seconds with strict alignment. Add time only after all three sets remain free of hip sag and lower-back discomfort. |
+
+The next Chest session remains capped at **15 direct working sets plus up to three strict plank sets**. Biceps is next in the retained one-body-part split, subject to a fresh readiness check.
+
+## Tracker status after 2026-08-18 Chest session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Pending this session's reconciliation**.
+- Public dashboard: **Pending synchronization and deployment**.
+
+## Tracker reconciliation completed - 2026-08-18 Chest session
+
+- The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.
+- No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.
+- The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain **To verify**.
+- Markdown workout history: **Updated through 2026-08-18**.
+- Canonical Excel tracker: **Updated and verified through 2026-08-18**.
+- Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.
