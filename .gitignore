@@ -1,0 +1,16 @@
+# Local build and dependency artifacts
+node_modules/
+gym-dashboard/node_modules/
+gym-dashboard/dist/
+*.tsbuildinfo
+
+# Local workbook inspection and scratch outputs
+*.inspect.ndjson
+inspect.mjs
+backups/
+outputs/
+work/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
