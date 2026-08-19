@@ -8,6 +8,9 @@ export function Overview() {
   const latest = [...data.sessions].sort((a, b) => str(b, 'Date').localeCompare(str(a, 'Date')))[0]
   const exercises = new Set(data.journal.map((row) => str(row, 'Exercise')).filter(Boolean))
   const latestRecovery = [...data.recovery].filter((row) => str(row, 'Date')).sort((a, b) => str(b, 'Date').localeCompare(str(a, 'Date')))[0]
+  const latestBodyMetric = [...data.recovery]
+    .filter((row) => str(row, 'Date') && num(row, 'Weight (kg)') > 0)
+    .sort((a, b) => str(b, 'Date').localeCompare(str(a, 'Date')))[0]
   const knownProtein = data.protein.reduce((sum, row) => sum + num(row, 'Calculated protein (g)'), 0)
   const workload = data.sessions.map((row) => ({ date: str(row, 'Date').slice(5), sets: num(row, 'Set Entries'), workout: str(row, 'Workout') }))
   const priorities = data.programNotes.slice(-4)
@@ -27,7 +30,7 @@ export function Overview() {
       <Stat label="Logged sessions" value={data.sessions.length} note="complete session summaries"/>
       <Stat label="Set entries" value={data.journal.length} note={`${exercises.size} distinct exercises`} accent/>
       <Stat label="Quantified protein" value={`${knownProtein.toFixed(1)} g`} note="minimum; incomplete foods excluded"/>
-      <Stat label="Current weight" value={`${str(latestRecovery, 'Weight (kg)') || '88.8'} kg`} note="standardized morning baseline"/>
+      <Stat label="Current weight" value={`${str(latestBodyMetric, 'Weight (kg)') || 'To verify'} kg`} note="latest standardized morning reading"/>
     </section>
 
     <div className="two-column">
