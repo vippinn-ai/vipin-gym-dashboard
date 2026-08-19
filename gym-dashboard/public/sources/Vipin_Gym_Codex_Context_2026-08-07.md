@@ -1755,6 +1755,13 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 - Canonical Excel tracker: **Pending this session's reconciliation**.
 - Public dashboard: **Pending synchronization and deployment**.
 
+## Tracker reconciliation completed - 2026-08-19 Biceps session
+
+- Canonical Excel tracker: **Updated and verified** with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.
+- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
+- Website source dataset: **Regenerated** from the canonical Markdown and workbook with 303 journal entries and 15 completed sessions.
+- Historical workout records, clean/assisted distinctions and all existing `To verify` flags remain preserved.
+
 ## Tracker reconciliation completed - 2026-08-18 Chest session
 
 - The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.
@@ -1763,3 +1770,126 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 - Markdown workout history: **Updated through 2026-08-18**.
 - Canonical Excel tracker: **Updated and verified through 2026-08-18**.
 - Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.
+
+# Standardized Sunday Measurement Check-In - 2026-08-16
+
+- Morning body weight: **88.3 kg**.
+- Waist at navel: **38 in (96.5 cm)**.
+- Measurement conditions: **After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level**.
+- Status: **Verified standardized check-in**.
+- Change from the 2026-08-09 standardized baseline: **-0.5 kg body weight and -2.6 cm waist (-1 in)**.
+- Photos: **Not supplied for this check-in; existing photo status remains unchanged**.
+
+This is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.
+
+# Biceps Workout - 2026-08-19
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium to high**.
+- Lower-biceps pump following the 2026-08-18 Chest session: **Resolved**.
+- Elbow, wrist or shoulder pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+
+## Completed sets
+
+### Straight-bar curl - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 15 | 3 |
+| 2 | 10 kg/side | 13 | 2 |
+| 3 | 12.5 kg/side | 11 | 2 |
+| 4 | 15 kg/side | 8 | 2 |
+
+All four entries were working sets. The top set progressed from 15 kg/side x 7 at RIR 1 to eight repetitions at RIR 2. The additional fourth set was retained because total session volume was subsequently balanced to 18 working sets.
+
+### Incline dumbbell curl - weight per dumbbell
+
+Incline dumbbell curls replaced cable curls for this session and establish a new tracked baseline.
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg | 15 | 2 |
+| 2 | 10 kg | 13 | 2 |
+| 3 | 12.5 kg | 9 | 2 |
+
+Vipin confirmed that the incline and concentration curls were clean and controlled. No shoulder pain was reported.
+
+### Plate-loaded curl machine - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 15 | 3 |
+| 2 | 10 kg/side | 12 | 2 |
+| 3 | 12.5 kg/side | 10 | 2 |
+
+The prescribed repetitions and reserves were met exactly. The top set improved from 12.5 kg/side x 9 at RIR 1 to ten repetitions at RIR 2.
+
+### Hammer dumbbell curl - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 12.5 kg | 17 | 2 |
+| 2 | 15 kg | 13 | 2 |
+| 3 | 17.5 kg | 11 | 2 |
+
+The 12.5 kg set progressed by two repetitions. The 17.5 kg set retained 11 repetitions while improving from RIR 1 to RIR 2.
+
+### Concentration curl - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg | 16 | 3 |
+| 2 | 10 kg | 13 | 2 |
+| 3 | 12.5 kg | 10 | 1 |
+
+The 12.5 kg set was an unplanned third concentration-curl set, but it progressed from nine to ten repetitions without assistance or body swing. Reverse-curl volume was reduced to preserve the overall set cap.
+
+### Reverse EZ-bar curl - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 13 | 1 |
+| 2 | 10 kg/side | 11 | 1 |
+
+Both rep targets were reached, but each set finished one repetition closer to failure than planned. Only two sets were used so that the session remained at 18 working sets.
+
+## Post-workout recovery
+
+- Biceps sensation: **Usual overall muscular sensation; no unusual localized lower-biceps symptom**.
+- Elbow, wrist or shoulder pain: **None**.
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 30 minutes**.
+- Assisted repetitions or body swinging: **None**.
+- Biceps pump: **Medium to high**.
+- Incline and concentration curls: **Confirmed clean and controlled**.
+
+## Coaching assessment
+
+This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly **18 working sets**, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was **three sets at RIR 3, twelve at RIR 2 and three at RIR 1**. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.
+
+Performance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.
+
+Final energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.
+
+## Next Biceps-session targets
+
+| Exercise | Next target |
+|---|---|
+| Straight-bar curl | Use a genuine easy preparation set separately; 10 kg/side x 13 @ RIR 3; 12.5 kg/side x 11-12 @ RIR 2; 15 kg/side x 9 @ RIR 2. Exactly three working sets. |
+| Incline dumbbell curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 13-14 @ RIR 2; 12.5 kg each x 10 @ RIR 2. Keep the bench around 45-60 degrees and do not force the bottom stretch. |
+| Plate-loaded curl machine | 7.5 kg/side x 15 @ RIR 3; 10 kg/side x 12-13 @ RIR 2; 12.5 kg/side x 11 @ RIR 2. |
+| Hammer curl | 12.5 kg each x 15-17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2. |
+| Concentration curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 10 @ RIR 2. No failure. |
+| Reverse EZ-bar curl | 5 kg/side x 15 @ RIR 3; 7.5 kg/side x 13 @ RIR 2; 10 kg/side x 11 @ RIR 2. |
+
+The next Biceps session remains capped at **18 working sets**, exactly three per exercise. Incline dumbbell curl replaces cable curl in the active six-exercise sequence; the historical cable-curl data remains preserved. Legs is next in the retained one-body-part split, subject to a fresh readiness check.
+
+## Tracker status after 2026-08-19 Biceps session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Pending this session's reconciliation**.
+- Public dashboard: **Pending synchronization and deployment**.

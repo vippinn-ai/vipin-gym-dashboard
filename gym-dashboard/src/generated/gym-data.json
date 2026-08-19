@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T16:30:07.215Z",
+  "generatedAt": "2026-08-19T16:12:40.957Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "b17b85c4c7e916415d59bc2b3d364ff344a5834c8253776a5f90ce503dbed22e"
+      "sha256": "f416a060516e6c5d8e909d7d7db1db5084d9c992c71e1fdde158537e2feb45b4"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "ccc375fbb4c285f361096874aa43039607bc0afe81b1d5c5e19f7e331eaa6a96"
+      "sha256": "760e331600f6eb0a2a5ca716d3d915459055bfe8bae988ab5f29822822ea51e7"
     }
   ],
   "workbook": {
@@ -219,15 +219,15 @@
             "",
             "",
             "Biceps",
-            12
+            18
           ],
           [
             "",
             "",
             "",
-            14,
+            15,
             "",
-            52,
+            53,
             "",
             "",
             "",
@@ -237,7 +237,7 @@
           ],
           [
             "",
-            "88.8 kg (2026-08-09)",
+            "88.3 kg (2026-08-16)",
             "",
             "",
             "",
@@ -449,10 +449,24 @@
             "",
             "",
             "",
-            "",
+            "Biceps",
             "Straight Bar Curl",
-            "15 kg/side x 7 @ RIR 1",
             "15 kg/side x 8 @ RIR 2",
+            "15 kg/side x 9 @ RIR 2",
+            "In progress",
+            "Bar excluded; exactly 3 working sets",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Biceps",
+            "Hammer Curl",
+            "17.5 kg each x 11 @ RIR 2",
+            "17.5 kg each x 12 @ RIR 2",
             "In progress",
             "No body swing",
             "",
@@ -463,40 +477,26 @@
             "",
             "",
             "",
-            "",
-            "Hammer Curl",
-            "17.5 kg x 11 @ RIR 1",
-            "17.5 kg x 12 @ RIR 2",
-            "In progress",
-            "Each dumbbell",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
-            "",
-            "",
-            "Hack Squat",
-            "60 kg/side x 10 @ RIR 1",
-            "60 kg/side x 10 @ RIR 2",
-            "In progress",
-            "Keep depth/control",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
-            "",
-            "",
-            "Leg Press",
-            "150 kg: 4 clean + 4 assisted",
-            "130 kg x 11-12 @ RIR 2",
+            "Biceps",
+            "Concentration Curl",
+            "12.5 kg each x 10 @ RIR 1",
+            "12.5 kg each x 10 @ RIR 2",
             "Modify effort",
-            "No hand assistance",
+            "No assistance or body swing",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Biceps",
+            "Reverse EZ Curl",
+            "10 kg/side x 11 @ RIR 1",
+            "10 kg/side x 11 @ RIR 2",
+            "Modify effort",
+            "Bar excluded; preserve the 18-set cap",
             "",
             "",
             ""
@@ -5132,292 +5132,292 @@
             "To verify"
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Straight Bar Curl",
+            1,
+            7.5,
+            "kg plates each side; bar excluded",
+            15,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            3
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Straight Bar Curl",
+            2,
+            10,
+            "kg plates each side; bar excluded",
+            13,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Straight Bar Curl",
+            3,
+            12.5,
+            "kg plates each side; bar excluded",
+            11,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Straight Bar Curl",
+            4,
+            15,
+            "kg plates each side; bar excluded",
+            8,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Progressed from 7 reps at RIR 1 to 8 reps at RIR 2",
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            1,
+            7.5,
+            "kg each dumbbell",
+            15,
+            "Clean and controlled; no shoulder pain",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            2,
+            10,
+            "kg each dumbbell",
+            13,
+            "Clean and controlled; no shoulder pain",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            3,
+            12.5,
+            "kg each dumbbell",
+            9,
+            "Clean and controlled; no shoulder pain",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "New tracked baseline; replaced Cable Curl in active sequence",
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Plate Curl Machine",
+            1,
+            7.5,
+            "kg plates each side",
+            15,
+            "Clean and controlled",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            3
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Plate Curl Machine",
+            2,
+            10,
+            "kg plates each side",
+            12,
+            "Clean and controlled",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Plate Curl Machine",
+            3,
+            12.5,
+            "kg plates each side",
+            10,
+            "Clean and controlled",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Progressed from 9 reps at RIR 1 to 10 reps at RIR 2",
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Hammer Curl",
+            1,
+            12.5,
+            "kg each dumbbell",
+            17,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Progressed from 15 to 17 reps",
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Hammer Curl",
+            2,
+            15,
+            "kg each dumbbell",
+            13,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Hammer Curl",
+            3,
+            17.5,
+            "kg each dumbbell",
+            11,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Maintained reps while improving from RIR 1 to RIR 2",
+            "Working",
+            2
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Concentration Curl",
+            1,
+            7.5,
+            "kg each dumbbell",
+            16,
+            "Clean and controlled; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            3
           ],
           [
+            "2026-08-19",
+            "Biceps",
+            "Concentration Curl",
+            2,
+            10,
+            "kg each dumbbell",
+            13,
+            "Clean and controlled; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Concentration Curl",
+            3,
+            12.5,
+            "kg each dumbbell",
+            10,
+            "Clean and controlled; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Unplanned third set; progressed from 9 to 10 reps without failure",
+            "Working",
+            1
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Reverse EZ-Bar Curl",
+            1,
+            7.5,
+            "kg plates each side; bar excluded",
+            13,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Rep target met but one RIR harder than planned",
+            "Working",
+            1
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            "Reverse EZ-Bar Curl",
+            2,
+            10,
+            "kg plates each side; bar excluded",
+            11,
+            "Clean; no assistance or body swing",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+            "Low final",
+            "Good",
+            "Only two sets used to preserve the 18-set cap",
+            "Working",
+            1
           ],
           [
             "",
@@ -5790,57 +5790,57 @@
           [
             "Biceps",
             "Hammer Curl",
-            "17.5 kg each x 11 @ RIR 1",
-            "15-17.5 kg",
-            "17.5 kg x 12 @ RIR 2",
+            "17.5 kg each x 11 @ RIR 2",
+            "12.5-17.5 kg each",
+            "17.5 kg each x 12 @ RIR 2",
             "Add reps with reserve",
-            "Neutral wrists",
+            "Neutral wrists; no swing",
             "In progress",
-            "Each dumbbell"
+            "12.5 kg reached 17 reps at RIR 2"
           ],
           [
             "Biceps",
             "Plate Curl Machine",
-            "12.5 kg/side x 9 @ RIR 1",
-            "7.5-12.5 kg/side",
             "12.5 kg/side x 10 @ RIR 2",
+            "7.5-12.5 kg/side",
+            "12.5 kg/side x 11 @ RIR 2",
             "Add clean rep",
             "Upper arm fixed",
             "In progress",
-            "12.5 kg/side verified; historical 10.25 preserved"
+            "Plates each side"
           ],
           [
             "Biceps",
             "Cable Curl",
             "40 kg x 10 @ RIR 1",
-            "35-40 kg",
-            "40 kg x 10-11 @ RIR 2",
-            "Improve reserve",
+            "Historical baseline",
+            "Not in active sequence",
+            "Preserve history",
             "Elbows close",
-            "In progress",
-            "No load increase"
+            "Replaced",
+            "Incline Dumbbell Curl now occupies this active slot"
           ],
           [
             "Biceps",
             "Reverse EZ Curl",
-            "10 kg/side x 10 @ RIR 1",
-            "7.5-10 kg/side",
+            "10 kg/side x 11 @ RIR 1",
+            "5-10 kg/side",
             "10 kg/side x 11 @ RIR 2",
-            "Add reps with reserve",
+            "Improve reserve",
             "Wrists neutral",
-            "In progress",
-            ""
+            "Modify effort",
+            "Bar excluded; only 2 sets used to preserve session cap"
           ],
           [
             "Biceps",
             "Concentration Curl",
-            "12.5 kg x 9 @ RIR 1",
-            "7.5-10 kg strict",
-            "10 kg x 12 @ RIR 2",
-            "Avoid failure",
+            "12.5 kg each x 10 @ RIR 1",
+            "7.5-12.5 kg each",
+            "12.5 kg each x 10 @ RIR 2",
+            "Improve reserve; no failure",
             "Elbow fixed; no swing",
             "Modify effort",
-            "10 kg reached RIR 0; 12.5 kg is history, not next load"
+            "Clean and controlled; exactly 3 sets next time"
           ],
           [
             "Legs",
@@ -6098,13 +6098,13 @@
           [
             "Biceps",
             "Straight Bar Curl",
-            "15 kg/side x 7 @ RIR 1",
-            "10-15 kg/side",
             "15 kg/side x 8 @ RIR 2",
-            "Add reps with reserve",
+            "10-15 kg/side",
+            "15 kg/side x 9 @ RIR 2",
+            "Exactly 3 working sets; add rep before load",
             "No body swing",
             "In progress",
-            "Bar excluded; separate from EZ-bar curl"
+            "Bar excluded; use genuine preparation separately"
           ],
           [
             "Shoulders",
@@ -6138,6 +6138,17 @@
             "Glutes tight; ribs down; no hip sag",
             "In progress",
             "No lower-back discomfort reported"
+          ],
+          [
+            "Biceps",
+            "Incline Dumbbell Curl",
+            "12.5 kg each x 9 @ RIR 2",
+            "7.5-12.5 kg each",
+            "12.5 kg each x 10 @ RIR 2",
+            "Add clean rep before load",
+            "Bench 45-60 degrees; shoulders back; do not force stretch",
+            "In progress",
+            "New clean baseline; replaces Cable Curl in active sequence"
           ]
         ]
       },
@@ -6305,13 +6316,13 @@
             "Completed 6 exercises / 20 set entries (19 working + 1 warm-up); no assisted repetitions; final energy Low-Medium; full EAA+ Energy scoop (100 mg caffeine); no black coffee. User reported feeling equally energetic without black coffee; sleep response to the 100 mg EAA+ caffeine remains To verify tomorrow morning.",
             "",
             "Week 2",
+            "2026-08-16",
+            88.3,
+            96.5,
+            -2.6,
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Second standardized Sunday point. Single morning reading, not a weekly average. After bathroom and before food/drink; abdomen relaxed; tape at navel. Change versus 2026-08-09: -0.5 kg and -2.6 cm. Use the multi-week trend before attributing the full change to fat loss."
           ],
           [
             "2026-08-08",
@@ -6524,16 +6535,16 @@
             null
           ],
           [
+            "2026-08-16",
+            88.3,
+            96.5,
             "",
             "",
             "",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Standardized Sunday measurement check-in",
+            "After bathroom and before food/drink; abdomen relaxed; tape at navel level; verified; photos not supplied",
             "",
             "",
             "",
@@ -6545,16 +6556,16 @@
             null
           ],
           [
+            "2026-08-19",
             "",
             "",
+            "Good",
+            "Low final",
+            "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Biceps workout - 90 min; medium-high pump",
+            "Started Medium-High; full EAA+ scoop (100 mg caffeine); no black coffee; no assistance or body swing; incline and concentration curls clean and controlled",
             "",
             "",
             "",
@@ -10801,6 +10812,36 @@
             null,
             null,
             null
+          ],
+          [
+            "Second standardized Sunday check-in",
+            "2026-08-16: 88.3 kg and 96.5 cm waist, measured after bathroom and before food/drink with abdomen relaxed and tape at navel",
+            "Versus 2026-08-09: -0.5 kg and -2.6 cm; direction is favorable but one week is insufficient to attribute all change to fat loss",
+            "Repeat identical protocol weekly and assess the multi-week trend",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Biceps effort distribution improved",
+            "2026-08-19 used exactly 18 working sets: 3 at RIR 3, 12 at RIR 2 and 3 at RIR 1; no RIR 0, assistance or body swing",
+            "This is materially better controlled than the 2026-08-12 session, which had 20 sets, 16 at RIR 1 and one at RIR 0",
+            "Keep the 18-set ceiling and use exactly three sets per exercise next time",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Incline curl substitution",
+            "Incline Dumbbell Curl replaced Cable Curl and established a clean 7.5-12.5 kg-each baseline without shoulder pain",
+            "The lengthened-position curl was tolerated, while historical cable-curl performance remains preserved",
+            "Keep incline curl in the active sequence; do not force the bottom stretch",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -10989,14 +11030,14 @@
             "Retain 15 direct sets; improve reserve before load; remove 15 kg cable-fly working set; keep 3 x 60-sec strict planks"
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-19",
+            "Biceps",
+            6,
+            18,
+            "Green/Yellow",
+            "Good sleep; Medium-High start and Low final energy; usual overall biceps sensation; no joint pain; medium-high pump; 90 min; no assistance or body swing; full EAA+; no coffee",
+            "Clear improvement over 2026-08-12: volume reduced from 20 to 18, no RIR 0 sets, only three RIR 1 sets, and multiple rep/reserve progressions. Incline dumbbell curl replaced cable curl and established a clean baseline.",
+            "Retain exactly 18 sets and 3 per exercise; keep loads; improve reserve before progression; active sequence uses incline dumbbell curl instead of cable curl"
           ],
           [
             "",
@@ -11102,9 +11143,9 @@
           [
             "Basics",
             "Current body weight",
-            "88.8 kg on 2026-08-09, measured after using the bathroom and before any food or drink. The separate 91.5 kg gym reading was post-workout at night and is non-comparable.",
+            "88.3 kg on 2026-08-16, measured after using the bathroom and before food or drink. Abdomen relaxed and waist tape at navel level. The historical 91.5 kg post-workout gym reading remains non-comparable.",
             "Known",
-            "Use the same standardized morning protocol for trend readings"
+            "Continue identical morning protocol and assess weekly trend"
           ],
           [
             "Basics",
@@ -11130,9 +11171,9 @@
           [
             "Health",
             "Current pain or movement restrictions",
-            "No joint pain reported through 2026-08-18. A little lower-biceps pump followed the final cable-fly set; exact side and resolution remain To verify.",
-            "Partial",
-            "Check that the lower-biceps pump resolved before Biceps training"
+            "No joint pain reported through 2026-08-19. The lower-biceps pump after the 2026-08-18 Chest session resolved before Biceps training; 2026-08-19 ended with only the usual overall biceps sensation.",
+            "Known",
+            "Continue pain checks; stop for sharp or localized distal-biceps pain"
           ],
           [
             "Goal",
@@ -11207,9 +11248,9 @@
           [
             "Training",
             "Current sequence",
-            "Completed Chest on 2026-08-18 in the retained one-body-part split. Biceps is next, subject to fresh readiness and confirmation that the lower-biceps pump resolved.",
+            "Completed Biceps on 2026-08-19 in the retained one-body-part split. Legs is next, subject to fresh readiness.",
             "Known",
-            "Collect fresh readiness before Biceps"
+            "Collect fresh sleep, energy, soreness and knee/hip/lower-back check before Legs"
           ],
           [
             "Training",
@@ -11270,9 +11311,9 @@
           [
             "Measurements",
             "Waist and verified morning weight",
-            "2026-08-09 standardized baseline: 88.8 kg and 39 in at the navel (99.1 cm), after bathroom and before food or drink.",
+            "2026-08-16 standardized check-in: 88.3 kg and 38 in at the navel (96.5 cm), after bathroom and before food or drink, abdomen relaxed. Change from 2026-08-09: -0.5 kg and -2.6 cm.",
             "Known",
-            "Repeat weekly under identical conditions; take two waist readings and verify if they differ by more than 0.5 cm"
+            "Repeat weekly under identical conditions; use multi-week trend"
           ],
           [
             "Photos",
@@ -11890,6 +11931,19 @@
             "To link",
             "Reported Sunday morning measurement: waist taken at navel. Bathroom/pre-food conditions not explicitly reconfirmed. 91.5 kg gym-machine reading was post-workout at night and is retained only as non-comparable context. Standardized progress photos remain pending. Follow-up confirmed: measurements were taken after using the bathroom and before eating or drinking.",
             "To verify"
+          ],
+          [
+            "2026-08-16",
+            88.3,
+            96.5,
+            "",
+            "",
+            "",
+            "To link",
+            "To link",
+            "To link",
+            "Verified standardized Sunday measurement: after bathroom, before food/drink, abdomen relaxed, tape at navel level. Weight changed -0.5 kg and waist -2.6 cm versus 2026-08-09. Progress photos were not supplied for this check-in.",
+            "Missing photos"
           ]
         ]
       },
@@ -18721,6 +18775,402 @@
         "row": 289,
         "range": "A289"
       }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Straight Bar Curl",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 15,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 290,
+        "range": "A290"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Straight Bar Curl",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 13,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 291,
+        "range": "A291"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Straight Bar Curl",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 11,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 292,
+        "range": "A292"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Straight Bar Curl",
+      "Set": 4,
+      "Weight": 15,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 8,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Progressed from 7 reps at RIR 1 to 8 reps at RIR 2",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 293,
+        "range": "A293"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 15,
+      "Form Note": "Clean and controlled; no shoulder pain",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 294,
+        "range": "A294"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 13,
+      "Form Note": "Clean and controlled; no shoulder pain",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 295,
+        "range": "A295"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 9,
+      "Form Note": "Clean and controlled; no shoulder pain",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "New tracked baseline; replaced Cable Curl in active sequence",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 296,
+        "range": "A296"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 15,
+      "Form Note": "Clean and controlled",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 297,
+        "range": "A297"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 12,
+      "Form Note": "Clean and controlled",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 298,
+        "range": "A298"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 10,
+      "Form Note": "Clean and controlled",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Progressed from 9 reps at RIR 1 to 10 reps at RIR 2",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 299,
+        "range": "A299"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 1,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 17,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Progressed from 15 to 17 reps",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 300,
+        "range": "A300"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 2,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 13,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 301,
+        "range": "A301"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 3,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 11,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Maintained reps while improving from RIR 1 to RIR 2",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 302,
+        "range": "A302"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Concentration Curl",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 16,
+      "Form Note": "Clean and controlled; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 303,
+        "range": "A303"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Concentration Curl",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 13,
+      "Form Note": "Clean and controlled; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 304,
+        "range": "A304"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Concentration Curl",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 10,
+      "Form Note": "Clean and controlled; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Unplanned third set; progressed from 9 to 10 reps without failure",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 305,
+        "range": "A305"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Reverse EZ-Bar Curl",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 13,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Rep target met but one RIR harder than planned",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 306,
+        "range": "A306"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercise": "Reverse EZ-Bar Curl",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 11,
+      "Form Note": "Clean; no assistance or body swing",
+      "Pain / Soreness": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Only two sets used to preserve the 18-set cap",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 307,
+        "range": "A307"
+      }
     }
   ],
   "sessions": [
@@ -18947,6 +19397,22 @@
         "row": 18,
         "range": "A18"
       }
+    },
+    {
+      "Date": "2026-08-19",
+      "Workout": "Biceps",
+      "Exercises": 6,
+      "Set Entries": 18,
+      "Readiness": "Green/Yellow",
+      "Recovery Notes": "Good sleep; Medium-High start and Low final energy; usual overall biceps sensation; no joint pain; medium-high pump; 90 min; no assistance or body swing; full EAA+; no coffee",
+      "Coach Assessment": "Clear improvement over 2026-08-12: volume reduced from 20 to 18, no RIR 0 sets, only three RIR 1 sets, and multiple rep/reserve progressions. Incline dumbbell curl replaced cable curl and established a clean baseline.",
+      "Next-Session Status": "Retain exactly 18 sets and 3 per exercise; keep loads; improve reserve before progression; active sequence uses incline dumbbell curl instead of cable curl",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 19,
+        "range": "A19"
+      }
     }
   ],
   "targets": [
@@ -19123,13 +19589,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Hammer Curl",
-      "Current Best Set": "17.5 kg each x 11 @ RIR 1",
-      "Current Working Zone": "15-17.5 kg",
-      "Next Target": "17.5 kg x 12 @ RIR 2",
+      "Current Best Set": "17.5 kg each x 11 @ RIR 2",
+      "Current Working Zone": "12.5-17.5 kg each",
+      "Next Target": "17.5 kg each x 12 @ RIR 2",
       "Progress Rule": "Add reps with reserve",
-      "Technique Focus": "Neutral wrists",
+      "Technique Focus": "Neutral wrists; no swing",
       "Status": "In progress",
-      "Notes": "Each dumbbell",
+      "Notes": "12.5 kg reached 17 reps at RIR 2",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19140,13 +19606,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Plate Curl Machine",
-      "Current Best Set": "12.5 kg/side x 9 @ RIR 1",
+      "Current Best Set": "12.5 kg/side x 10 @ RIR 2",
       "Current Working Zone": "7.5-12.5 kg/side",
-      "Next Target": "12.5 kg/side x 10 @ RIR 2",
+      "Next Target": "12.5 kg/side x 11 @ RIR 2",
       "Progress Rule": "Add clean rep",
       "Technique Focus": "Upper arm fixed",
       "Status": "In progress",
-      "Notes": "12.5 kg/side verified; historical 10.25 preserved",
+      "Notes": "Plates each side",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19158,12 +19624,12 @@
       "Muscle": "Biceps",
       "Exercise": "Cable Curl",
       "Current Best Set": "40 kg x 10 @ RIR 1",
-      "Current Working Zone": "35-40 kg",
-      "Next Target": "40 kg x 10-11 @ RIR 2",
-      "Progress Rule": "Improve reserve",
+      "Current Working Zone": "Historical baseline",
+      "Next Target": "Not in active sequence",
+      "Progress Rule": "Preserve history",
       "Technique Focus": "Elbows close",
-      "Status": "In progress",
-      "Notes": "No load increase",
+      "Status": "Replaced",
+      "Notes": "Incline Dumbbell Curl now occupies this active slot",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19174,13 +19640,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Reverse EZ Curl",
-      "Current Best Set": "10 kg/side x 10 @ RIR 1",
-      "Current Working Zone": "7.5-10 kg/side",
+      "Current Best Set": "10 kg/side x 11 @ RIR 1",
+      "Current Working Zone": "5-10 kg/side",
       "Next Target": "10 kg/side x 11 @ RIR 2",
-      "Progress Rule": "Add reps with reserve",
+      "Progress Rule": "Improve reserve",
       "Technique Focus": "Wrists neutral",
-      "Status": "In progress",
-      "Notes": "",
+      "Status": "Modify effort",
+      "Notes": "Bar excluded; only 2 sets used to preserve session cap",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19191,13 +19657,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Concentration Curl",
-      "Current Best Set": "12.5 kg x 9 @ RIR 1",
-      "Current Working Zone": "7.5-10 kg strict",
-      "Next Target": "10 kg x 12 @ RIR 2",
-      "Progress Rule": "Avoid failure",
+      "Current Best Set": "12.5 kg each x 10 @ RIR 1",
+      "Current Working Zone": "7.5-12.5 kg each",
+      "Next Target": "12.5 kg each x 10 @ RIR 2",
+      "Progress Rule": "Improve reserve; no failure",
       "Technique Focus": "Elbow fixed; no swing",
       "Status": "Modify effort",
-      "Notes": "10 kg reached RIR 0; 12.5 kg is history, not next load",
+      "Notes": "Clean and controlled; exactly 3 sets next time",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19599,13 +20065,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Straight Bar Curl",
-      "Current Best Set": "15 kg/side x 7 @ RIR 1",
+      "Current Best Set": "15 kg/side x 8 @ RIR 2",
       "Current Working Zone": "10-15 kg/side",
-      "Next Target": "15 kg/side x 8 @ RIR 2",
-      "Progress Rule": "Add reps with reserve",
+      "Next Target": "15 kg/side x 9 @ RIR 2",
+      "Progress Rule": "Exactly 3 working sets; add rep before load",
       "Technique Focus": "No body swing",
       "Status": "In progress",
-      "Notes": "Bar excluded; separate from EZ-bar curl",
+      "Notes": "Bar excluded; use genuine preparation separately",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19662,6 +20128,23 @@
         "sheet": "Exercise Targets",
         "row": 46,
         "range": "A46"
+      }
+    },
+    {
+      "Muscle": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Current Best Set": "12.5 kg each x 9 @ RIR 2",
+      "Current Working Zone": "7.5-12.5 kg each",
+      "Next Target": "12.5 kg each x 10 @ RIR 2",
+      "Progress Rule": "Add clean rep before load",
+      "Technique Focus": "Bench 45-60 degrees; shoulders back; do not force stretch",
+      "Status": "In progress",
+      "Notes": "New clean baseline; replaces Cable Curl in active sequence",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 47,
+        "range": "A47"
       }
     }
   ],
@@ -19738,7 +20221,7 @@
       "Steps / Cardio": "Shoulder workout - 75 min",
       "Notes": "Completed 6 exercises / 20 set entries (19 working + 1 warm-up); no assisted repetitions; final energy Low-Medium; full EAA+ Energy scoop (100 mg caffeine); no black coffee. User reported feeling equally energetic without black coffee; sleep response to the 100 mg EAA+ caffeine remains To verify tomorrow morning.",
       "Column 11": "",
-      "Weekly Measurement Check-In": "",
+      "Weekly Measurement Check-In": "Second standardized Sunday point. Single morning reading, not a weekly average. After bathroom and before food/drink; abdomen relaxed; tape at navel. Change versus 2026-08-09: -0.5 kg and -2.6 cm. Use the multi-week trend before attributing the full change to fat loss.",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Recovery & Body",
@@ -19944,6 +20427,46 @@
         "sheet": "Recovery & Body",
         "row": 18,
         "range": "A18"
+      }
+    },
+    {
+      "Date": "2026-08-16",
+      "Weight (kg)": 88.3,
+      "Waist (cm)": 96.5,
+      "Sleep": "",
+      "Energy": "",
+      "Soreness / Pain": "",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Standardized Sunday measurement check-in",
+      "Notes": "After bathroom and before food/drink; abdomen relaxed; tape at navel level; verified; photos not supplied",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 19,
+        "range": "A19"
+      }
+    },
+    {
+      "Date": "2026-08-19",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Low final",
+      "Soreness / Pain": "Usual overall biceps sensation; no unusual lower-biceps symptom; no elbow, wrist or shoulder pain",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Biceps workout - 90 min; medium-high pump",
+      "Notes": "Started Medium-High; full EAA+ scoop (100 mg caffeine); no black coffee; no assistance or body swing; incline and concentration curls clean and controlled",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 20,
+        "range": "A20"
       }
     }
   ],
@@ -20204,9 +20727,9 @@
     {
       "Category": "Basics",
       "Item": "Current body weight",
-      "Current Value": "88.8 kg on 2026-08-09, measured after using the bathroom and before any food or drink. The separate 91.5 kg gym reading was post-workout at night and is non-comparable.",
+      "Current Value": "88.3 kg on 2026-08-16, measured after using the bathroom and before food or drink. Abdomen relaxed and waist tape at navel level. The historical 91.5 kg post-workout gym reading remains non-comparable.",
       "Status": "Known",
-      "Why Needed / Next Check": "Use the same standardized morning protocol for trend readings",
+      "Why Needed / Next Check": "Continue identical morning protocol and assess weekly trend",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -20256,9 +20779,9 @@
     {
       "Category": "Health",
       "Item": "Current pain or movement restrictions",
-      "Current Value": "No joint pain reported through 2026-08-18. A little lower-biceps pump followed the final cable-fly set; exact side and resolution remain To verify.",
-      "Status": "Partial",
-      "Why Needed / Next Check": "Check that the lower-biceps pump resolved before Biceps training",
+      "Current Value": "No joint pain reported through 2026-08-19. The lower-biceps pump after the 2026-08-18 Chest session resolved before Biceps training; 2026-08-19 ended with only the usual overall biceps sensation.",
+      "Status": "Known",
+      "Why Needed / Next Check": "Continue pain checks; stop for sharp or localized distal-biceps pain",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -20399,9 +20922,9 @@
     {
       "Category": "Training",
       "Item": "Current sequence",
-      "Current Value": "Completed Chest on 2026-08-18 in the retained one-body-part split. Biceps is next, subject to fresh readiness and confirmation that the lower-biceps pump resolved.",
+      "Current Value": "Completed Biceps on 2026-08-19 in the retained one-body-part split. Legs is next, subject to fresh readiness.",
       "Status": "Known",
-      "Why Needed / Next Check": "Collect fresh readiness before Biceps",
+      "Why Needed / Next Check": "Collect fresh sleep, energy, soreness and knee/hip/lower-back check before Legs",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -20516,9 +21039,9 @@
     {
       "Category": "Measurements",
       "Item": "Waist and verified morning weight",
-      "Current Value": "2026-08-09 standardized baseline: 88.8 kg and 39 in at the navel (99.1 cm), after bathroom and before food or drink.",
+      "Current Value": "2026-08-16 standardized check-in: 88.3 kg and 38 in at the navel (96.5 cm), after bathroom and before food or drink, abdomen relaxed. Change from 2026-08-09: -0.5 kg and -2.6 cm.",
       "Status": "Known",
-      "Why Needed / Next Check": "Repeat weekly under identical conditions; take two waist readings and verify if they differ by more than 0.5 cm",
+      "Why Needed / Next Check": "Repeat weekly under identical conditions; use multi-week trend",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -21007,6 +21530,42 @@
         "sheet": "Program Notes",
         "row": 43,
         "range": "A43"
+      }
+    },
+    {
+      "Category": "Second standardized Sunday check-in",
+      "Rule / Observation": "2026-08-16: 88.3 kg and 96.5 cm waist, measured after bathroom and before food/drink with abdomen relaxed and tape at navel",
+      "Why It Matters": "Versus 2026-08-09: -0.5 kg and -2.6 cm; direction is favorable but one week is insufficient to attribute all change to fat loss",
+      "Action": "Repeat identical protocol weekly and assess the multi-week trend",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 44,
+        "range": "A44"
+      }
+    },
+    {
+      "Category": "Biceps effort distribution improved",
+      "Rule / Observation": "2026-08-19 used exactly 18 working sets: 3 at RIR 3, 12 at RIR 2 and 3 at RIR 1; no RIR 0, assistance or body swing",
+      "Why It Matters": "This is materially better controlled than the 2026-08-12 session, which had 20 sets, 16 at RIR 1 and one at RIR 0",
+      "Action": "Keep the 18-set ceiling and use exactly three sets per exercise next time",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 45,
+        "range": "A45"
+      }
+    },
+    {
+      "Category": "Incline curl substitution",
+      "Rule / Observation": "Incline Dumbbell Curl replaced Cable Curl and established a clean 7.5-12.5 kg-each baseline without shoulder pain",
+      "Why It Matters": "The lengthened-position curl was tolerated, while historical cable-curl performance remains preserved",
+      "Action": "Keep incline curl in the active sequence; do not force the bottom stretch",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 46,
+        "range": "A46"
       }
     }
   ],
@@ -23702,6 +24261,18 @@
     {
       "id": "md-225",
       "level": 2,
+      "title": "Tracker reconciliation completed - 2026-08-19 Biceps session",
+      "anchor": "tracker-reconciliation-completed-2026-08-19-biceps-session",
+      "raw": "- Canonical Excel tracker: **Updated and verified** with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.\n- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.\n- Website source dataset: **Regenerated** from the canonical Markdown and workbook with 303 journal entries and 15 completed sessions.\n- Historical workout records, clean/assisted distinctions and all existing `To verify` flags remain preserved.",
+      "html": "<ul>\n<li>Canonical Excel tracker: <strong>Updated and verified</strong> with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.</li>\n<li>Workbook validation: <strong>Passed</strong>; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.</li>\n<li>Website source dataset: <strong>Regenerated</strong> from the canonical Markdown and workbook with 303 journal entries and 15 completed sessions.</li>\n<li>Historical workout records, clean/assisted distinctions and all existing <code>To verify</code> flags remain preserved.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-reconciliation-completed-2026-08-19-biceps-session"
+      }
+    },
+    {
+      "id": "md-226",
+      "level": 2,
       "title": "Tracker reconciliation completed - 2026-08-18 Chest session",
       "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session",
       "raw": "- The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.\n- No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.\n- The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain **To verify**.\n- Markdown workout history: **Updated through 2026-08-18**.\n- Canonical Excel tracker: **Updated and verified through 2026-08-18**.\n- Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.",
@@ -23709,6 +24280,174 @@
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session"
+      }
+    },
+    {
+      "id": "md-227",
+      "level": 1,
+      "title": "Standardized Sunday Measurement Check-In - 2026-08-16",
+      "anchor": "standardized-sunday-measurement-check-in-2026-08-16",
+      "raw": "- Morning body weight: **88.3 kg**.\n- Waist at navel: **38 in (96.5 cm)**.\n- Measurement conditions: **After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level**.\n- Status: **Verified standardized check-in**.\n- Change from the 2026-08-09 standardized baseline: **-0.5 kg body weight and -2.6 cm waist (-1 in)**.\n- Photos: **Not supplied for this check-in; existing photo status remains unchanged**.\n\nThis is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.",
+      "html": "<ul>\n<li>Morning body weight: <strong>88.3 kg</strong>.</li>\n<li>Waist at navel: <strong>38 in (96.5 cm)</strong>.</li>\n<li>Measurement conditions: <strong>After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level</strong>.</li>\n<li>Status: <strong>Verified standardized check-in</strong>.</li>\n<li>Change from the 2026-08-09 standardized baseline: <strong>-0.5 kg body weight and -2.6 cm waist (-1 in)</strong>.</li>\n<li>Photos: <strong>Not supplied for this check-in; existing photo status remains unchanged</strong>.</li>\n</ul>\n<p>This is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "standardized-sunday-measurement-check-in-2026-08-16"
+      }
+    },
+    {
+      "id": "md-228",
+      "level": 1,
+      "title": "Biceps Workout - 2026-08-19",
+      "anchor": "biceps-workout-2026-08-19",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "biceps-workout-2026-08-19"
+      }
+    },
+    {
+      "id": "md-229",
+      "level": 2,
+      "title": "Pre-workout readiness",
+      "anchor": "pre-workout-readiness-8",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Lower-biceps pump following the 2026-08-18 Chest session: **Resolved**.\n- Elbow, wrist or shoulder pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Lower-biceps pump following the 2026-08-18 Chest session: <strong>Resolved</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pre-workout-readiness-8"
+      }
+    },
+    {
+      "id": "md-230",
+      "level": 2,
+      "title": "Completed sets",
+      "anchor": "completed-sets-8",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-sets-8"
+      }
+    },
+    {
+      "id": "md-231",
+      "level": 3,
+      "title": "Straight-bar curl - plates each side; bar excluded",
+      "anchor": "straight-bar-curl-plates-each-side-bar-excluded-2",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg/side | 15 | 3 |\n| 2 | 10 kg/side | 13 | 2 |\n| 3 | 12.5 kg/side | 11 | 2 |\n| 4 | 15 kg/side | 8 | 2 |\n\nAll four entries were working sets. The top set progressed from 15 kg/side x 7 at RIR 1 to eight repetitions at RIR 2. The additional fourth set was retained because total session volume was subsequently balanced to 18 working sets.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg/side</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg/side</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">12.5 kg/side</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">15 kg/side</td>\n<td align=\"right\">8</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>All four entries were working sets. The top set progressed from 15 kg/side x 7 at RIR 1 to eight repetitions at RIR 2. The additional fourth set was retained because total session volume was subsequently balanced to 18 working sets.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "straight-bar-curl-plates-each-side-bar-excluded-2"
+      }
+    },
+    {
+      "id": "md-232",
+      "level": 3,
+      "title": "Incline dumbbell curl - weight per dumbbell",
+      "anchor": "incline-dumbbell-curl-weight-per-dumbbell",
+      "raw": "Incline dumbbell curls replaced cable curls for this session and establish a new tracked baseline.\n\n| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg | 15 | 2 |\n| 2 | 10 kg | 13 | 2 |\n| 3 | 12.5 kg | 9 | 2 |\n\nVipin confirmed that the incline and concentration curls were clean and controlled. No shoulder pain was reported.",
+      "html": "<p>Incline dumbbell curls replaced cable curls for this session and establish a new tracked baseline.</p>\n<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">12.5 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>Vipin confirmed that the incline and concentration curls were clean and controlled. No shoulder pain was reported.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "incline-dumbbell-curl-weight-per-dumbbell"
+      }
+    },
+    {
+      "id": "md-233",
+      "level": 3,
+      "title": "Plate-loaded curl machine - plates each side",
+      "anchor": "plate-loaded-curl-machine-plates-each-side",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg/side | 15 | 3 |\n| 2 | 10 kg/side | 12 | 2 |\n| 3 | 12.5 kg/side | 10 | 2 |\n\nThe prescribed repetitions and reserves were met exactly. The top set improved from 12.5 kg/side x 9 at RIR 1 to ten repetitions at RIR 2.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg/side</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg/side</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">12.5 kg/side</td>\n<td align=\"right\">10</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>The prescribed repetitions and reserves were met exactly. The top set improved from 12.5 kg/side x 9 at RIR 1 to ten repetitions at RIR 2.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "plate-loaded-curl-machine-plates-each-side"
+      }
+    },
+    {
+      "id": "md-234",
+      "level": 3,
+      "title": "Hammer dumbbell curl - weight per dumbbell",
+      "anchor": "hammer-dumbbell-curl-weight-per-dumbbell",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 12.5 kg | 17 | 2 |\n| 2 | 15 kg | 13 | 2 |\n| 3 | 17.5 kg | 11 | 2 |\n\nThe 12.5 kg set progressed by two repetitions. The 17.5 kg set retained 11 repetitions while improving from RIR 1 to RIR 2.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">12.5 kg</td>\n<td align=\"right\">17</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">15 kg</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">17.5 kg</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>The 12.5 kg set progressed by two repetitions. The 17.5 kg set retained 11 repetitions while improving from RIR 1 to RIR 2.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "hammer-dumbbell-curl-weight-per-dumbbell"
+      }
+    },
+    {
+      "id": "md-235",
+      "level": 3,
+      "title": "Concentration curl - weight per dumbbell",
+      "anchor": "concentration-curl-weight-per-dumbbell",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg | 16 | 3 |\n| 2 | 10 kg | 13 | 2 |\n| 3 | 12.5 kg | 10 | 1 |\n\nThe 12.5 kg set was an unplanned third concentration-curl set, but it progressed from nine to ten repetitions without assistance or body swing. Reverse-curl volume was reduced to preserve the overall set cap.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg</td>\n<td align=\"right\">16</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">12.5 kg</td>\n<td align=\"right\">10</td>\n<td align=\"right\">1</td>\n</tr>\n</tbody></table>\n<p>The 12.5 kg set was an unplanned third concentration-curl set, but it progressed from nine to ten repetitions without assistance or body swing. Reverse-curl volume was reduced to preserve the overall set cap.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "concentration-curl-weight-per-dumbbell"
+      }
+    },
+    {
+      "id": "md-236",
+      "level": 3,
+      "title": "Reverse EZ-bar curl - plates each side; bar excluded",
+      "anchor": "reverse-ez-bar-curl-plates-each-side-bar-excluded-2",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg/side | 13 | 1 |\n| 2 | 10 kg/side | 11 | 1 |\n\nBoth rep targets were reached, but each set finished one repetition closer to failure than planned. Only two sets were used so that the session remained at 18 working sets.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg/side</td>\n<td align=\"right\">13</td>\n<td align=\"right\">1</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg/side</td>\n<td align=\"right\">11</td>\n<td align=\"right\">1</td>\n</tr>\n</tbody></table>\n<p>Both rep targets were reached, but each set finished one repetition closer to failure than planned. Only two sets were used so that the session remained at 18 working sets.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "reverse-ez-bar-curl-plates-each-side-bar-excluded-2"
+      }
+    },
+    {
+      "id": "md-237",
+      "level": 2,
+      "title": "Post-workout recovery",
+      "anchor": "post-workout-recovery-8",
+      "raw": "- Biceps sensation: **Usual overall muscular sensation; no unusual localized lower-biceps symptom**.\n- Elbow, wrist or shoulder pain: **None**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 30 minutes**.\n- Assisted repetitions or body swinging: **None**.\n- Biceps pump: **Medium to high**.\n- Incline and concentration curls: **Confirmed clean and controlled**.",
+      "html": "<ul>\n<li>Biceps sensation: <strong>Usual overall muscular sensation; no unusual localized lower-biceps symptom</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 30 minutes</strong>.</li>\n<li>Assisted repetitions or body swinging: <strong>None</strong>.</li>\n<li>Biceps pump: <strong>Medium to high</strong>.</li>\n<li>Incline and concentration curls: <strong>Confirmed clean and controlled</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "post-workout-recovery-8"
+      }
+    },
+    {
+      "id": "md-238",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-11",
+      "raw": "This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly **18 working sets**, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was **three sets at RIR 3, twelve at RIR 2 and three at RIR 1**. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.\n\nPerformance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.\n\nFinal energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.",
+      "html": "<p>This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly <strong>18 working sets</strong>, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was <strong>three sets at RIR 3, twelve at RIR 2 and three at RIR 1</strong>. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.</p>\n<p>Performance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.</p>\n<p>Final energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-11"
+      }
+    },
+    {
+      "id": "md-239",
+      "level": 2,
+      "title": "Next Biceps-session targets",
+      "anchor": "next-biceps-session-targets-2",
+      "raw": "| Exercise | Next target |\n|---|---|\n| Straight-bar curl | Use a genuine easy preparation set separately; 10 kg/side x 13 @ RIR 3; 12.5 kg/side x 11-12 @ RIR 2; 15 kg/side x 9 @ RIR 2. Exactly three working sets. |\n| Incline dumbbell curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 13-14 @ RIR 2; 12.5 kg each x 10 @ RIR 2. Keep the bench around 45-60 degrees and do not force the bottom stretch. |\n| Plate-loaded curl machine | 7.5 kg/side x 15 @ RIR 3; 10 kg/side x 12-13 @ RIR 2; 12.5 kg/side x 11 @ RIR 2. |\n| Hammer curl | 12.5 kg each x 15-17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2. |\n| Concentration curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 10 @ RIR 2. No failure. |\n| Reverse EZ-bar curl | 5 kg/side x 15 @ RIR 3; 7.5 kg/side x 13 @ RIR 2; 10 kg/side x 11 @ RIR 2. |\n\nThe next Biceps session remains capped at **18 working sets**, exactly three per exercise. Incline dumbbell curl replaces cable curl in the active six-exercise sequence; the historical cable-curl data remains preserved. Legs is next in the retained one-body-part split, subject to a fresh readiness check.",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Straight-bar curl</td>\n<td>Use a genuine easy preparation set separately; 10 kg/side x 13 @ RIR 3; 12.5 kg/side x 11-12 @ RIR 2; 15 kg/side x 9 @ RIR 2. Exactly three working sets.</td>\n</tr>\n<tr>\n<td>Incline dumbbell curl</td>\n<td>7.5 kg each x 15 @ RIR 3; 10 kg each x 13-14 @ RIR 2; 12.5 kg each x 10 @ RIR 2. Keep the bench around 45-60 degrees and do not force the bottom stretch.</td>\n</tr>\n<tr>\n<td>Plate-loaded curl machine</td>\n<td>7.5 kg/side x 15 @ RIR 3; 10 kg/side x 12-13 @ RIR 2; 12.5 kg/side x 11 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Hammer curl</td>\n<td>12.5 kg each x 15-17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Concentration curl</td>\n<td>7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 10 @ RIR 2. No failure.</td>\n</tr>\n<tr>\n<td>Reverse EZ-bar curl</td>\n<td>5 kg/side x 15 @ RIR 3; 7.5 kg/side x 13 @ RIR 2; 10 kg/side x 11 @ RIR 2.</td>\n</tr>\n</tbody></table>\n<p>The next Biceps session remains capped at <strong>18 working sets</strong>, exactly three per exercise. Incline dumbbell curl replaces cable curl in the active six-exercise sequence; the historical cable-curl data remains preserved. Legs is next in the retained one-body-part split, subject to a fresh readiness check.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-biceps-session-targets-2"
+      }
+    },
+    {
+      "id": "md-240",
+      "level": 2,
+      "title": "Tracker status after 2026-08-19 Biceps session",
+      "anchor": "tracker-status-after-2026-08-19-biceps-session",
+      "raw": "- Markdown workout history: **Updated**.\n- Canonical Excel tracker: **Pending this session's reconciliation**.\n- Public dashboard: **Pending synchronization and deployment**.",
+      "html": "<ul>\n<li>Markdown workout history: <strong>Updated</strong>.</li>\n<li>Canonical Excel tracker: <strong>Pending this session&#39;s reconciliation</strong>.</li>\n<li>Public dashboard: <strong>Pending synchronization and deployment</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-status-after-2026-08-19-biceps-session"
       }
     }
   ],
