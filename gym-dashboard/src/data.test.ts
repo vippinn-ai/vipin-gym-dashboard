@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(303)
-    expect(data.sessions).toHaveLength(15)
-    expect(data.markdownSections).toHaveLength(240)
+    expect(data.journal).toHaveLength(321)
+    expect(data.sessions).toHaveLength(16)
+    expect(data.markdownSections).toHaveLength(254)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -19,6 +19,15 @@ describe('generated coaching dataset', () => {
     expect(assistedLegPress?.Reps).toBe(8)
     expect(assistedLegPress?.['Form Note']).toContain('4 clean + 4 hand-assisted')
     expect(assistedLegPress?.['Form Note']).toContain('do not treat as 8 clean')
+
+    const latestAssistedLegPress = data.journal.find((row) =>
+      row.Date === '2026-08-20' && row.Exercise === 'Leg Press' && row['Set Type'] === 'Assisted',
+    )
+    expect(latestAssistedLegPress).toBeDefined()
+    expect(latestAssistedLegPress?.Reps).toBe(7)
+    expect(latestAssistedLegPress?.['Form Note']).toContain('approximately 2-3 hand-assisted')
+    expect(latestAssistedLegPress?.['Form Note']).toContain('approximately 4-5 clean To verify')
+    expect(latestAssistedLegPress?.['Form Note']).toContain('do not treat as 7 clean')
   })
 
   it('retains source links and uncertainty flags', () => {

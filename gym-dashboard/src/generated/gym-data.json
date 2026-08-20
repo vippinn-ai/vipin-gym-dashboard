@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-19T16:16:42.397Z",
+  "generatedAt": "2026-08-20T16:32:09.743Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "f416a060516e6c5d8e909d7d7db1db5084d9c992c71e1fdde158537e2feb45b4"
+      "sha256": "94d18f647f58bb31c1071ffefd6b483939db9f6e2ef79aa15f8817d16bb4d48c"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "760e331600f6eb0a2a5ca716d3d915459055bfe8bae988ab5f29822822ea51e7"
+      "sha256": "af1e4d5fa35e3b7e264ead2ccd5e457ffcf80ecc29109ef00796a7ea7df85890"
     }
   ],
   "workbook": {
@@ -225,15 +225,15 @@
             "",
             "",
             "",
-            15,
+            16,
             "",
-            53,
+            54,
             "",
             "",
             "",
             "",
             "Legs",
-            14
+            32
           ],
           [
             "",
@@ -449,12 +449,12 @@
             "",
             "",
             "",
-            "Biceps",
-            "Straight Bar Curl",
-            "15 kg/side x 8 @ RIR 2",
-            "15 kg/side x 9 @ RIR 2",
+            "Legs",
+            "Hack Squat",
+            "65 kg/side x 10 @ RIR 2",
+            "65 kg/side x 10 @ RIR 2",
             "In progress",
-            "Bar excluded; exactly 3 working sets",
+            "No load increase; verify hip",
             "",
             "",
             ""
@@ -463,26 +463,12 @@
             "",
             "",
             "",
-            "Biceps",
-            "Hammer Curl",
-            "17.5 kg each x 11 @ RIR 2",
-            "17.5 kg each x 12 @ RIR 2",
-            "In progress",
-            "No body swing",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
-            "",
-            "Biceps",
-            "Concentration Curl",
-            "12.5 kg each x 10 @ RIR 1",
-            "12.5 kg each x 10 @ RIR 2",
+            "Legs",
+            "Leg Press",
+            "150 kg x 7 total; approx. 2-3 assisted",
+            "130 kg x 9-10 @ RIR 2",
             "Modify effort",
-            "No assistance or body swing",
+            "Omit 150 kg; clean reps only",
             "",
             "",
             ""
@@ -491,12 +477,26 @@
             "",
             "",
             "",
-            "Biceps",
-            "Reverse EZ Curl",
-            "10 kg/side x 11 @ RIR 1",
-            "10 kg/side x 11 @ RIR 2",
+            "Legs",
+            "Dumbbell Romanian Deadlift",
+            "15 kg each x 12 @ RIR 2; back dominant",
+            "10 kg each x 10-12 @ RIR 3-4",
+            "Verify technique",
+            "Wall-hinge reset; stop if back/hip symptoms",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Legs",
+            "Leg Curl",
+            "35 kg x 9 @ RIR 0",
+            "30 kg x 12 @ RIR 2",
             "Modify effort",
-            "Bar excluded; preserve the 18-set cap",
+            "Full range; no failure",
             "",
             "",
             ""
@@ -5420,212 +5420,292 @@
             1
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Dumbbell Romanian Deadlift",
+            1,
+            12.5,
+            "kg each dumbbell",
+            12,
+            "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Dumbbell Romanian Deadlift",
+            2,
+            15,
+            "kg each dumbbell",
+            12,
+            "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-20",
+            "Legs",
+            "Dumbbell Romanian Deadlift",
+            3,
+            15,
+            "kg each dumbbell",
+            12,
+            "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Do not add load; reset hinge technique next Legs session",
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Hack Squat",
+            1,
+            35,
+            "kg plates each side",
+            15,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Hack Squat",
+            2,
+            45,
+            "kg plates each side",
+            12,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Hack Squat",
+            3,
+            55,
+            "kg plates each side",
+            10,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-20",
+            "Legs",
+            "Hack Squat",
+            4,
+            65,
+            "kg plates each side",
+            10,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Progressed load while retaining RIR 2; do not add load next time",
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Leg Press",
+            1,
+            100,
+            "kg total load",
+            14,
+            "Clean; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Leg Press",
+            2,
+            120,
+            "kg total load",
+            11,
+            "Clean; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Leg Press",
+            3,
+            130,
+            "kg total load",
+            9,
+            "Clean; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            1
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-20",
+            "Legs",
+            "Leg Press",
+            4,
+            150,
+            "kg total load",
+            7,
+            "7 total; approximately 2-3 hand-assisted; approximately 4-5 clean To verify; do not treat as 7 clean",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Omit 150 kg until 130 kg is clean at target reserve and hip pain is absent",
+            "Assisted",
+            1
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Leg Curl",
+            1,
+            30,
+            "kg total stack",
+            14,
+            "Controlled; full range To verify",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
           ],
           [
+            "2026-08-20",
+            "Legs",
+            "Leg Curl",
+            2,
+            35,
+            "kg total stack",
+            9,
+            "Reached failure reserve; full range To verify",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Reduce load/effort next time; no RIR 0 target",
+            "Working",
+            0
+          ],
+          [
+            "2026-08-20",
+            "Legs",
+            "Leg Extension",
+            1,
+            40,
+            "kg total stack",
+            14,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-20",
+            "Legs",
+            "Leg Extension",
+            2,
+            45,
+            "kg total stack",
+            13,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-20",
+            "Legs",
+            "Leg Extension",
+            3,
+            50,
+            "kg total stack",
+            11,
+            "Controlled; no assistance reported",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Progressed reps; improve reserve before load",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-20",
+            "Legs",
+            "Standing Calf Raise",
+            1,
+            10,
+            "kg plates each side; guided bar excluded",
+            20,
+            "Controlled; full stretch and top pause To verify",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "Working",
+            2
+          ],
+          [
+            "2026-08-20",
+            "Legs",
+            "Standing Calf Raise",
+            2,
+            20,
+            "kg plates each side; guided bar excluded",
+            16,
+            "Controlled; full stretch and top pause To verify",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+            "Low final",
+            "Good",
+            "Add one clean rep before load",
+            "Working",
+            2
           ]
         ]
       },
@@ -5845,46 +5925,46 @@
           [
             "Legs",
             "Hack Squat",
-            "60 kg/side x 10 @ RIR 1",
-            "50-60 kg/side",
-            "60 kg/side x 10 @ RIR 2",
-            "Improve reserve",
-            "Back on pad; full-foot pressure",
+            "65 kg/side x 10 @ RIR 2",
+            "35-65 kg/side",
+            "65 kg/side x 10 @ RIR 2",
+            "Improve reserve; no load increase",
+            "Controlled depth; knees track toes",
             "In progress",
-            ""
+            "Check hip before loading; progressed cleanly on 2026-08-20"
           ],
           [
             "Legs",
             "Leg Press",
-            "150 kg: 4 clean + 4 assisted",
-            "110-130 kg",
-            "130 kg x 11-12 @ RIR 2",
-            "Clean reps before load",
-            "No hand assistance",
+            "150 kg x 7 total @ RIR 1; approx. 2-3 assisted",
+            "100-130 kg total",
+            "130 kg x 9-10 @ RIR 2",
+            "Clean reps only; omit 150 kg",
+            "No hand assistance; controlled depth",
             "Modify effort",
-            "150 kg is not an 8-clean-rep result"
+            "Approx. 4-5 clean reps at 150 kg To verify; hip pain follow-up required"
           ],
           [
             "Legs",
             "Leg Extension",
-            "45 kg x 12 @ RIR 1",
-            "35-45 kg",
-            "45 kg x 12 @ RIR 2",
-            "Improve reserve",
-            "Pause at top",
+            "50 kg x 11 @ RIR 1",
+            "40-50 kg",
+            "50 kg x 10-11 @ RIR 2",
+            "Improve reserve before load",
+            "Controlled lockout; no momentum",
             "In progress",
-            ""
+            "Progressed reps on 2026-08-20"
           ],
           [
             "Legs",
             "Leg Curl",
-            "40 kg x 8 @ RIR 1; form To verify",
-            "35-40 kg",
-            "35 kg x 12-15 strict @ RIR 2",
-            "Verify range before load",
-            "Hips stable; full controlled range",
-            "Verify",
-            "40 kg sets may have shortened range or hip movement"
+            "35 kg x 9 @ RIR 0",
+            "30-35 kg",
+            "30 kg x 12 @ RIR 2",
+            "Reduce failure exposure",
+            "Full range; hips down",
+            "Modify effort",
+            "Full range at 35 kg remains To verify"
           ],
           [
             "Legs",
@@ -5911,13 +5991,13 @@
           [
             "Legs",
             "Standing Calf Raise",
-            "Bar +20 kg/side x 16 @ RIR 2",
-            "Bar +20 kg/side",
-            "17-18 reps @ RIR 2",
-            "Add reps first",
-            "Full stretch; top pause",
+            "+20 kg/side x 16 @ RIR 2",
+            "+10 to +20 kg/side",
+            "+20 kg/side x 17 @ RIR 2",
+            "Add clean rep",
+            "Full stretch and top pause",
             "In progress",
-            "Guided bar machine"
+            "Guided bar excluded from recorded load"
           ],
           [
             "Shoulders",
@@ -6149,6 +6229,17 @@
             "Bench 45-60 degrees; shoulders back; do not force stretch",
             "In progress",
             "New clean baseline; replaces Cable Curl in active sequence"
+          ],
+          [
+            "Legs",
+            "Dumbbell Romanian Deadlift",
+            "15 kg each x 12 @ RIR 2; lower-back dominant",
+            "10 kg each technique only",
+            "10 kg each x 10-12 @ RIR 3-4",
+            "Technique reset; do not add load",
+            "Wall hinge; dumbbells close; hamstring-controlled depth",
+            "Verify technique",
+            "Lower-back dominant; little post-session hip pain; stop if either persists"
           ]
         ]
       },
@@ -6577,16 +6668,16 @@
             null
           ],
           [
+            "2026-08-20",
             "",
             "",
+            "Good",
+            "Low final",
+            "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Leg workout - 100 min; stairs/walking better than last Legs session",
+            "Started Medium; full EAA+ scoop (100 mg caffeine); no coffee; approximately 2-3 assisted reps on 150 kg leg press, all other sets unassisted; pre-session soreness and pre-session knee/hip/lower-back status To verify",
             "",
             "",
             "",
@@ -10842,6 +10933,36 @@
             null,
             null,
             null
+          ],
+          [
+            "Legs effort and fatigue",
+            "2026-08-20 used exactly 18 sets: 13 at RIR 2, four at RIR 1 and one at RIR 0; final energy Low; duration 100 min",
+            "Volume cap was respected, but one failure set and one assisted set kept effort too high",
+            "Next Legs: no assisted repetitions, no RIR 0 work, and retain the 18-set ceiling",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "RDL technique baseline",
+            "Dumbbell RDL at 12.5-15 kg each produced more lower-back sensation than hamstring tension; post-session back feeling was a normal pump, not pain",
+            "This is not a load-progression baseline because the intended muscle did not dominate",
+            "Reset to 10 kg each after a wall-hinge drill; stop if the back dominates or hip pain appears",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Hip pain follow-up",
+            "A little hip pain was reported after the 2026-08-20 Legs workout; side, exact location, trigger and 0-10 severity remain To verify",
+            "Do not infer a diagnosis or progress hip-loaded work until the symptom is characterized",
+            "Collect details before Shoulders; modify or stop training if pain persists, worsens or affects walking",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -11040,14 +11161,14 @@
             "Retain exactly 18 sets and 3 per exercise; keep loads; improve reserve before progression; active sequence uses incline dumbbell curl instead of cable curl"
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-20",
+            "Legs",
+            6,
+            18,
+            "Yellow",
+            "Good sleep; Medium start and Low final energy; 100 min; normal lower-back pump without pain; little hip pain with details To verify; no knee pain reported; stairs/walking better than last Legs session; full EAA+; no coffee; only the 150 kg leg-press set included assistance",
+            "Hack squat, leg extension and calf work progressed, and post-session walking/stairs improved. However, the RDL remained lower-back dominant, leg curl reached RIR 0, the top leg-press set again needed assistance, final energy was low, and hip pain requires verification.",
+            "Keep the 18-set cap; no assisted reps or failure; reset RDL technique at 10 kg each; omit 150 kg leg press; verify hip pain before Shoulders"
           ],
           [
             "",
@@ -11171,9 +11292,9 @@
           [
             "Health",
             "Current pain or movement restrictions",
-            "No joint pain reported through 2026-08-19. The lower-biceps pump after the 2026-08-18 Chest session resolved before Biceps training; 2026-08-19 ended with only the usual overall biceps sensation.",
-            "Known",
-            "Continue pain checks; stop for sharp or localized distal-biceps pain"
+            "After Legs on 2026-08-20: little hip pain (side, exact location, trigger and 0-10 severity To verify); normal lower-back muscular pump without pain; no knee pain reported.",
+            "Partial / To verify",
+            "Clarify hip details before next workout; stop or modify if pain persists, worsens or alters movement"
           ],
           [
             "Goal",
@@ -11248,9 +11369,9 @@
           [
             "Training",
             "Current sequence",
-            "Completed Biceps on 2026-08-19 in the retained one-body-part split. Legs is next, subject to fresh readiness.",
+            "Completed Legs on 2026-08-20 in the retained one-body-part split. Shoulders is next, subject to fresh readiness and resolution/clarification of hip pain.",
             "Known",
-            "Collect fresh sleep, energy, soreness and knee/hip/lower-back check before Legs"
+            "Collect sleep, energy, shoulder soreness/pain and hip status before Shoulders"
           ],
           [
             "Training",
@@ -19171,6 +19292,402 @@
         "row": 307,
         "range": "A307"
       }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Dumbbell Romanian Deadlift",
+      "Set": 1,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 308,
+        "range": "A308"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Dumbbell Romanian Deadlift",
+      "Set": 2,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 309,
+        "range": "A309"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Dumbbell Romanian Deadlift",
+      "Set": 3,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "Hamstrings felt, but lower-back involvement dominant; technique baseline only",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Do not add load; reset hinge technique next Legs session",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 310,
+        "range": "A310"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Hack Squat",
+      "Set": 1,
+      "Weight": 35,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 15,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 311,
+        "range": "A311"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Hack Squat",
+      "Set": 2,
+      "Weight": 45,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 12,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 312,
+        "range": "A312"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Hack Squat",
+      "Set": 3,
+      "Weight": 55,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 10,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 313,
+        "range": "A313"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Hack Squat",
+      "Set": 4,
+      "Weight": 65,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 10,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Progressed load while retaining RIR 2; do not add load next time",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 314,
+        "range": "A314"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Press",
+      "Set": 1,
+      "Weight": 100,
+      "Unit / Load Basis": "kg total load",
+      "Reps": 14,
+      "Form Note": "Clean; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 315,
+        "range": "A315"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Press",
+      "Set": 2,
+      "Weight": 120,
+      "Unit / Load Basis": "kg total load",
+      "Reps": 11,
+      "Form Note": "Clean; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 316,
+        "range": "A316"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Press",
+      "Set": 3,
+      "Weight": 130,
+      "Unit / Load Basis": "kg total load",
+      "Reps": 9,
+      "Form Note": "Clean; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 317,
+        "range": "A317"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Press",
+      "Set": 4,
+      "Weight": 150,
+      "Unit / Load Basis": "kg total load",
+      "Reps": 7,
+      "Form Note": "7 total; approximately 2-3 hand-assisted; approximately 4-5 clean To verify; do not treat as 7 clean",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Omit 150 kg until 130 kg is clean at target reserve and hip pain is absent",
+      "Set Type": "Assisted",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 318,
+        "range": "A318"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Curl",
+      "Set": 1,
+      "Weight": 30,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 14,
+      "Form Note": "Controlled; full range To verify",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 319,
+        "range": "A319"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Curl",
+      "Set": 2,
+      "Weight": 35,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 9,
+      "Form Note": "Reached failure reserve; full range To verify",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Reduce load/effort next time; no RIR 0 target",
+      "Set Type": "Working",
+      "RIR": 0,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 320,
+        "range": "A320"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Extension",
+      "Set": 1,
+      "Weight": 40,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 14,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 321,
+        "range": "A321"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Extension",
+      "Set": 2,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 13,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 322,
+        "range": "A322"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Leg Extension",
+      "Set": 3,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 11,
+      "Form Note": "Controlled; no assistance reported",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Progressed reps; improve reserve before load",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 323,
+        "range": "A323"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Standing Calf Raise",
+      "Set": 1,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side; guided bar excluded",
+      "Reps": 20,
+      "Form Note": "Controlled; full stretch and top pause To verify",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 324,
+        "range": "A324"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercise": "Standing Calf Raise",
+      "Set": 2,
+      "Weight": 20,
+      "Unit / Load Basis": "kg plates each side; guided bar excluded",
+      "Reps": 16,
+      "Form Note": "Controlled; full stretch and top pause To verify",
+      "Pain / Soreness": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Add one clean rep before load",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 325,
+        "range": "A325"
+      }
     }
   ],
   "sessions": [
@@ -19412,6 +19929,22 @@
         "sheet": "Session Summary",
         "row": 19,
         "range": "A19"
+      }
+    },
+    {
+      "Date": "2026-08-20",
+      "Workout": "Legs",
+      "Exercises": 6,
+      "Set Entries": 18,
+      "Readiness": "Yellow",
+      "Recovery Notes": "Good sleep; Medium start and Low final energy; 100 min; normal lower-back pump without pain; little hip pain with details To verify; no knee pain reported; stairs/walking better than last Legs session; full EAA+; no coffee; only the 150 kg leg-press set included assistance",
+      "Coach Assessment": "Hack squat, leg extension and calf work progressed, and post-session walking/stairs improved. However, the RDL remained lower-back dominant, leg curl reached RIR 0, the top leg-press set again needed assistance, final energy was low, and hip pain requires verification.",
+      "Next-Session Status": "Keep the 18-set cap; no assisted reps or failure; reset RDL technique at 10 kg each; omit 150 kg leg press; verify hip pain before Shoulders",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 20,
+        "range": "A20"
       }
     }
   ],
@@ -19674,13 +20207,13 @@
     {
       "Muscle": "Legs",
       "Exercise": "Hack Squat",
-      "Current Best Set": "60 kg/side x 10 @ RIR 1",
-      "Current Working Zone": "50-60 kg/side",
-      "Next Target": "60 kg/side x 10 @ RIR 2",
-      "Progress Rule": "Improve reserve",
-      "Technique Focus": "Back on pad; full-foot pressure",
+      "Current Best Set": "65 kg/side x 10 @ RIR 2",
+      "Current Working Zone": "35-65 kg/side",
+      "Next Target": "65 kg/side x 10 @ RIR 2",
+      "Progress Rule": "Improve reserve; no load increase",
+      "Technique Focus": "Controlled depth; knees track toes",
       "Status": "In progress",
-      "Notes": "",
+      "Notes": "Check hip before loading; progressed cleanly on 2026-08-20",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19691,13 +20224,13 @@
     {
       "Muscle": "Legs",
       "Exercise": "Leg Press",
-      "Current Best Set": "150 kg: 4 clean + 4 assisted",
-      "Current Working Zone": "110-130 kg",
-      "Next Target": "130 kg x 11-12 @ RIR 2",
-      "Progress Rule": "Clean reps before load",
-      "Technique Focus": "No hand assistance",
+      "Current Best Set": "150 kg x 7 total @ RIR 1; approx. 2-3 assisted",
+      "Current Working Zone": "100-130 kg total",
+      "Next Target": "130 kg x 9-10 @ RIR 2",
+      "Progress Rule": "Clean reps only; omit 150 kg",
+      "Technique Focus": "No hand assistance; controlled depth",
       "Status": "Modify effort",
-      "Notes": "150 kg is not an 8-clean-rep result",
+      "Notes": "Approx. 4-5 clean reps at 150 kg To verify; hip pain follow-up required",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19708,13 +20241,13 @@
     {
       "Muscle": "Legs",
       "Exercise": "Leg Extension",
-      "Current Best Set": "45 kg x 12 @ RIR 1",
-      "Current Working Zone": "35-45 kg",
-      "Next Target": "45 kg x 12 @ RIR 2",
-      "Progress Rule": "Improve reserve",
-      "Technique Focus": "Pause at top",
+      "Current Best Set": "50 kg x 11 @ RIR 1",
+      "Current Working Zone": "40-50 kg",
+      "Next Target": "50 kg x 10-11 @ RIR 2",
+      "Progress Rule": "Improve reserve before load",
+      "Technique Focus": "Controlled lockout; no momentum",
       "Status": "In progress",
-      "Notes": "",
+      "Notes": "Progressed reps on 2026-08-20",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19725,13 +20258,13 @@
     {
       "Muscle": "Legs",
       "Exercise": "Leg Curl",
-      "Current Best Set": "40 kg x 8 @ RIR 1; form To verify",
-      "Current Working Zone": "35-40 kg",
-      "Next Target": "35 kg x 12-15 strict @ RIR 2",
-      "Progress Rule": "Verify range before load",
-      "Technique Focus": "Hips stable; full controlled range",
-      "Status": "Verify",
-      "Notes": "40 kg sets may have shortened range or hip movement",
+      "Current Best Set": "35 kg x 9 @ RIR 0",
+      "Current Working Zone": "30-35 kg",
+      "Next Target": "30 kg x 12 @ RIR 2",
+      "Progress Rule": "Reduce failure exposure",
+      "Technique Focus": "Full range; hips down",
+      "Status": "Modify effort",
+      "Notes": "Full range at 35 kg remains To verify",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -19776,13 +20309,13 @@
     {
       "Muscle": "Legs",
       "Exercise": "Standing Calf Raise",
-      "Current Best Set": "Bar +20 kg/side x 16 @ RIR 2",
-      "Current Working Zone": "Bar +20 kg/side",
-      "Next Target": "17-18 reps @ RIR 2",
-      "Progress Rule": "Add reps first",
-      "Technique Focus": "Full stretch; top pause",
+      "Current Best Set": "+20 kg/side x 16 @ RIR 2",
+      "Current Working Zone": "+10 to +20 kg/side",
+      "Next Target": "+20 kg/side x 17 @ RIR 2",
+      "Progress Rule": "Add clean rep",
+      "Technique Focus": "Full stretch and top pause",
       "Status": "In progress",
-      "Notes": "Guided bar machine",
+      "Notes": "Guided bar excluded from recorded load",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -20146,6 +20679,23 @@
         "row": 47,
         "range": "A47"
       }
+    },
+    {
+      "Muscle": "Legs",
+      "Exercise": "Dumbbell Romanian Deadlift",
+      "Current Best Set": "15 kg each x 12 @ RIR 2; lower-back dominant",
+      "Current Working Zone": "10 kg each technique only",
+      "Next Target": "10 kg each x 10-12 @ RIR 3-4",
+      "Progress Rule": "Technique reset; do not add load",
+      "Technique Focus": "Wall hinge; dumbbells close; hamstring-controlled depth",
+      "Status": "Verify technique",
+      "Notes": "Lower-back dominant; little post-session hip pain; stop if either persists",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 48,
+        "range": "A48"
+      }
     }
   ],
   "recovery": [
@@ -20468,6 +21018,26 @@
         "row": 20,
         "range": "A20"
       }
+    },
+    {
+      "Date": "2026-08-20",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Low final",
+      "Soreness / Pain": "Post: normal lower-back pump; little hip pain (side, location, trigger and 0-10 severity To verify); no knee pain reported",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Leg workout - 100 min; stairs/walking better than last Legs session",
+      "Notes": "Started Medium; full EAA+ scoop (100 mg caffeine); no coffee; approximately 2-3 assisted reps on 150 kg leg press, all other sets unassisted; pre-session soreness and pre-session knee/hip/lower-back status To verify",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 21,
+        "range": "A21"
+      }
     }
   ],
   "protein": [
@@ -20779,9 +21349,9 @@
     {
       "Category": "Health",
       "Item": "Current pain or movement restrictions",
-      "Current Value": "No joint pain reported through 2026-08-19. The lower-biceps pump after the 2026-08-18 Chest session resolved before Biceps training; 2026-08-19 ended with only the usual overall biceps sensation.",
-      "Status": "Known",
-      "Why Needed / Next Check": "Continue pain checks; stop for sharp or localized distal-biceps pain",
+      "Current Value": "After Legs on 2026-08-20: little hip pain (side, exact location, trigger and 0-10 severity To verify); normal lower-back muscular pump without pain; no knee pain reported.",
+      "Status": "Partial / To verify",
+      "Why Needed / Next Check": "Clarify hip details before next workout; stop or modify if pain persists, worsens or alters movement",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -20922,9 +21492,9 @@
     {
       "Category": "Training",
       "Item": "Current sequence",
-      "Current Value": "Completed Biceps on 2026-08-19 in the retained one-body-part split. Legs is next, subject to fresh readiness.",
+      "Current Value": "Completed Legs on 2026-08-20 in the retained one-body-part split. Shoulders is next, subject to fresh readiness and resolution/clarification of hip pain.",
       "Status": "Known",
-      "Why Needed / Next Check": "Collect fresh sleep, energy, soreness and knee/hip/lower-back check before Legs",
+      "Why Needed / Next Check": "Collect sleep, energy, shoulder soreness/pain and hip status before Shoulders",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -21566,6 +22136,42 @@
         "sheet": "Program Notes",
         "row": 46,
         "range": "A46"
+      }
+    },
+    {
+      "Category": "Legs effort and fatigue",
+      "Rule / Observation": "2026-08-20 used exactly 18 sets: 13 at RIR 2, four at RIR 1 and one at RIR 0; final energy Low; duration 100 min",
+      "Why It Matters": "Volume cap was respected, but one failure set and one assisted set kept effort too high",
+      "Action": "Next Legs: no assisted repetitions, no RIR 0 work, and retain the 18-set ceiling",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 47,
+        "range": "A47"
+      }
+    },
+    {
+      "Category": "RDL technique baseline",
+      "Rule / Observation": "Dumbbell RDL at 12.5-15 kg each produced more lower-back sensation than hamstring tension; post-session back feeling was a normal pump, not pain",
+      "Why It Matters": "This is not a load-progression baseline because the intended muscle did not dominate",
+      "Action": "Reset to 10 kg each after a wall-hinge drill; stop if the back dominates or hip pain appears",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 48,
+        "range": "A48"
+      }
+    },
+    {
+      "Category": "Hip pain follow-up",
+      "Rule / Observation": "A little hip pain was reported after the 2026-08-20 Legs workout; side, exact location, trigger and 0-10 severity remain To verify",
+      "Why It Matters": "Do not infer a diagnosis or progress hip-loaded work until the symptom is characterized",
+      "Action": "Collect details before Shoulders; modify or stop training if pain persists, worsens or affects walking",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 49,
+        "range": "A49"
       }
     }
   ],
@@ -24272,54 +24878,30 @@
     },
     {
       "id": "md-226",
-      "level": 2,
-      "title": "Tracker reconciliation completed - 2026-08-18 Chest session",
-      "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session",
-      "raw": "- The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.\n- No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.\n- The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain **To verify**.\n- Markdown workout history: **Updated through 2026-08-18**.\n- Canonical Excel tracker: **Updated and verified through 2026-08-18**.\n- Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.",
-      "html": "<ul>\n<li>The 18 completed entries were reconciled as <strong>15 direct Chest working sets plus three Front Plank core-finisher sets</strong>.</li>\n<li>No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.</li>\n<li>The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain <strong>To verify</strong>.</li>\n<li>Markdown workout history: <strong>Updated through 2026-08-18</strong>.</li>\n<li>Canonical Excel tracker: <strong>Updated and verified through 2026-08-18</strong>.</li>\n<li>Website source dataset: <strong>Regenerated from the canonical files for the current deployment pipeline</strong>.</li>\n</ul>\n",
-      "source": {
-        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session"
-      }
-    },
-    {
-      "id": "md-227",
       "level": 1,
-      "title": "Standardized Sunday Measurement Check-In - 2026-08-16",
-      "anchor": "standardized-sunday-measurement-check-in-2026-08-16",
-      "raw": "- Morning body weight: **88.3 kg**.\n- Waist at navel: **38 in (96.5 cm)**.\n- Measurement conditions: **After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level**.\n- Status: **Verified standardized check-in**.\n- Change from the 2026-08-09 standardized baseline: **-0.5 kg body weight and -2.6 cm waist (-1 in)**.\n- Photos: **Not supplied for this check-in; existing photo status remains unchanged**.\n\nThis is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.",
-      "html": "<ul>\n<li>Morning body weight: <strong>88.3 kg</strong>.</li>\n<li>Waist at navel: <strong>38 in (96.5 cm)</strong>.</li>\n<li>Measurement conditions: <strong>After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level</strong>.</li>\n<li>Status: <strong>Verified standardized check-in</strong>.</li>\n<li>Change from the 2026-08-09 standardized baseline: <strong>-0.5 kg body weight and -2.6 cm waist (-1 in)</strong>.</li>\n<li>Photos: <strong>Not supplied for this check-in; existing photo status remains unchanged</strong>.</li>\n</ul>\n<p>This is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.</p>\n",
-      "source": {
-        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "standardized-sunday-measurement-check-in-2026-08-16"
-      }
-    },
-    {
-      "id": "md-228",
-      "level": 1,
-      "title": "Biceps Workout - 2026-08-19",
-      "anchor": "biceps-workout-2026-08-19",
+      "title": "Legs Workout - 2026-08-20",
+      "anchor": "legs-workout-2026-08-20",
       "raw": "",
       "html": "",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "biceps-workout-2026-08-19"
+        "anchor": "legs-workout-2026-08-20"
       }
     },
     {
-      "id": "md-229",
+      "id": "md-227",
       "level": 2,
       "title": "Pre-workout readiness",
       "anchor": "pre-workout-readiness-8",
-      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Lower-biceps pump following the 2026-08-18 Chest session: **Resolved**.\n- Elbow, wrist or shoulder pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
-      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Lower-biceps pump following the 2026-08-18 Chest session: <strong>Resolved</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium**.\n- Quadriceps or hamstring soreness before training: **To verify; not reported before the session**.\n- Knee, hip or lower-back pain before training: **To verify; not reported before the session**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Black coffee: **None**.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium</strong>.</li>\n<li>Quadriceps or hamstring soreness before training: <strong>To verify; not reported before the session</strong>.</li>\n<li>Knee, hip or lower-back pain before training: <strong>To verify; not reported before the session</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "pre-workout-readiness-8"
       }
     },
     {
-      "id": "md-230",
+      "id": "md-228",
       "level": 2,
       "title": "Completed sets",
       "anchor": "completed-sets-8",
@@ -24331,7 +24913,199 @@
       }
     },
     {
+      "id": "md-229",
+      "level": 3,
+      "title": "Dumbbell Romanian deadlift - each dumbbell",
+      "anchor": "dumbbell-romanian-deadlift-each-dumbbell",
+      "raw": "| Set | Load | Reps | RIR | Technique response |\n|---:|---:|---:|---:|---|\n| 1 | 12.5 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |\n| 2 | 15 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |\n| 3 | 15 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |\n\nThis was the first tracked Romanian-deadlift baseline. Vipin felt the hamstrings, but the lower back was the dominant area. The post-session lower-back sensation was described as a normal muscular pump rather than pain. The loads and repetitions are preserved, but this is **not** treated as a successful hamstring-dominant progression baseline. Do not add load next time.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Technique response</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">12.5 kg each</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Lower-back involvement greater than hamstring involvement</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">15 kg each</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Lower-back involvement greater than hamstring involvement</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">15 kg each</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Lower-back involvement greater than hamstring involvement</td>\n</tr>\n</tbody></table>\n<p>This was the first tracked Romanian-deadlift baseline. Vipin felt the hamstrings, but the lower back was the dominant area. The post-session lower-back sensation was described as a normal muscular pump rather than pain. The loads and repetitions are preserved, but this is <strong>not</strong> treated as a successful hamstring-dominant progression baseline. Do not add load next time.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "dumbbell-romanian-deadlift-each-dumbbell"
+      }
+    },
+    {
+      "id": "md-230",
+      "level": 3,
+      "title": "Hack squat - plates each side",
+      "anchor": "hack-squat-plates-each-side-3",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 35 kg/side | 15 | 2 |\n| 2 | 45 kg/side | 12 | 2 |\n| 3 | 55 kg/side | 10 | 2 |\n| 4 | 65 kg/side | 10 | 2 |\n\nThe 65 kg/side top set exceeded the previous 60 kg/side x 10 at RIR 1 while retaining RIR 2. This is a strong progression, but no further load increase is needed until the full session is completed with better final energy and no hip discomfort.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">35 kg/side</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">45 kg/side</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">55 kg/side</td>\n<td align=\"right\">10</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">65 kg/side</td>\n<td align=\"right\">10</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>The 65 kg/side top set exceeded the previous 60 kg/side x 10 at RIR 1 while retaining RIR 2. This is a strong progression, but no further load increase is needed until the full session is completed with better final energy and no hip discomfort.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "hack-squat-plates-each-side-3"
+      }
+    },
+    {
       "id": "md-231",
+      "level": 3,
+      "title": "Leg press - total weight",
+      "anchor": "leg-press-total-weight-3",
+      "raw": "| Set | Load | Reps | RIR | Assistance |\n|---:|---:|---:|---:|---|\n| 1 | 100 kg | 14 | 2 | None |\n| 2 | 120 kg | 11 | 2 | None |\n| 3 | 130 kg | 9 | 1 | None |\n| 4 | 150 kg | 7 total | 1 | Approximately 2-3 hand-assisted repetitions |\n\nThe 150 kg result is retained as **seven total repetitions with approximately two to three assisted repetitions**. Therefore, the clean component is approximately four to five repetitions and remains **To verify**; it must not be recorded as seven clean repetitions.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Assistance</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">100 kg</td>\n<td align=\"right\">14</td>\n<td align=\"right\">2</td>\n<td>None</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">120 kg</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n<td>None</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">130 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">1</td>\n<td>None</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">150 kg</td>\n<td align=\"right\">7 total</td>\n<td align=\"right\">1</td>\n<td>Approximately 2-3 hand-assisted repetitions</td>\n</tr>\n</tbody></table>\n<p>The 150 kg result is retained as <strong>seven total repetitions with approximately two to three assisted repetitions</strong>. Therefore, the clean component is approximately four to five repetitions and remains <strong>To verify</strong>; it must not be recorded as seven clean repetitions.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "leg-press-total-weight-3"
+      }
+    },
+    {
+      "id": "md-232",
+      "level": 3,
+      "title": "Leg curl - total weight",
+      "anchor": "leg-curl-total-weight-2",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 30 kg | 14 | 2 |\n| 2 | 35 kg | 9 | 0 |\n\nThe 35 kg set reached failure-level effort. Stop progression at this load and re-establish full-range repetitions with reserve next time.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">30 kg</td>\n<td align=\"right\">14</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">35 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">0</td>\n</tr>\n</tbody></table>\n<p>The 35 kg set reached failure-level effort. Stop progression at this load and re-establish full-range repetitions with reserve next time.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "leg-curl-total-weight-2"
+      }
+    },
+    {
+      "id": "md-233",
+      "level": 3,
+      "title": "Leg extension - total weight",
+      "anchor": "leg-extension-total-weight-3",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 40 kg | 14 | 2 |\n| 2 | 45 kg | 13 | 1 |\n| 3 | 50 kg | 11 | 1 |\n\nRepetitions progressed at all three loads, including a new 50 kg x 11 top set. Preserve these loads and improve reserve before adding weight.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">40 kg</td>\n<td align=\"right\">14</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">13</td>\n<td align=\"right\">1</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">11</td>\n<td align=\"right\">1</td>\n</tr>\n</tbody></table>\n<p>Repetitions progressed at all three loads, including a new 50 kg x 11 top set. Preserve these loads and improve reserve before adding weight.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "leg-extension-total-weight-3"
+      }
+    },
+    {
+      "id": "md-234",
+      "level": 3,
+      "title": "Standing calf raise - guided bar machine; plates each side",
+      "anchor": "standing-calf-raise-guided-bar-machine-plates-each-side",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | Bar +10 kg/side | 20 | 2 |\n| 2 | Bar +20 kg/side | 16 | 2 |\n\nThe +10 kg/side set progressed to 20 repetitions. The +20 kg/side set matched the previous 16-repetition result with RIR 2.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">Bar +10 kg/side</td>\n<td align=\"right\">20</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">Bar +20 kg/side</td>\n<td align=\"right\">16</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>The +10 kg/side set progressed to 20 repetitions. The +20 kg/side set matched the previous 16-repetition result with RIR 2.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "standing-calf-raise-guided-bar-machine-plates-each-side"
+      }
+    },
+    {
+      "id": "md-235",
+      "level": 2,
+      "title": "Post-workout recovery",
+      "anchor": "post-workout-recovery-8",
+      "raw": "- Lower back: **Normal muscular pump; no lower-back pain reported**.\n- Hip: **A little hip pain**; side, exact location, movement trigger and 0-10 severity remain **To verify**.\n- Knee pain: **None reported**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 40 minutes**.\n- Assisted repetitions: **Only approximately two to three repetitions in the 150 kg leg-press set**.\n- Walking/stairs: **Better than after the previous Legs session**.\n- Full EAA+ serving: **Confirmed**.\n- Black coffee: **None**.",
+      "html": "<ul>\n<li>Lower back: <strong>Normal muscular pump; no lower-back pain reported</strong>.</li>\n<li>Hip: <strong>A little hip pain</strong>; side, exact location, movement trigger and 0-10 severity remain <strong>To verify</strong>.</li>\n<li>Knee pain: <strong>None reported</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 40 minutes</strong>.</li>\n<li>Assisted repetitions: <strong>Only approximately two to three repetitions in the 150 kg leg-press set</strong>.</li>\n<li>Walking/stairs: <strong>Better than after the previous Legs session</strong>.</li>\n<li>Full EAA+ serving: <strong>Confirmed</strong>.</li>\n<li>Black coffee: <strong>None</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "post-workout-recovery-8"
+      }
+    },
+    {
+      "id": "md-236",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-11",
+      "raw": "The session contained exactly **18 working sets**: 13 at RIR 2, four at RIR 1 and one at RIR 0. Hack squat, leg extension and the lighter calf set progressed. Walking and stair tolerance were better than after the previous Legs session, and the lower-back response was described as a normal pump rather than pain.\n\nEffort control was still incomplete. The 35 kg leg curl reached RIR 0, the 150 kg leg-press set again required assistance, final energy fell to Low and the workout lasted 100 minutes. The new Romanian deadlift produced more lower-back than hamstring sensation, so its technique is not yet established. A little hip pain was present after training and requires a fresh location/severity/movement check before the next lower-body session.\n\nDo not progress load based solely on today's strongest numbers. The next Legs session should use fewer near-failure sets, no assisted repetitions, and a lighter Romanian-deadlift technique reset. If hip discomfort persists during walking, squatting, hinging or daily activity, lower-body loading should be modified until it resolves.",
+      "html": "<p>The session contained exactly <strong>18 working sets</strong>: 13 at RIR 2, four at RIR 1 and one at RIR 0. Hack squat, leg extension and the lighter calf set progressed. Walking and stair tolerance were better than after the previous Legs session, and the lower-back response was described as a normal pump rather than pain.</p>\n<p>Effort control was still incomplete. The 35 kg leg curl reached RIR 0, the 150 kg leg-press set again required assistance, final energy fell to Low and the workout lasted 100 minutes. The new Romanian deadlift produced more lower-back than hamstring sensation, so its technique is not yet established. A little hip pain was present after training and requires a fresh location/severity/movement check before the next lower-body session.</p>\n<p>Do not progress load based solely on today&#39;s strongest numbers. The next Legs session should use fewer near-failure sets, no assisted repetitions, and a lighter Romanian-deadlift technique reset. If hip discomfort persists during walking, squatting, hinging or daily activity, lower-body loading should be modified until it resolves.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-11"
+      }
+    },
+    {
+      "id": "md-237",
+      "level": 2,
+      "title": "Next Legs-session targets",
+      "anchor": "next-legs-session-targets-2",
+      "raw": "| Exercise | Next target |\n|---|---|\n| Dumbbell Romanian deadlift | Begin with bodyweight wall-hinge practice, then 10 kg each x 10-12 for 2-3 technique sets at RIR 3-4. Keep the dumbbells close, stop at the hamstring-controlled depth and discontinue if the lower back remains dominant or hip pain appears. |\n| Hack squat | 35 kg/side x 12-15 @ RIR 3; 45 kg/side x 12 @ RIR 3; 55 kg/side x 10-11 @ RIR 2; 65 kg/side x 10 @ RIR 2. Do not add load. |\n| Leg press | 100 kg x 12-14 @ RIR 3; 120 kg x 10-11 @ RIR 2-3; 130 kg x 9-10 @ RIR 2. Omit 150 kg until 130 kg reaches the target cleanly and hip discomfort is absent. No hand assistance. |\n| Leg curl | 30 kg x 12-15 @ RIR 3, then 30 kg x 12 @ RIR 2. Use 35 kg only if full range and at least RIR 2 can be maintained; no RIR 0 set. |\n| Leg extension | 40 kg x 14-15 @ RIR 3; 45 kg x 12-13 @ RIR 2; 50 kg x 10-11 @ RIR 2. Keep loads unchanged. |\n| Standing calf raise | Bar +10 kg/side x 20 @ RIR 3; bar +20 kg/side x 17 @ RIR 2, with full stretch, top pause and no bouncing. |\n\nThe next Legs session remains capped at **18 working sets**. Shoulders is next in the retained one-body-part split, subject to fresh readiness and confirmation that the hip discomfort has resolved.",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Dumbbell Romanian deadlift</td>\n<td>Begin with bodyweight wall-hinge practice, then 10 kg each x 10-12 for 2-3 technique sets at RIR 3-4. Keep the dumbbells close, stop at the hamstring-controlled depth and discontinue if the lower back remains dominant or hip pain appears.</td>\n</tr>\n<tr>\n<td>Hack squat</td>\n<td>35 kg/side x 12-15 @ RIR 3; 45 kg/side x 12 @ RIR 3; 55 kg/side x 10-11 @ RIR 2; 65 kg/side x 10 @ RIR 2. Do not add load.</td>\n</tr>\n<tr>\n<td>Leg press</td>\n<td>100 kg x 12-14 @ RIR 3; 120 kg x 10-11 @ RIR 2-3; 130 kg x 9-10 @ RIR 2. Omit 150 kg until 130 kg reaches the target cleanly and hip discomfort is absent. No hand assistance.</td>\n</tr>\n<tr>\n<td>Leg curl</td>\n<td>30 kg x 12-15 @ RIR 3, then 30 kg x 12 @ RIR 2. Use 35 kg only if full range and at least RIR 2 can be maintained; no RIR 0 set.</td>\n</tr>\n<tr>\n<td>Leg extension</td>\n<td>40 kg x 14-15 @ RIR 3; 45 kg x 12-13 @ RIR 2; 50 kg x 10-11 @ RIR 2. Keep loads unchanged.</td>\n</tr>\n<tr>\n<td>Standing calf raise</td>\n<td>Bar +10 kg/side x 20 @ RIR 3; bar +20 kg/side x 17 @ RIR 2, with full stretch, top pause and no bouncing.</td>\n</tr>\n</tbody></table>\n<p>The next Legs session remains capped at <strong>18 working sets</strong>. Shoulders is next in the retained one-body-part split, subject to fresh readiness and confirmation that the hip discomfort has resolved.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-legs-session-targets-2"
+      }
+    },
+    {
+      "id": "md-238",
+      "level": 2,
+      "title": "Tracker status after 2026-08-20 Legs session",
+      "anchor": "tracker-status-after-2026-08-20-legs-session",
+      "raw": "- Markdown workout history: **Updated**.\n- Canonical Excel tracker: **Pending this session's reconciliation**.\n- Public dashboard: **Pending synchronization and deployment**.",
+      "html": "<ul>\n<li>Markdown workout history: <strong>Updated</strong>.</li>\n<li>Canonical Excel tracker: <strong>Pending this session&#39;s reconciliation</strong>.</li>\n<li>Public dashboard: <strong>Pending synchronization and deployment</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-status-after-2026-08-20-legs-session"
+      }
+    },
+    {
+      "id": "md-239",
+      "level": 2,
+      "title": "Tracker reconciliation completed - 2026-08-20 Legs session",
+      "anchor": "tracker-reconciliation-completed-2026-08-20-legs-session",
+      "raw": "- Canonical Excel tracker: **Updated and verified** with all 18 sets, recovery, coaching assessment and next-session targets.\n- Assisted-repetition handling: the 150 kg leg-press set remains **7 total repetitions with approximately 2-3 assisted repetitions**; the approximately 4-5 clean repetitions remain **To verify** and are not treated as seven clean reps.\n- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.\n- Historical workout records and all existing `To verify` flags remain preserved.",
+      "html": "<ul>\n<li>Canonical Excel tracker: <strong>Updated and verified</strong> with all 18 sets, recovery, coaching assessment and next-session targets.</li>\n<li>Assisted-repetition handling: the 150 kg leg-press set remains <strong>7 total repetitions with approximately 2-3 assisted repetitions</strong>; the approximately 4-5 clean repetitions remain <strong>To verify</strong> and are not treated as seven clean reps.</li>\n<li>Workbook validation: <strong>Passed</strong>; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.</li>\n<li>Historical workout records and all existing <code>To verify</code> flags remain preserved.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-reconciliation-completed-2026-08-20-legs-session"
+      }
+    },
+    {
+      "id": "md-240",
+      "level": 2,
+      "title": "Tracker reconciliation completed - 2026-08-18 Chest session",
+      "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session",
+      "raw": "- The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.\n- No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.\n- The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain **To verify**.\n- Markdown workout history: **Updated through 2026-08-18**.\n- Canonical Excel tracker: **Updated and verified through 2026-08-18**.\n- Website source dataset: **Regenerated from the canonical files for the current deployment pipeline**.",
+      "html": "<ul>\n<li>The 18 completed entries were reconciled as <strong>15 direct Chest working sets plus three Front Plank core-finisher sets</strong>.</li>\n<li>No assisted repetitions were recorded. The 45 kg/side plate-loaded chest-press set is retained as a clean new baseline.</li>\n<li>The lower-biceps sensation is preserved as a little pump after the final cable-fly set, not pain; exact side and resolution remain <strong>To verify</strong>.</li>\n<li>Markdown workout history: <strong>Updated through 2026-08-18</strong>.</li>\n<li>Canonical Excel tracker: <strong>Updated and verified through 2026-08-18</strong>.</li>\n<li>Website source dataset: <strong>Regenerated from the canonical files for the current deployment pipeline</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session"
+      }
+    },
+    {
+      "id": "md-241",
+      "level": 1,
+      "title": "Standardized Sunday Measurement Check-In - 2026-08-16",
+      "anchor": "standardized-sunday-measurement-check-in-2026-08-16",
+      "raw": "- Morning body weight: **88.3 kg**.\n- Waist at navel: **38 in (96.5 cm)**.\n- Measurement conditions: **After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level**.\n- Status: **Verified standardized check-in**.\n- Change from the 2026-08-09 standardized baseline: **-0.5 kg body weight and -2.6 cm waist (-1 in)**.\n- Photos: **Not supplied for this check-in; existing photo status remains unchanged**.\n\nThis is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.",
+      "html": "<ul>\n<li>Morning body weight: <strong>88.3 kg</strong>.</li>\n<li>Waist at navel: <strong>38 in (96.5 cm)</strong>.</li>\n<li>Measurement conditions: <strong>After using the bathroom and before food or drink; abdomen relaxed; tape positioned at navel level</strong>.</li>\n<li>Status: <strong>Verified standardized check-in</strong>.</li>\n<li>Change from the 2026-08-09 standardized baseline: <strong>-0.5 kg body weight and -2.6 cm waist (-1 in)</strong>.</li>\n<li>Photos: <strong>Not supplied for this check-in; existing photo status remains unchanged</strong>.</li>\n</ul>\n<p>This is the second standardized Sunday data point. The direction is favorable, but one week is too short to classify the full change as fat loss because body weight and waist can also move with hydration, digestion and measurement variation. Continue the identical Sunday protocol and use the multi-week trend for coaching decisions.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "standardized-sunday-measurement-check-in-2026-08-16"
+      }
+    },
+    {
+      "id": "md-242",
+      "level": 1,
+      "title": "Biceps Workout - 2026-08-19",
+      "anchor": "biceps-workout-2026-08-19",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "biceps-workout-2026-08-19"
+      }
+    },
+    {
+      "id": "md-243",
+      "level": 2,
+      "title": "Pre-workout readiness",
+      "anchor": "pre-workout-readiness-9",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Lower-biceps pump following the 2026-08-18 Chest session: **Resolved**.\n- Elbow, wrist or shoulder pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Lower-biceps pump following the 2026-08-18 Chest session: <strong>Resolved</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pre-workout-readiness-9"
+      }
+    },
+    {
+      "id": "md-244",
+      "level": 2,
+      "title": "Completed sets",
+      "anchor": "completed-sets-9",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-sets-9"
+      }
+    },
+    {
+      "id": "md-245",
       "level": 3,
       "title": "Straight-bar curl - plates each side; bar excluded",
       "anchor": "straight-bar-curl-plates-each-side-bar-excluded-2",
@@ -24343,7 +25117,7 @@
       }
     },
     {
-      "id": "md-232",
+      "id": "md-246",
       "level": 3,
       "title": "Incline dumbbell curl - weight per dumbbell",
       "anchor": "incline-dumbbell-curl-weight-per-dumbbell",
@@ -24355,7 +25129,7 @@
       }
     },
     {
-      "id": "md-233",
+      "id": "md-247",
       "level": 3,
       "title": "Plate-loaded curl machine - plates each side",
       "anchor": "plate-loaded-curl-machine-plates-each-side",
@@ -24367,7 +25141,7 @@
       }
     },
     {
-      "id": "md-234",
+      "id": "md-248",
       "level": 3,
       "title": "Hammer dumbbell curl - weight per dumbbell",
       "anchor": "hammer-dumbbell-curl-weight-per-dumbbell",
@@ -24379,7 +25153,7 @@
       }
     },
     {
-      "id": "md-235",
+      "id": "md-249",
       "level": 3,
       "title": "Concentration curl - weight per dumbbell",
       "anchor": "concentration-curl-weight-per-dumbbell",
@@ -24391,7 +25165,7 @@
       }
     },
     {
-      "id": "md-236",
+      "id": "md-250",
       "level": 3,
       "title": "Reverse EZ-bar curl - plates each side; bar excluded",
       "anchor": "reverse-ez-bar-curl-plates-each-side-bar-excluded-2",
@@ -24403,31 +25177,31 @@
       }
     },
     {
-      "id": "md-237",
+      "id": "md-251",
       "level": 2,
       "title": "Post-workout recovery",
-      "anchor": "post-workout-recovery-8",
+      "anchor": "post-workout-recovery-9",
       "raw": "- Biceps sensation: **Usual overall muscular sensation; no unusual localized lower-biceps symptom**.\n- Elbow, wrist or shoulder pain: **None**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 30 minutes**.\n- Assisted repetitions or body swinging: **None**.\n- Biceps pump: **Medium to high**.\n- Incline and concentration curls: **Confirmed clean and controlled**.",
       "html": "<ul>\n<li>Biceps sensation: <strong>Usual overall muscular sensation; no unusual localized lower-biceps symptom</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 30 minutes</strong>.</li>\n<li>Assisted repetitions or body swinging: <strong>None</strong>.</li>\n<li>Biceps pump: <strong>Medium to high</strong>.</li>\n<li>Incline and concentration curls: <strong>Confirmed clean and controlled</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "post-workout-recovery-8"
+        "anchor": "post-workout-recovery-9"
       }
     },
     {
-      "id": "md-238",
+      "id": "md-252",
       "level": 2,
       "title": "Coaching assessment",
-      "anchor": "coaching-assessment-11",
+      "anchor": "coaching-assessment-12",
       "raw": "This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly **18 working sets**, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was **three sets at RIR 3, twelve at RIR 2 and three at RIR 1**. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.\n\nPerformance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.\n\nFinal energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.",
       "html": "<p>This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly <strong>18 working sets</strong>, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was <strong>three sets at RIR 3, twelve at RIR 2 and three at RIR 1</strong>. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.</p>\n<p>Performance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.</p>\n<p>Final energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.</p>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "coaching-assessment-11"
+        "anchor": "coaching-assessment-12"
       }
     },
     {
-      "id": "md-239",
+      "id": "md-253",
       "level": 2,
       "title": "Next Biceps-session targets",
       "anchor": "next-biceps-session-targets-2",
@@ -24439,7 +25213,7 @@
       }
     },
     {
-      "id": "md-240",
+      "id": "md-254",
       "level": 2,
       "title": "Tracker status after 2026-08-19 Biceps session",
       "anchor": "tracker-status-after-2026-08-19-biceps-session",

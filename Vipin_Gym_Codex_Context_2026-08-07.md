@@ -1762,6 +1762,125 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 - Website source dataset: **Regenerated** from the canonical Markdown and workbook with 303 journal entries and 15 completed sessions.
 - Historical workout records, clean/assisted distinctions and all existing `To verify` flags remain preserved.
 
+# Legs Workout - 2026-08-20
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Quadriceps or hamstring soreness before training: **To verify; not reported before the session**.
+- Knee, hip or lower-back pain before training: **To verify; not reported before the session**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Black coffee: **None**.
+
+## Completed sets
+
+### Dumbbell Romanian deadlift - each dumbbell
+
+| Set | Load | Reps | RIR | Technique response |
+|---:|---:|---:|---:|---|
+| 1 | 12.5 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |
+| 2 | 15 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |
+| 3 | 15 kg each | 12 | 2 | Lower-back involvement greater than hamstring involvement |
+
+This was the first tracked Romanian-deadlift baseline. Vipin felt the hamstrings, but the lower back was the dominant area. The post-session lower-back sensation was described as a normal muscular pump rather than pain. The loads and repetitions are preserved, but this is **not** treated as a successful hamstring-dominant progression baseline. Do not add load next time.
+
+### Hack squat - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg/side | 15 | 2 |
+| 2 | 45 kg/side | 12 | 2 |
+| 3 | 55 kg/side | 10 | 2 |
+| 4 | 65 kg/side | 10 | 2 |
+
+The 65 kg/side top set exceeded the previous 60 kg/side x 10 at RIR 1 while retaining RIR 2. This is a strong progression, but no further load increase is needed until the full session is completed with better final energy and no hip discomfort.
+
+### Leg press - total weight
+
+| Set | Load | Reps | RIR | Assistance |
+|---:|---:|---:|---:|---|
+| 1 | 100 kg | 14 | 2 | None |
+| 2 | 120 kg | 11 | 2 | None |
+| 3 | 130 kg | 9 | 1 | None |
+| 4 | 150 kg | 7 total | 1 | Approximately 2-3 hand-assisted repetitions |
+
+The 150 kg result is retained as **seven total repetitions with approximately two to three assisted repetitions**. Therefore, the clean component is approximately four to five repetitions and remains **To verify**; it must not be recorded as seven clean repetitions.
+
+### Leg curl - total weight
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 14 | 2 |
+| 2 | 35 kg | 9 | 0 |
+
+The 35 kg set reached failure-level effort. Stop progression at this load and re-establish full-range repetitions with reserve next time.
+
+### Leg extension - total weight
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 14 | 2 |
+| 2 | 45 kg | 13 | 1 |
+| 3 | 50 kg | 11 | 1 |
+
+Repetitions progressed at all three loads, including a new 50 kg x 11 top set. Preserve these loads and improve reserve before adding weight.
+
+### Standing calf raise - guided bar machine; plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | Bar +10 kg/side | 20 | 2 |
+| 2 | Bar +20 kg/side | 16 | 2 |
+
+The +10 kg/side set progressed to 20 repetitions. The +20 kg/side set matched the previous 16-repetition result with RIR 2.
+
+## Post-workout recovery
+
+- Lower back: **Normal muscular pump; no lower-back pain reported**.
+- Hip: **A little hip pain**; side, exact location, movement trigger and 0-10 severity remain **To verify**.
+- Knee pain: **None reported**.
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 40 minutes**.
+- Assisted repetitions: **Only approximately two to three repetitions in the 150 kg leg-press set**.
+- Walking/stairs: **Better than after the previous Legs session**.
+- Full EAA+ serving: **Confirmed**.
+- Black coffee: **None**.
+
+## Coaching assessment
+
+The session contained exactly **18 working sets**: 13 at RIR 2, four at RIR 1 and one at RIR 0. Hack squat, leg extension and the lighter calf set progressed. Walking and stair tolerance were better than after the previous Legs session, and the lower-back response was described as a normal pump rather than pain.
+
+Effort control was still incomplete. The 35 kg leg curl reached RIR 0, the 150 kg leg-press set again required assistance, final energy fell to Low and the workout lasted 100 minutes. The new Romanian deadlift produced more lower-back than hamstring sensation, so its technique is not yet established. A little hip pain was present after training and requires a fresh location/severity/movement check before the next lower-body session.
+
+Do not progress load based solely on today's strongest numbers. The next Legs session should use fewer near-failure sets, no assisted repetitions, and a lighter Romanian-deadlift technique reset. If hip discomfort persists during walking, squatting, hinging or daily activity, lower-body loading should be modified until it resolves.
+
+## Next Legs-session targets
+
+| Exercise | Next target |
+|---|---|
+| Dumbbell Romanian deadlift | Begin with bodyweight wall-hinge practice, then 10 kg each x 10-12 for 2-3 technique sets at RIR 3-4. Keep the dumbbells close, stop at the hamstring-controlled depth and discontinue if the lower back remains dominant or hip pain appears. |
+| Hack squat | 35 kg/side x 12-15 @ RIR 3; 45 kg/side x 12 @ RIR 3; 55 kg/side x 10-11 @ RIR 2; 65 kg/side x 10 @ RIR 2. Do not add load. |
+| Leg press | 100 kg x 12-14 @ RIR 3; 120 kg x 10-11 @ RIR 2-3; 130 kg x 9-10 @ RIR 2. Omit 150 kg until 130 kg reaches the target cleanly and hip discomfort is absent. No hand assistance. |
+| Leg curl | 30 kg x 12-15 @ RIR 3, then 30 kg x 12 @ RIR 2. Use 35 kg only if full range and at least RIR 2 can be maintained; no RIR 0 set. |
+| Leg extension | 40 kg x 14-15 @ RIR 3; 45 kg x 12-13 @ RIR 2; 50 kg x 10-11 @ RIR 2. Keep loads unchanged. |
+| Standing calf raise | Bar +10 kg/side x 20 @ RIR 3; bar +20 kg/side x 17 @ RIR 2, with full stretch, top pause and no bouncing. |
+
+The next Legs session remains capped at **18 working sets**. Shoulders is next in the retained one-body-part split, subject to fresh readiness and confirmation that the hip discomfort has resolved.
+
+## Tracker status after 2026-08-20 Legs session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Pending this session's reconciliation**.
+- Public dashboard: **Pending synchronization and deployment**.
+
+## Tracker reconciliation completed - 2026-08-20 Legs session
+
+- Canonical Excel tracker: **Updated and verified** with all 18 sets, recovery, coaching assessment and next-session targets.
+- Assisted-repetition handling: the 150 kg leg-press set remains **7 total repetitions with approximately 2-3 assisted repetitions**; the approximately 4-5 clean repetitions remain **To verify** and are not treated as seven clean reps.
+- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
+- Historical workout records and all existing `To verify` flags remain preserved.
+
 ## Tracker reconciliation completed - 2026-08-18 Chest session
 
 - The 18 completed entries were reconciled as **15 direct Chest working sets plus three Front Plank core-finisher sets**.
