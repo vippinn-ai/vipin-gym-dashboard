@@ -2012,3 +2012,137 @@ The next Biceps session remains capped at **18 working sets**, exactly three per
 - Markdown workout history: **Updated**.
 - Canonical Excel tracker: **Pending this session's reconciliation**.
 - Public dashboard: **Pending synchronization and deployment**.
+
+# Shoulders Workout - 2026-08-21
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium to high**.
+- Hip pain following the 2026-08-20 Legs session: **None**.
+- Shoulder, neck, elbow or wrist pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+
+## Completed sets
+
+### Dumbbell shoulder press - weight per dumbbell
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg | 16 | 3 | Preparation; excluded from working-set total |
+| 2 | 17.5 kg | 13 | 2 | Working |
+| 3 | 20 kg | 10 | 2 | Working |
+| 4 | 22.5 kg | 8 | 1 | Working |
+
+The 17.5 kg set gained one repetition, and the 20 kg set matched ten repetitions with one additional repetition in reserve. The 22.5 kg top set matched the previous eight-repetition result.
+
+### Plate-loaded lateral-raise machine - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 2.5 kg/side | 16 | 2 |
+| 2 | 2.5 kg/side | 17 | 2 |
+| 3 | 5 kg/side | 12 | 2 |
+
+The 5 kg/side set establishes a new controlled baseline. The machine's unloaded resistance is excluded and remains **To verify**.
+
+### Experimental rear-delt movement on lateral-raise machine - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 5 kg/side | 8 | 1 |
+| 2 | 5 kg/side | 8 | 1 |
+
+These were experimental working sets performed facing away from the machine. They are retained in the workload and history, but the exact setup and movement path remain **To verify**. This experiment is not part of the next active shoulder sequence.
+
+### Reverse pec deck - total machine load
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 25 kg | 16 | 3 |
+| 2 | 30 kg | 13 | 3 |
+| 3 | 35 kg | 10 | 3 |
+
+Reserve improved substantially at all three loads. The 30 kg set also gained one repetition.
+
+### Cable upright row - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 16 | 3 |
+| 2 | 50 kg | 12 | 2 |
+| 3 | 50 kg | 10 | 1 |
+
+The 40 kg set clearly progressed. Keep 50 kg unchanged and improve the final-set reserve before adding load.
+
+### Single-arm cable lateral raise - reps per arm
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 5 kg | 20 | 3 |
+| 2 | 10 kg | 15 | 2 |
+| 3 | 10 kg | 15 | 2 |
+
+Both tracked loads progressed without pain.
+
+### Cable shrug with straight bar on low pulley - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 60 kg | 17 | 2 |
+| 2 | 70 kg | 15 | 2 |
+| 3 | 80 kg | 13 | 2 |
+
+This was an equipment-availability substitution. Trap sensation was poor, and the elbows tended to bend although Vipin consciously controlled them. The numbers are preserved as an experimental baseline, but the movement was not a useful shrug substitute. Effective resistance depends on the cable geometry and remains **To verify**.
+
+### Core and cardio finishers
+
+- Front plank: **3 sets x 60 seconds**. No lower-back pain or form breakdown was reported; detailed alignment remains **To verify**.
+- Treadmill incline walk: **10 minutes at displayed speed 4 and 12% incline**. The speed unit remains **To verify**. No hip or other pain was reported.
+
+## Post-workout recovery
+
+- Shoulder, neck, elbow or wrist pain: **None**.
+- Hip pain during or after the incline walk: **None**.
+- Lower-back pain: **None**.
+- Final energy: **Medium**.
+- Total duration: **Approximately 1 hour 40 minutes**.
+- Assisted repetitions or reported form breakdown: **None**.
+- Shoulder pump: **Low to medium**.
+- Delayed shoulder soreness: **To verify the following morning**; Vipin noted that the previous Legs-session soreness also appeared later rather than immediately.
+- Cable-shrug quality: elbows tended to bend but were controlled; low trap sensation made the substitution feel unproductive.
+
+## Coaching assessment
+
+The session showed objective progression without pain or assistance. Excluding the 15 kg preparation set, the shoulder work comprised **20 working sets**: five at RIR 3, eleven at RIR 2 and four at RIR 1. Pressing reserve improved, reverse-pec-deck reserve improved markedly, and both lateral-raise variations progressed.
+
+The main issue was excess volume. The two experimental rear-delt sets raised the session above the planned 18-set ceiling, after which three plank sets and a steep 12% incline walk extended the workout to 100 minutes. The cable shrug added fatigue without producing useful trap stimulus. Therefore, today's stronger numbers do not justify adding load next time.
+
+Return to exactly 18 shoulder working sets, avoid experimental extras during the main session, keep most sets around RIR 2, and use dumbbell shrugs or a dedicated shrug machine instead of the low-pulley cable version. Because this session followed Legs and delayed soreness remains unknown, the next readiness decision should be based on the following-morning shoulder, hip and leg response.
+
+## Next Shoulders-session targets
+
+| Exercise | Next target |
+|---|---|
+| Dumbbell shoulder press | 17.5 kg each x 13 @ RIR 2; 20 kg each x 10-11 @ RIR 2; 22.5 kg each x 8 @ RIR 2 or 9 @ RIR 1-2. Keep the 15 kg set as preparation only. |
+| Plate-loaded lateral-raise machine | 2.5 kg/side x 15-17 @ RIR 3; 2.5 kg/side x 17-18 @ RIR 2; 5 kg/side x 13-15 @ RIR 2. |
+| Reverse pec deck | 25 kg x 15-16 @ RIR 3; 30 kg x 13-14 @ RIR 2-3; 35 kg x 11-12 @ RIR 2-3. |
+| Cable upright row | 40 kg x 15-16 @ RIR 3; 50 kg x 12-14 @ RIR 2; 50 kg x 10-12 @ RIR 2. |
+| Single-arm cable lateral raise | 5 kg x 18-20 @ RIR 3; 10 kg x 15-16 @ RIR 2 for two sets. |
+| Dumbbell shrug or dedicated shrug machine | Return to the prior dumbbell pattern; target 30 kg each x 15 @ RIR 3, 35 kg each x 12-13 @ RIR 2 and 40 kg each x 11-12 @ RIR 2. Do not repeat the low-pulley cable shrug as an active exercise. |
+
+The next Shoulder session is capped at **18 working sets**. The experimental rear-delt movement and cable-shrug substitution remain in history but are excluded from the active sequence. Triceps is next, subject to fresh readiness and delayed-soreness checks.
+
+## Tracker status after 2026-08-21 Shoulders session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Updated and verified** with the preparation set, all 20 shoulder working sets, three plank sets, the treadmill finisher, recovery assessment and next-session targets.
+- Public dashboard: **Pending synchronization and deployment**.
+
+## Tracker reconciliation completed - 2026-08-21 Shoulders session
+
+- Historical data: **Preserved**; no prior workout rows or uncertainty flags were removed.
+- Experimental-set handling: both rear-delt machine sets and all three cable-shrug sets remain recorded as working fatigue, while their active targets are marked replaced rather than progressed.
+- Verification flags: exact experimental machine setup/path, unloaded lateral-raise-machine resistance, effective cable-shrug resistance, treadmill speed unit, detailed plank alignment and delayed shoulder soreness remain **To verify**.
+- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.

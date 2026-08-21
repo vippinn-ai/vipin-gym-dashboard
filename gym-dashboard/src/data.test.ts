@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(321)
-    expect(data.sessions).toHaveLength(16)
-    expect(data.markdownSections).toHaveLength(254)
+    expect(data.journal).toHaveLength(346)
+    expect(data.sessions).toHaveLength(17)
+    expect(data.markdownSections).toHaveLength(270)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -43,5 +43,21 @@ describe('generated coaching dataset', () => {
       0,
     )
     expect(subtotal).toBeCloseTo(113.59635, 5)
+  })
+
+  it('retains the shoulder experiments without treating the cable shrug as progression', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-21')
+    expect(latestSession?.Workout).toBe('Shoulders')
+    expect(latestSession?.['Set Entries']).toBe(25)
+
+    const cableShrugs = data.journal.filter(
+      (row) => row.Date === '2026-08-21' && row.Exercise === 'Cable Shrug',
+    )
+    expect(cableShrugs).toHaveLength(3)
+    expect(cableShrugs.at(-1)?.['Coach Note']).toContain('Replace with dumbbell')
+
+    const cableShrugTarget = data.targets.find((row) => row.Exercise === 'Cable Shrug')
+    expect(cableShrugTarget?.Status).toContain('Replaced')
+    expect(containsUncertainty(cableShrugTarget!)).toBe(true)
   })
 })
