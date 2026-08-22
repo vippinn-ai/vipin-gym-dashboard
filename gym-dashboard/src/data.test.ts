@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(346)
-    expect(data.sessions).toHaveLength(17)
-    expect(data.markdownSections).toHaveLength(270)
+    expect(data.journal).toHaveLength(366)
+    expect(data.sessions).toHaveLength(18)
+    expect(data.markdownSections).toHaveLength(284)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -59,5 +59,22 @@ describe('generated coaching dataset', () => {
     const cableShrugTarget = data.targets.find((row) => row.Exercise === 'Cable Shrug')
     expect(cableShrugTarget?.Status).toContain('Replaced')
     expect(containsUncertainty(cableShrugTarget!)).toBe(true)
+  })
+
+  it('records the August 22 triceps session without misclassifying machine assistance', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-22')
+    expect(latestSession?.Workout).toBe('Triceps')
+    expect(latestSession?.['Set Entries']).toBe(20)
+
+    const tricepsRows = data.journal.filter((row) => row.Date === '2026-08-22')
+    expect(tricepsRows).toHaveLength(20)
+    expect(tricepsRows.filter((row) => row['Set Type'] === 'Working')).toHaveLength(19)
+    expect(tricepsRows.filter((row) => row['Set Type'] === 'Warm-up')).toHaveLength(1)
+
+    const assistedDips = tricepsRows.filter((row) => row.Exercise === 'Assisted Dip Machine')
+    expect(assistedDips).toHaveLength(3)
+    expect(assistedDips.every((row) => row['Set Type'] === 'Working')).toBe(true)
+    expect(assistedDips.every((row) => String(row['Unit / Load Basis']).includes('higher is easier'))).toBe(true)
+    expect(tricepsRows.some((row) => row['Set Type'] === 'Assisted')).toBe(false)
   })
 })

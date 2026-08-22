@@ -1759,8 +1759,130 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 
 - Canonical Excel tracker: **Updated and verified** with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.
 - Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
-- Website source dataset: **Regenerated** from the canonical Markdown and workbook with 303 journal entries and 15 completed sessions.
+
+# Triceps Workout - 2026-08-22
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Delayed shoulder soreness after the 2026-08-21 Shoulders session: **Very little**.
+- Shoulder, elbow or wrist pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+
+## Completed sets
+
+### Straight-bar pushdown - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 16 | 3 | Preparation; excluded from working-set total |
+| 2 | 50 kg | 13 | 2 | Working |
+| 3 | 55 kg | 11 | 2 | Working |
+| 4 | 60 kg | 9 | 1 | Working |
+
+All three working targets were achieved. The 55 kg set gained one repetition and the 60 kg top set reached the nine-repetition target.
+
+### Rope pushdown - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 15 | 3 |
+| 2 | 35 kg | 12 | 3 |
+| 3 | 40 kg | 10 | 2 |
+| 4 | 40 kg | 11 | 1 |
+
+Four working sets were completed instead of the planned three. The final set gained one repetition but finished at RIR 1, so it does not justify a load increase.
+
+### Overhead rope extension - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 16 | 3 |
+| 2 | 35 kg | 13 | 2 |
+| 3 | 40 kg | 10 | 2 |
+
+The first two sets exceeded their repetition targets without an increase in shoulder soreness.
+
+### Single-arm cable pushdown - reps per arm
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg | 15 | 2 |
+| 2 | 15 kg | 9 | 2 |
+| 3 | 15 kg | 10 | 2 |
+
+The 15 kg sets were more controlled than the previous RIR-1 baseline. Both arms completed the recorded repetitions; any side-to-side difference remains **To verify**.
+
+### Seated two-hand overhead dumbbell extension
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 20 kg | 15 | 2 |
+| 2 | 22.5 kg | 13 | 2 |
+| 3 | 25 kg | 10 | 2 |
+
+The 22.5 kg set gained one repetition. The 25 kg set matched the previous ten-repetition result. Although only two sets were prescribed after the earlier extra rope set, all three completed sets are retained and count toward session fatigue.
+
+### Assisted dip machine - machine assistance
+
+| Set | Assistance | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 70 kg | 15 | 3 |
+| 2 | 60 kg | 12 | 2 |
+| 3 | 50 kg | 9 | 1 |
+
+Higher machine-assistance weight makes the exercise easier. These were clean machine-assisted dip sets with no forced human assistance. The 50 kg-assistance set reached the repetition target but finished one RIR harder than planned. Although only two dip sets were prescribed after cumulative volume reached 16 sets, all three completed sets are retained.
+
+## Post-workout recovery
+
+- Shoulder soreness: **Very little; unchanged from pre-workout**.
+- Shoulder, elbow or wrist pain: **None**.
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 15 minutes**.
+- Forced repetitions or reported technique breakdown: **None**.
+- Triceps pump: **Medium**.
+- Formal cardio or core work: **None**; deliberately omitted because final energy was Low after 19 working sets.
+- Full EAA+ serving: **Confirmed**.
+- Black coffee: **None**.
+
+## Coaching assessment
+
+Excluding the 45 kg preparation set, the session contained **19 Triceps working sets**: four at RIR 3, twelve at RIR 2 and three at RIR 1. No set reached failure, no forced repetitions were used, no joint pain emerged, and the very slight shoulder soreness remained unchanged. Session duration improved to 75 minutes.
+
+Performance progressed at several established loads: straight-bar pushdown improved at 55 and 60 kg, overhead rope extension improved at 30 and 35 kg, the 15 kg single-arm work retained better reserve, and the 22.5 kg overhead dumbbell extension gained one repetition.
+
+The volume target was still missed by one set. The fourth rope-pushdown set triggered a live reduction to two overhead-dumbbell sets, but three were completed; the dip prescription was then reduced to two sets, but three were completed. All completed work remains recorded rather than being removed. Low final energy confirms that no cardio was needed. Next time, the plan must remain exactly three working sets per exercise, with no fourth rope set and no additional sets after a live volume adjustment.
+
+## Next Triceps-session targets
+
+| Exercise | Next target |
+|---|---|
+| Straight-bar pushdown | Use 45 kg x 15 as preparation only; then 50 kg x 13 @ RIR 3, 55 kg x 11-12 @ RIR 2 and 60 kg x 9 @ RIR 2. |
+| Rope pushdown | 30 kg x 15 @ RIR 3; 35 kg x 12-13 @ RIR 2; 40 kg x 10-11 @ RIR 2. Exactly three working sets and no repeated 40 kg set. |
+| Overhead rope extension | 30 kg x 15-16 @ RIR 3; 35 kg x 13 @ RIR 2; 40 kg x 11 @ RIR 2. |
+| Single-arm cable pushdown | 10 kg x 15 @ RIR 3; 15 kg x 10 @ RIR 2; 15 kg x 10-11 @ RIR 2. Match both arms. |
+| Seated two-hand overhead dumbbell extension | 20 kg x 15 @ RIR 3; 22.5 kg x 13 @ RIR 2; 25 kg x 11 @ RIR 2. |
+| Assisted dip machine | 70 kg assistance x 15 @ RIR 3; 60 kg assistance x 12-13 @ RIR 2; 50 kg assistance x 9 @ RIR 2. Use controlled depth and remember that higher assistance is easier. |
+
+The next Triceps session is capped at **18 working sets**, exactly three per exercise. No cardio is required after a Low-energy finish. The upcoming week will temporarily consolidate training into four available days, with Legs retained as a standalone session; exact day placement remains **To verify**.
+
+## Tracker status after 2026-08-22 Triceps session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Updated and verified** with all 20 journal entries, recovery assessment and next-session targets.
+- Public dashboard: **Pending synchronization and deployment**.
+- Website source dataset: **Regenerated** from the updated canonical records with 366 journal entries, 18 completed sessions, 284 coaching sections and 13 evidence files.
 - Historical workout records, clean/assisted distinctions and all existing `To verify` flags remain preserved.
+
+## Tracker reconciliation completed - 2026-08-22 Triceps session
+
+- Set accounting: **20 journal entries** comprising one preparation set and 19 working sets. All completed extra sets remain preserved in history.
+- Assistance handling: assisted-dip-machine loads are recorded as machine assistance, where a higher displayed load is easier; no forced or human-assisted repetitions were reported.
+- Volume decision: the session exceeded the 18-working-set ceiling by one set, so the next Triceps session returns to exactly three working sets per exercise with no repeated rope-pushdown set or post-session extras.
+- Cardio decision: the optional walk was correctly omitted because final energy was Low after 75 minutes of lifting.
+- Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
 
 # Legs Workout - 2026-08-20
 
