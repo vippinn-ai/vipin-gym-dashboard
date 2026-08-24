@@ -1760,6 +1760,140 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 - Canonical Excel tracker: **Updated and verified** with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.
 - Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
 
+# Standardized Body Check-in - 2026-08-23
+
+- Morning body weight: **87.7 kg**. Repeated readings were 87.6-87.7 kg, so 87.7 kg is retained as the official reading.
+- Navel waist: **38 inches**, abdomen relaxed at navel level.
+- Conditions: before food or drink. Vipin did not have a bowel movement that morning because he had gone around midnight; this difference from the preferred morning protocol is preserved for comparison rather than used to reject the reading.
+- A separate 88.7 kg reading reportedly occurred the previous day, but its time and measurement conditions are **To verify**.
+- Interpretation: the repeated 87.6-87.7 kg scale result is internally consistent, but an overnight change is not equivalent fat loss. Continue standardized morning readings and compare the seven-day average plus Sunday-to-Sunday waist trend before changing calories.
+
+# Nutrition Update - Eggs Introduced - 2026-08-24
+
+- Vipin has started eating eggs. Exact intake, preparation method and adherence are **To verify**.
+- Current coaching recommendation for a cutting phase: **2 whole eggs plus 2 egg whites**, preferably replacing the tofu sandwich rather than being added on top of the existing meal plan.
+- Alternative when separating whites is inconvenient: **3 whole eggs** replacing the sandwich.
+- Do not add eggs to every meal. Preserve whey, lentils and Epigamia Turbo yogurts as established protein sources.
+- The quantified protein total must not be increased until actual egg intake is confirmed; the existing subtotal remains the source-of-truth minimum.
+
+# Back + Biceps Workout - 2026-08-24
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium to high**.
+- Back, biceps, elbow, shoulder or lower-back pain: **None reported**.
+- Pre-existing muscular soreness: **To verify**; no separate soreness answer was recorded before training began.
+- MuscleTech EAA+ Energy: **One full scoop**, providing 100 mg caffeine.
+- Coffee: consumed in the morning; amount and time are **To verify**.
+
+## Exercise log
+
+### Lat pulldown - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 16 | 3 | Preparation; working-level fatigue |
+| 2 | 50 kg | 13 | 2 | Working |
+| 3 | 55 kg | 11 | 2 | Working |
+| 4 | 60 kg | 9 | 2 | Working |
+
+The 50, 55 and 60 kg sets progressed, with the top set gaining one repetition while retaining RIR 2. The 45 kg preparation set was harder than the prescribed RIR 4 and therefore contributes meaningful fatigue.
+
+### Seated cable row - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 15 | 3 | Preparation; working-level fatigue |
+| 2 | 50 kg | 12 | 3 | Working |
+| 3 | 55 kg | 10 | 3 | Working |
+| 4 | 60 kg | 10 | 1 | Working |
+
+The 60 kg set gained one repetition but reached RIR 1 instead of the prescribed RIR 2. Keep the load unchanged and improve reserve.
+
+### Chest-supported row machine - same recorded plate convention
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg/side | 16 | 3 |
+| 2 | 50 kg/side | 13 | 3 |
+| 3 | 60 kg/side | 11 | 3 |
+
+Reserve improved across the movement. The 60 kg set did not reach the 12-repetition target, but completing 11 at RIR 3 is a quality progression over the prior RIR 2 baseline.
+
+### Straight-arm cable pulldown - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 45 kg | 15 | 2 |
+| 2 | 50 kg | 12 | 2 |
+| 3 | 55 kg | 9 | 1 |
+
+Only the first two sets were prescribed. The 55 kg set was an unplanned third set at RIR 1 and is retained as fatigue, not used to justify progression.
+
+### Incline dumbbell curl - dumbbell each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg | 15 | 2 |
+| 2 | 10 kg | 12 | 2 |
+| 3 | 12.5 kg | 9 | 1 |
+
+After the extra straight-arm set, this exercise was reduced live to two sets, but all three were completed. The final set reached RIR 1; keep all loads unchanged.
+
+### Hammer curl - dumbbell each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 12.5 kg | 17 | 2 |
+| 2 | 15 kg | 14 | 2 |
+| 3 | 17.5 kg | 11 | 2 |
+
+Hammer curls were reduced live to one set because the session had reached 17 working-level sets, but all three sets were completed. Performance remained controlled at RIR 2; the 17.5 kg load remains unchanged until 12 repetitions are achieved at the same reserve.
+
+## Post-workout recovery
+
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 15 minutes**.
+- Back, biceps, elbow, shoulder or lower-back pain: **None**.
+- Pump or unusual sensation: **None reported**.
+- Assisted repetitions or technique breakdown: **None reported**.
+- EAA+: **One full scoop**.
+- Coffee: consumed in the morning; amount and time remain **To verify**.
+- Cardio or core: **None**; correctly omitted after final energy fell to Low and resistance volume exceeded the planned ceiling.
+
+## Coaching assessment
+
+This combined-session structure was appropriate for the temporary four-day week, and performance improved across most back movements without pain or assistance. The session contained **20 set entries**: two preparation sets and 18 formally classified working sets. Because both preparation sets were high-repetition sets ending at RIR 3, they also produced working-level fatigue; the session therefore delivered approximately **20 meaningful sets**.
+
+The central coaching issue was adherence to live volume adjustments. The 55 kg straight-arm pulldown was performed after a two-set limit, all three incline-curl sets were performed after a reduction to two, and all three hammer-curl sets were performed after a one-set limit. Final energy falling from Medium-High to Low confirms that the additional volume was not required. Every completed set remains preserved, but none of the unplanned sets justifies adding load.
+
+Future combined sessions must use the prescribed set count from the start. When a live reduction is given, it replaces the earlier plan and is not optional. Progress will come from matching repetitions with RIR 2-3, not from completing extra sets.
+
+## Next Back + Biceps targets
+
+| Exercise | Next target |
+|---|---|
+| Lat pulldown | 45 kg easy preparation near RIR 4; 50 kg x 13 @ RIR 3; 55 kg x 11-12 @ RIR 2; 60 kg x 9-10 @ RIR 2. |
+| Seated cable row | 45 kg easy preparation near RIR 4; 50 kg x 12 @ RIR 3; 55 kg x 10-11 @ RIR 2-3; 60 kg x 10 @ RIR 2. |
+| Chest-supported row | 40 kg/side x 16 @ RIR 3; 50 kg/side x 13 @ RIR 3; 60 kg/side x 12 @ RIR 2-3. |
+| Straight-arm cable pulldown | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2. Exactly two sets; no 55 kg set. |
+| Incline dumbbell curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 9-10 @ RIR 2. |
+| Hammer curl | 12.5 kg each x 17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2. |
+
+The next immediate workout in the temporary four-day structure is **Chest + Triceps**, subject to fresh readiness and confirmation of the available training days. It will be capped at 18 working sets. No additional back or biceps work is needed before then.
+
+## Tracker status after 2026-08-24 Back + Biceps session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Updated and verified**. The workbook contains 20 journal entries for this session: two rows classified as preparation/warm-up and 18 rows classified as working sets. Both preparation sets ended at RIR 3 with high repetitions, so all 20 sets count toward the coaching fatigue assessment.
+- Workbook verification: **All 11 worksheets rendered and reviewed; formula-error scan returned zero matches**.
+- The standardized 2026-08-23 measurement was added as **87.7 kg** and **38 in / 96.5 cm at the navel**, preserving the protocol note and the separate prior 88.7 kg reading as **To verify**.
+- Eggs were added as a nutrition option, but actual quantity, preparation and adherence remain **To verify**. The quantified daily minimum therefore remains **113.60 g protein** until actual egg intake is confirmed.
+- Morning coffee amount and timing remain **To verify**.
+- Website source dataset: **Synchronized** with 386 journal entries, 19 sessions, 299 coaching sections and 13 evidence files. Publication confirmation is recorded separately after the GitHub Actions workflow and public-site verification complete.
+- Historical records and all existing `To verify` flags remain preserved.
+
 # Triceps Workout - 2026-08-22
 
 ## Pre-workout readiness

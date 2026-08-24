@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-22T16:01:13.169Z",
+  "generatedAt": "2026-08-24T17:05:21.873Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "7f7374d281af5d6af2f0bf9e093f681922a66c8b8afa6d0e8cccbc421610ceb5"
+      "sha256": "9f284fef984f905bd712c022ca2f3d53f816ed11db8206f1ead9029bfeb0b867"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "c3de3cd9093e9b322861f0aea33d8b08cd62d47f28a8f677bc285ebb4a17d92c"
+      "sha256": "93fbe96ffc169ddb9dea52b22d442ddbdde0dd9a03d7a8b9f617b1c50133d21f"
     }
   ],
   "workbook": {
@@ -225,11 +225,11 @@
             "",
             "",
             "",
-            18,
+            19,
             "",
             56,
             "",
-            "",
+            "4-day temporary",
             "",
             "",
             "Legs",
@@ -237,7 +237,7 @@
           ],
           [
             "",
-            "88.3 kg (2026-08-16)",
+            "87.7 kg (2026-08-23)",
             "",
             "",
             "",
@@ -334,22 +334,8 @@
             ""
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
+            "Day 1",
+            "Back + Biceps - completed 2026-08-24",
             "",
             "",
             "",
@@ -362,22 +348,8 @@
             ""
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
+            "Day 2",
+            "Chest + Triceps",
             "",
             "",
             "",
@@ -390,8 +362,36 @@
             ""
           ],
           [
+            "Day 3",
+            "Legs",
             "",
             "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Day 4",
+            "Shoulders + core / optional arm finishers",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Other days",
+            "Rest / walking",
             "",
             "",
             "Lat Pulldown",
@@ -404,8 +404,8 @@
             ""
           ],
           [
-            "",
-            "",
+            "Spacing",
+            "Exact remaining days To verify",
             "",
             "",
             "Seated Cable Row",
@@ -449,12 +449,12 @@
             "",
             "",
             "",
-            "Triceps",
-            "Straight-Bar Pushdown",
-            "60 kg x 9 @ RIR 1",
+            "Back",
+            "Lat Pulldown",
             "60 kg x 9 @ RIR 2",
+            "60 kg x 9-10 @ RIR 2",
             "In progress",
-            "Preparation separate; improve reserve",
+            "Improve reserve; no load increase",
             "",
             "",
             ""
@@ -463,40 +463,40 @@
             "",
             "",
             "",
-            "Triceps",
-            "Rope Pushdown",
-            "40 kg x 11 @ RIR 1",
-            "40 kg x 10-11 @ RIR 2",
-            "Modify volume",
-            "Exactly 3 sets; no repeat set",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
-            "",
-            "Triceps",
-            "Overhead DB Extension",
-            "25 kg x 10 @ RIR 2",
-            "25 kg x 11 @ RIR 2",
-            "In progress",
-            "Add clean rep before load",
-            "",
-            "",
-            ""
-          ],
-          [
-            "",
-            "",
-            "",
-            "Triceps",
-            "Assisted Dip Machine",
-            "50 kg assist x 9 @ RIR 1",
-            "50 kg assist x 9 @ RIR 2",
+            "Back",
+            "Seated Cable Row",
+            "60 kg x 10 @ RIR 1",
+            "60 kg x 10 @ RIR 2",
             "Modify effort",
-            "Higher assistance is easier",
+            "Match reps with reserve",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Biceps",
+            "Incline DB Curl",
+            "12.5 kg x 9 @ RIR 1",
+            "12.5 kg x 9-10 @ RIR 2",
+            "Modify effort",
+            "No extra sets",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Biceps",
+            "Hammer Curl",
+            "17.5 kg x 11 @ RIR 2",
+            "17.5 kg x 12 @ RIR 2",
+            "In progress",
+            "Add one clean rep",
             "",
             "",
             ""
@@ -6426,6 +6426,326 @@
             "Third set completed despite live reduction to two; improve reserve before reducing assistance",
             "Working",
             1
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Lat Pulldown",
+            1,
+            45,
+            "kg total stack",
+            16,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Preparation set but RIR 3 and high repetitions created working-level fatigue",
+            "Warm-up",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Lat Pulldown",
+            2,
+            50,
+            "kg total stack",
+            13,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Lat Pulldown",
+            3,
+            55,
+            "kg total stack",
+            11,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Reached target",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Lat Pulldown",
+            4,
+            60,
+            "kg total stack",
+            9,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Added one rep while improving reserve",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Seated Cable Row",
+            1,
+            45,
+            "kg total stack",
+            15,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Preparation set but RIR 3 and high repetitions created working-level fatigue",
+            "Warm-up",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Seated Cable Row",
+            2,
+            50,
+            "kg total stack",
+            12,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Seated Cable Row",
+            3,
+            55,
+            "kg total stack",
+            10,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Reserve improved",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Seated Cable Row",
+            4,
+            60,
+            "kg total stack",
+            10,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Added one rep but missed RIR-2 target; keep load",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Chest-Supported Row",
+            1,
+            40,
+            "kg plates each side",
+            16,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Added one rep",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Chest-Supported Row",
+            2,
+            50,
+            "kg plates each side",
+            13,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Reserve improved",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Chest-Supported Row",
+            3,
+            60,
+            "kg plates each side",
+            11,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Quality progression through improved reserve",
+            "Working",
+            3
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Straight-Arm Pulldown",
+            1,
+            45,
+            "kg total stack",
+            15,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Straight-Arm Pulldown",
+            2,
+            50,
+            "kg total stack",
+            12,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Reached target",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Back",
+            "Straight-Arm Pulldown",
+            3,
+            55,
+            "kg total stack",
+            9,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Unplanned third set; retained as fatigue; no progression credit",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            1,
+            7.5,
+            "kg each dumbbell",
+            15,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Completed after live reduction to two sets",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            2,
+            10,
+            "kg each dumbbell",
+            12,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Incline Dumbbell Curl",
+            3,
+            12.5,
+            "kg each dumbbell",
+            9,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Third set completed despite live reduction; keep load",
+            "Working",
+            1
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Hammer Curl",
+            1,
+            12.5,
+            "kg each dumbbell",
+            17,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Only one set was prescribed after live volume adjustment",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Hammer Curl",
+            2,
+            15,
+            "kg each dumbbell",
+            14,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Unplanned after live one-set limit; retained as fatigue",
+            "Working",
+            2
+          ],
+          [
+            "2026-08-24",
+            "Biceps",
+            "Hammer Curl",
+            3,
+            17.5,
+            "kg each dumbbell",
+            11,
+            "No assistance or technique breakdown reported; detailed form To verify",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+            "Low final",
+            "Good",
+            "Unplanned after live one-set limit; keep load until 12 reps at RIR 2",
+            "Working",
+            2
           ]
         ]
       },
@@ -6480,46 +6800,46 @@
           [
             "Back",
             "Lat Pulldown",
-            "60 kg x 8 @ RIR 1",
+            "60 kg x 9 @ RIR 2",
             "50-60 kg",
-            "60 kg x 8 @ RIR 2",
-            "Repeat with better reserve",
+            "60 kg x 9-10 @ RIR 2",
+            "Improve reserve before load",
             "Elbows down; no swinging",
             "In progress",
-            "Do not add load"
+            "45 kg preparation reached RIR 3; 50-60 kg progressed"
           ],
           [
             "Back",
             "Seated Cable Row",
-            "60 kg x 9 @ RIR 1",
-            "55-60 kg",
-            "60 kg x 9 @ RIR 2",
-            "Recover prior reps with reserve",
+            "60 kg x 10 @ RIR 1",
+            "50-60 kg",
+            "60 kg x 10 @ RIR 2",
+            "Match reps with better reserve",
             "Torso stable",
-            "In progress",
-            "Latest 60 kg set was 8 reps"
+            "Modify effort",
+            "55 kg reserve improved; top set too close to failure"
           ],
           [
             "Back",
             "Chest-Supported Row",
-            "60 kg/side x 11 @ RIR 2",
-            "50-60 kg/side",
-            "60 kg/side x 12 @ RIR 2",
+            "60 kg/side x 11 @ RIR 3",
+            "40-60 kg/side",
+            "60 kg/side x 12 @ RIR 2-3",
             "Add one clean rep",
             "Chest stays on pad",
             "In progress",
-            "50 kg/side reached 13 reps"
+            "40 kg reps and reserve across top sets improved"
           ],
           [
             "Back",
             "Straight-Arm Pulldown",
-            "50 kg x 10 @ RIR 2",
-            "40-50 kg",
-            "50 kg x 11-12 @ RIR 2",
-            "Add reps before load",
+            "50 kg x 12 @ RIR 2; extra 55 kg x 9 @ RIR 1",
+            "45-50 kg",
+            "50 kg x 12 @ RIR 2",
+            "Exactly 2 sets; no 55 kg",
             "Elbows fixed",
-            "In progress",
-            "Do not use 55 kg yet"
+            "Modify volume",
+            "55 kg was unplanned fatigue and receives no progression credit"
           ],
           [
             "Chest",
@@ -6593,10 +6913,10 @@
             "17.5 kg each x 11 @ RIR 2",
             "12.5-17.5 kg each",
             "17.5 kg each x 12 @ RIR 2",
-            "Add reps with reserve",
+            "Add one rep; no extra sets",
             "Neutral wrists; no swing",
             "In progress",
-            "12.5 kg reached 17 reps at RIR 2"
+            "All 3 sets controlled but last 2 exceeded live one-set limit"
           ],
           [
             "Biceps",
@@ -6942,13 +7262,13 @@
           [
             "Biceps",
             "Incline Dumbbell Curl",
-            "12.5 kg each x 9 @ RIR 2",
+            "12.5 kg each x 9 @ RIR 1",
             "7.5-12.5 kg each",
-            "12.5 kg each x 10 @ RIR 2",
-            "Add clean rep before load",
-            "Bench 45-60 degrees; shoulders back; do not force stretch",
-            "In progress",
-            "New clean baseline; replaces Cable Curl in active sequence"
+            "12.5 kg each x 9-10 @ RIR 2",
+            "Keep load; improve reserve",
+            "Bench 45-60 deg; no forced stretch",
+            "Modify effort",
+            "Third set completed despite live reduction; detailed form To verify"
           ],
           [
             "Legs",
@@ -7473,16 +7793,16 @@
             null
           ],
           [
+            "2026-08-23",
+            87.7,
+            96.5,
             "",
             "",
             "",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Standardized morning body check-in",
+            "Before food/drink; no morning bowel movement because bowel movement occurred around midnight; repeated scale readings 87.6-87.7 kg; 88.7 kg previous-day conditions To verify; abdomen relaxed at navel",
             "",
             "",
             "",
@@ -7494,16 +7814,16 @@
             null
           ],
           [
+            "2026-08-24",
             "",
             "",
+            "Good",
+            "Low final",
+            "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "Back + Biceps workout - 75 min; 20 entries; no cardio/core",
+            "Started Medium-High; full EAA+ scoop (100 mg caffeine); coffee consumed in morning, amount/time To verify; no assistance or breakdown; pre-existing muscular soreness To verify",
             "",
             "",
             "",
@@ -11805,6 +12125,56 @@
             null,
             null,
             null
+          ],
+          [
+            "2026-08-23 body check-in",
+            "87.7 kg and 38 in navel waist; repeated scale readings 87.6-87.7 before food/drink; bowel movement occurred around midnight rather than morning",
+            "Current reading is reliable, but overnight change is not equivalent fat loss; protocol difference retained",
+            "Use daily readings and seven-day average; do not change calories from one result",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Egg introduction",
+            "Vipin started eating eggs; exact amount, preparation and adherence To verify",
+            "Recommended 2 whole eggs + 2 whites replacing the tofu sandwich, not added to every meal",
+            "Keep quantified protein minimum unchanged until actual intake is confirmed",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Back + Biceps performance",
+            "2026-08-24 completed 20 entries in 75 min; no pain, assistance or breakdown; most loads progressed or improved reserve",
+            "Two RIR-3 preparation sets plus 18 working sets created about 20 meaningful sets",
+            "Keep loads; improve reserve; combined-session ceiling is 18 meaningful sets",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Combined-session volume adherence",
+            "Extra 55 kg straight-arm set and unreduced incline/hammer sets were completed after live set reductions",
+            "All work remains recorded, but unplanned sets do not justify progression and final energy fell to Low",
+            "A live reduction replaces the earlier plan; stop when the revised set count is reached",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Morning coffee plus EAA+",
+            "Morning coffee was consumed and a full EAA+ scoop added 100 mg caffeine; coffee amount and time To verify",
+            "Total daily caffeine cannot yet be quantified; timing may still affect sleep",
+            "Record coffee amount/time and next-morning sleep quality",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -12033,14 +12403,14 @@
             "Exactly 18 direct sets next time: three per exercise, no fourth rope set and no extra sets after live adjustment; keep loads and improve reserve; temporary four-day week pending exact days"
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
+            "2026-08-24",
+            "Back + Biceps",
+            6,
+            20,
+            "Green/Yellow",
+            "Good sleep; Medium-High start and Low final energy; no back, biceps, elbow, shoulder or lower-back pain; no unusual sensation; 75 min; no assistance or technique breakdown; full EAA+; morning coffee amount/time To verify; no cardio/core",
+            "Back performance improved without pain, but 20 meaningful sets were accumulated after three live volume reductions were not followed. Two sets were classified as preparation, yet both ended at RIR 3 and contributed material fatigue. Low final energy confirmed that the extra volume was unnecessary.",
+            "Next immediate session Chest + Triceps, fresh readiness required; combined sessions capped at 18 meaningful sets; follow live reductions; keep loads and improve reserve"
           ],
           [
             "",
@@ -12106,9 +12476,9 @@
           [
             "Basics",
             "Current body weight",
-            "88.3 kg on 2026-08-16, measured after using the bathroom and before food or drink. Abdomen relaxed and waist tape at navel level. The historical 91.5 kg post-workout gym reading remains non-comparable.",
-            "Known",
-            "Continue identical morning protocol and assess weekly trend"
+            "87.7 kg on 2026-08-23; repeated 87.6-87.7 kg before food/drink. No morning bowel movement because bowel movement occurred around midnight. Previous-day 88.7 kg conditions To verify.",
+            "Known with protocol note",
+            "Continue daily readings and compare seven-day averages"
           ],
           [
             "Basics",
@@ -12134,9 +12504,9 @@
           [
             "Health",
             "Current pain or movement restrictions",
-            "After Triceps on 2026-08-22: very little shoulder soreness, unchanged from pre-workout; no shoulder, elbow or wrist pain; no forced reps or reported technique breakdown.",
-            "Partial / To verify",
-            "Check next-morning shoulder, elbow and triceps soreness before the next training week"
+            "After Back + Biceps on 2026-08-24: no back, biceps, elbow, shoulder or lower-back pain; no unusual sensation; no assistance or reported breakdown.",
+            "Known",
+            "Check next-morning back, biceps and elbow soreness before Chest + Triceps"
           ],
           [
             "Goal",
@@ -12211,9 +12581,9 @@
           [
             "Training",
             "Current sequence",
-            "Completed Triceps on 2026-08-22. Next week is a temporary four-day consolidation with Legs retained standalone; exact available days remain To verify.",
+            "Temporary four-day week: Day 1 Back + Biceps completed 2026-08-24; Chest + Triceps is next; Legs remains standalone; exact remaining days To verify.",
             "Partial / To verify",
-            "Confirm the four available days before finalizing sequence and recovery spacing"
+            "Confirm day spacing before each remaining session"
           ],
           [
             "Training",
@@ -12225,9 +12595,9 @@
           [
             "Nutrition",
             "Dietary pattern",
-            "Lacto-vegetarian: no eggs; milk/dairy used; avoids non-vegetarian food.\nFish-oil capsule is an animal-derived exception to verify.",
-            "Partial",
-            "Confirm whether fish oil is an intentional exception"
+            "Eggs introduced on 2026-08-24 after prior lacto-vegetarian pattern; exact intake and preparation To verify. Milk, yogurt and whey remain in use; other non-vegetarian foods avoided.",
+            "Partial / To verify",
+            "Confirm whether 2 whole + 2 whites replaces the tofu sandwich and how often"
           ],
           [
             "Nutrition",
@@ -12239,9 +12609,9 @@
           [
             "Nutrition",
             "Foods avoided",
-            "Non-vegetarian foods; no added sugar; tea stopped; black coffee only",
-            "Known",
-            "Meal-plan boundaries"
+            "Non-vegetarian foods other than newly introduced eggs; no added sugar; tea stopped; black coffee used selectively",
+            "Partial",
+            "Confirm egg frequency and preparation"
           ],
           [
             "Nutrition",
@@ -12274,9 +12644,9 @@
           [
             "Measurements",
             "Waist and verified morning weight",
-            "2026-08-16 standardized check-in: 88.3 kg and 38 in at the navel (96.5 cm), after bathroom and before food or drink, abdomen relaxed. Change from 2026-08-09: -0.5 kg and -2.6 cm.",
-            "Known",
-            "Repeat weekly under identical conditions; use multi-week trend"
+            "2026-08-23 check-in: 87.7 kg and 38 in at navel (96.5 cm), before food/drink; no morning bowel movement because bowel movement occurred around midnight. Repeated scale readings 87.6-87.7 kg.",
+            "Known with protocol note",
+            "Use seven-day weight average and repeat Sunday waist under matching conditions"
           ],
           [
             "Photos",
@@ -12345,11 +12715,11 @@
             "Protein",
             "140-170 g/day provisional working range",
             "Partial",
-            "113.60 g/day quantified minimum after the reported yogurt update; several meal components remain incomplete",
-            "Protein from sabji, fruit, lentils and salad; ghee calories",
-            "Quantify the cooked lentil bowl next, then sabji in Protein Calculator",
+            "113.60 g/day quantified minimum; eggs introduced but actual intake is not yet confirmed",
+            "Protein from eggs, sabji, fruit, lentils and salad; ghee calories",
+            "Confirm actual egg intake, then quantify cooked lentils and sabji",
             "7-day intake log plus Sunday trend",
-            "Milk, rotis, tofu and bread are now included; do not count EAA grams as dietary protein"
+            "Do not count EAA grams as dietary protein; do not add provisional egg protein until confirmed"
           ],
           [
             "Calories",
@@ -12363,13 +12733,13 @@
           ],
           [
             "Diet pattern",
-            "Lacto-vegetarian; no eggs",
-            "Partial",
-            "Milk, yogurt and whey are used; non-vegetarian foods avoided",
-            "Whether fish oil is an intentional animal-derived exception",
-            "Confirm preference; strict vegetarian alternative can be discussed if needed",
-            "Supplement-label review",
-            "No allergy or intolerance reported"
+            "Eggs introduced; prior lacto-vegetarian pattern updated",
+            "Partial / To verify",
+            "Vipin reported starting eggs on 2026-08-24; milk, yogurt and whey remain in use",
+            "Exact egg count, whole/white split, preparation, frequency and whether sandwich is replaced",
+            "Recommended 2 whole eggs + 2 whites replacing the tofu sandwich; do not add eggs to every meal",
+            "Confirm actual intake before changing protein subtotal",
+            "Alternative: 3 whole eggs when separating whites is inconvenient"
           ],
           [
             "Hydration",
@@ -12478,8 +12848,8 @@
             8.9851,
             "",
             "Partial",
-            "Spreads/oil and fruit frequency",
-            "Confirmed sandwich protein: 8.99 g (29 g tofu = 4.12 g; two bread slices/50 g = 4.87 g)."
+            "Whether egg option replaces sandwich; exact egg count/preparation; spreads/oil and fruit frequency",
+            "Current confirmed sandwich remains quantified at 8.99 g protein. Proposed cutting substitution is 2 whole eggs + 2 whites; do not count until actual intake is confirmed."
           ],
           [
             "Pre-workout",
@@ -12907,6 +13277,19 @@
             "To link",
             "Verified standardized Sunday measurement: after bathroom, before food/drink, abdomen relaxed, tape at navel level. Weight changed -0.5 kg and waist -2.6 cm versus 2026-08-09. Progress photos were not supplied for this check-in.",
             "Missing photos"
+          ],
+          [
+            "2026-08-23",
+            87.7,
+            96.5,
+            "",
+            "",
+            "",
+            "To link",
+            "To link",
+            "To link",
+            "Repeated morning readings 87.6-87.7 kg before food/drink; no morning bowel movement because bowel movement occurred around midnight. Abdomen relaxed and tape at navel. Previous-day 88.7 kg conditions To verify; photos not supplied.",
+            "Partial / missing photos"
           ]
         ]
       },
@@ -21520,6 +21903,446 @@
         "row": 370,
         "range": "A370"
       }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Lat Pulldown",
+      "Set": 1,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 16,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Preparation set but RIR 3 and high repetitions created working-level fatigue",
+      "Set Type": "Warm-up",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 371,
+        "range": "A371"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Lat Pulldown",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 13,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 372,
+        "range": "A372"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Lat Pulldown",
+      "Set": 3,
+      "Weight": 55,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 11,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Reached target",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 373,
+        "range": "A373"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Lat Pulldown",
+      "Set": 4,
+      "Weight": 60,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 9,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Added one rep while improving reserve",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 374,
+        "range": "A374"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Seated Cable Row",
+      "Set": 1,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 15,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Preparation set but RIR 3 and high repetitions created working-level fatigue",
+      "Set Type": "Warm-up",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 375,
+        "range": "A375"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Seated Cable Row",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 12,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 376,
+        "range": "A376"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Seated Cable Row",
+      "Set": 3,
+      "Weight": 55,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 10,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Reserve improved",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 377,
+        "range": "A377"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Seated Cable Row",
+      "Set": 4,
+      "Weight": 60,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 10,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Added one rep but missed RIR-2 target; keep load",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 378,
+        "range": "A378"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Chest-Supported Row",
+      "Set": 1,
+      "Weight": 40,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 16,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Added one rep",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 379,
+        "range": "A379"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Chest-Supported Row",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 13,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Reserve improved",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 380,
+        "range": "A380"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Chest-Supported Row",
+      "Set": 3,
+      "Weight": 60,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 11,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Quality progression through improved reserve",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 381,
+        "range": "A381"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 1,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 15,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 382,
+        "range": "A382"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 12,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Reached target",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 383,
+        "range": "A383"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 3,
+      "Weight": 55,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 9,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Unplanned third set; retained as fatigue; no progression credit",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 384,
+        "range": "A384"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 15,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Completed after live reduction to two sets",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 385,
+        "range": "A385"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 386,
+        "range": "A386"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 9,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Third set completed despite live reduction; keep load",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 387,
+        "range": "A387"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 1,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 17,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Only one set was prescribed after live volume adjustment",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 388,
+        "range": "A388"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 2,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 14,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Unplanned after live one-set limit; retained as fatigue",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 389,
+        "range": "A389"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 3,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 11,
+      "Form Note": "No assistance or technique breakdown reported; detailed form To verify",
+      "Pain / Soreness": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Energy": "Low final",
+      "Sleep": "Good",
+      "Coach Note": "Unplanned after live one-set limit; keep load until 12 reps at RIR 2",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 390,
+        "range": "A390"
+      }
     }
   ],
   "sessions": [
@@ -21810,19 +22633,35 @@
         "row": 22,
         "range": "A22"
       }
+    },
+    {
+      "Date": "2026-08-24",
+      "Workout": "Back + Biceps",
+      "Exercises": 6,
+      "Set Entries": 20,
+      "Readiness": "Green/Yellow",
+      "Recovery Notes": "Good sleep; Medium-High start and Low final energy; no back, biceps, elbow, shoulder or lower-back pain; no unusual sensation; 75 min; no assistance or technique breakdown; full EAA+; morning coffee amount/time To verify; no cardio/core",
+      "Coach Assessment": "Back performance improved without pain, but 20 meaningful sets were accumulated after three live volume reductions were not followed. Two sets were classified as preparation, yet both ended at RIR 3 and contributed material fatigue. Low final energy confirmed that the extra volume was unnecessary.",
+      "Next-Session Status": "Next immediate session Chest + Triceps, fresh readiness required; combined sessions capped at 18 meaningful sets; follow live reductions; keep loads and improve reserve",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 23,
+        "range": "A23"
+      }
     }
   ],
   "targets": [
     {
       "Muscle": "Back",
       "Exercise": "Lat Pulldown",
-      "Current Best Set": "60 kg x 8 @ RIR 1",
+      "Current Best Set": "60 kg x 9 @ RIR 2",
       "Current Working Zone": "50-60 kg",
-      "Next Target": "60 kg x 8 @ RIR 2",
-      "Progress Rule": "Repeat with better reserve",
+      "Next Target": "60 kg x 9-10 @ RIR 2",
+      "Progress Rule": "Improve reserve before load",
       "Technique Focus": "Elbows down; no swinging",
       "Status": "In progress",
-      "Notes": "Do not add load",
+      "Notes": "45 kg preparation reached RIR 3; 50-60 kg progressed",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -21833,13 +22672,13 @@
     {
       "Muscle": "Back",
       "Exercise": "Seated Cable Row",
-      "Current Best Set": "60 kg x 9 @ RIR 1",
-      "Current Working Zone": "55-60 kg",
-      "Next Target": "60 kg x 9 @ RIR 2",
-      "Progress Rule": "Recover prior reps with reserve",
+      "Current Best Set": "60 kg x 10 @ RIR 1",
+      "Current Working Zone": "50-60 kg",
+      "Next Target": "60 kg x 10 @ RIR 2",
+      "Progress Rule": "Match reps with better reserve",
       "Technique Focus": "Torso stable",
-      "Status": "In progress",
-      "Notes": "Latest 60 kg set was 8 reps",
+      "Status": "Modify effort",
+      "Notes": "55 kg reserve improved; top set too close to failure",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -21850,13 +22689,13 @@
     {
       "Muscle": "Back",
       "Exercise": "Chest-Supported Row",
-      "Current Best Set": "60 kg/side x 11 @ RIR 2",
-      "Current Working Zone": "50-60 kg/side",
-      "Next Target": "60 kg/side x 12 @ RIR 2",
+      "Current Best Set": "60 kg/side x 11 @ RIR 3",
+      "Current Working Zone": "40-60 kg/side",
+      "Next Target": "60 kg/side x 12 @ RIR 2-3",
       "Progress Rule": "Add one clean rep",
       "Technique Focus": "Chest stays on pad",
       "Status": "In progress",
-      "Notes": "50 kg/side reached 13 reps",
+      "Notes": "40 kg reps and reserve across top sets improved",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -21867,13 +22706,13 @@
     {
       "Muscle": "Back",
       "Exercise": "Straight-Arm Pulldown",
-      "Current Best Set": "50 kg x 10 @ RIR 2",
-      "Current Working Zone": "40-50 kg",
-      "Next Target": "50 kg x 11-12 @ RIR 2",
-      "Progress Rule": "Add reps before load",
+      "Current Best Set": "50 kg x 12 @ RIR 2; extra 55 kg x 9 @ RIR 1",
+      "Current Working Zone": "45-50 kg",
+      "Next Target": "50 kg x 12 @ RIR 2",
+      "Progress Rule": "Exactly 2 sets; no 55 kg",
       "Technique Focus": "Elbows fixed",
-      "Status": "In progress",
-      "Notes": "Do not use 55 kg yet",
+      "Status": "Modify volume",
+      "Notes": "55 kg was unplanned fatigue and receives no progression credit",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -21989,10 +22828,10 @@
       "Current Best Set": "17.5 kg each x 11 @ RIR 2",
       "Current Working Zone": "12.5-17.5 kg each",
       "Next Target": "17.5 kg each x 12 @ RIR 2",
-      "Progress Rule": "Add reps with reserve",
+      "Progress Rule": "Add one rep; no extra sets",
       "Technique Focus": "Neutral wrists; no swing",
       "Status": "In progress",
-      "Notes": "12.5 kg reached 17 reps at RIR 2",
+      "Notes": "All 3 sets controlled but last 2 exceeded live one-set limit",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -22530,13 +23369,13 @@
     {
       "Muscle": "Biceps",
       "Exercise": "Incline Dumbbell Curl",
-      "Current Best Set": "12.5 kg each x 9 @ RIR 2",
+      "Current Best Set": "12.5 kg each x 9 @ RIR 1",
       "Current Working Zone": "7.5-12.5 kg each",
-      "Next Target": "12.5 kg each x 10 @ RIR 2",
-      "Progress Rule": "Add clean rep before load",
-      "Technique Focus": "Bench 45-60 degrees; shoulders back; do not force stretch",
-      "Status": "In progress",
-      "Notes": "New clean baseline; replaces Cable Curl in active sequence",
+      "Next Target": "12.5 kg each x 9-10 @ RIR 2",
+      "Progress Rule": "Keep load; improve reserve",
+      "Technique Focus": "Bench 45-60 deg; no forced stretch",
+      "Status": "Modify effort",
+      "Notes": "Third set completed despite live reduction; detailed form To verify",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -22976,6 +23815,46 @@
         "row": 23,
         "range": "A23"
       }
+    },
+    {
+      "Date": "2026-08-23",
+      "Weight (kg)": 87.7,
+      "Waist (cm)": 96.5,
+      "Sleep": "",
+      "Energy": "",
+      "Soreness / Pain": "",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Standardized morning body check-in",
+      "Notes": "Before food/drink; no morning bowel movement because bowel movement occurred around midnight; repeated scale readings 87.6-87.7 kg; 88.7 kg previous-day conditions To verify; abdomen relaxed at navel",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 24,
+        "range": "A24"
+      }
+    },
+    {
+      "Date": "2026-08-24",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Low final",
+      "Soreness / Pain": "No back, biceps, elbow, shoulder or lower-back pain; no unusual sensation reported",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Back + Biceps workout - 75 min; 20 entries; no cardio/core",
+      "Notes": "Started Medium-High; full EAA+ scoop (100 mg caffeine); coffee consumed in morning, amount/time To verify; no assistance or breakdown; pre-existing muscular soreness To verify",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 25,
+        "range": "A25"
+      }
     }
   ],
   "protein": [
@@ -23235,9 +24114,9 @@
     {
       "Category": "Basics",
       "Item": "Current body weight",
-      "Current Value": "88.3 kg on 2026-08-16, measured after using the bathroom and before food or drink. Abdomen relaxed and waist tape at navel level. The historical 91.5 kg post-workout gym reading remains non-comparable.",
-      "Status": "Known",
-      "Why Needed / Next Check": "Continue identical morning protocol and assess weekly trend",
+      "Current Value": "87.7 kg on 2026-08-23; repeated 87.6-87.7 kg before food/drink. No morning bowel movement because bowel movement occurred around midnight. Previous-day 88.7 kg conditions To verify.",
+      "Status": "Known with protocol note",
+      "Why Needed / Next Check": "Continue daily readings and compare seven-day averages",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -23287,9 +24166,9 @@
     {
       "Category": "Health",
       "Item": "Current pain or movement restrictions",
-      "Current Value": "After Triceps on 2026-08-22: very little shoulder soreness, unchanged from pre-workout; no shoulder, elbow or wrist pain; no forced reps or reported technique breakdown.",
-      "Status": "Partial / To verify",
-      "Why Needed / Next Check": "Check next-morning shoulder, elbow and triceps soreness before the next training week",
+      "Current Value": "After Back + Biceps on 2026-08-24: no back, biceps, elbow, shoulder or lower-back pain; no unusual sensation; no assistance or reported breakdown.",
+      "Status": "Known",
+      "Why Needed / Next Check": "Check next-morning back, biceps and elbow soreness before Chest + Triceps",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -23430,9 +24309,9 @@
     {
       "Category": "Training",
       "Item": "Current sequence",
-      "Current Value": "Completed Triceps on 2026-08-22. Next week is a temporary four-day consolidation with Legs retained standalone; exact available days remain To verify.",
+      "Current Value": "Temporary four-day week: Day 1 Back + Biceps completed 2026-08-24; Chest + Triceps is next; Legs remains standalone; exact remaining days To verify.",
       "Status": "Partial / To verify",
-      "Why Needed / Next Check": "Confirm the four available days before finalizing sequence and recovery spacing",
+      "Why Needed / Next Check": "Confirm day spacing before each remaining session",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -23456,9 +24335,9 @@
     {
       "Category": "Nutrition",
       "Item": "Dietary pattern",
-      "Current Value": "Lacto-vegetarian: no eggs; milk/dairy used; avoids non-vegetarian food.\nFish-oil capsule is an animal-derived exception to verify.",
-      "Status": "Partial",
-      "Why Needed / Next Check": "Confirm whether fish oil is an intentional exception",
+      "Current Value": "Eggs introduced on 2026-08-24 after prior lacto-vegetarian pattern; exact intake and preparation To verify. Milk, yogurt and whey remain in use; other non-vegetarian foods avoided.",
+      "Status": "Partial / To verify",
+      "Why Needed / Next Check": "Confirm whether 2 whole + 2 whites replaces the tofu sandwich and how often",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -23482,9 +24361,9 @@
     {
       "Category": "Nutrition",
       "Item": "Foods avoided",
-      "Current Value": "Non-vegetarian foods; no added sugar; tea stopped; black coffee only",
-      "Status": "Known",
-      "Why Needed / Next Check": "Meal-plan boundaries",
+      "Current Value": "Non-vegetarian foods other than newly introduced eggs; no added sugar; tea stopped; black coffee used selectively",
+      "Status": "Partial",
+      "Why Needed / Next Check": "Confirm egg frequency and preparation",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -23547,9 +24426,9 @@
     {
       "Category": "Measurements",
       "Item": "Waist and verified morning weight",
-      "Current Value": "2026-08-16 standardized check-in: 88.3 kg and 38 in at the navel (96.5 cm), after bathroom and before food or drink, abdomen relaxed. Change from 2026-08-09: -0.5 kg and -2.6 cm.",
-      "Status": "Known",
-      "Why Needed / Next Check": "Repeat weekly under identical conditions; use multi-week trend",
+      "Current Value": "2026-08-23 check-in: 87.7 kg and 38 in at navel (96.5 cm), before food/drink; no morning bowel movement because bowel movement occurred around midnight. Repeated scale readings 87.6-87.7 kg.",
+      "Status": "Known with protocol note",
+      "Why Needed / Next Check": "Use seven-day weight average and repeat Sunday waist under matching conditions",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -24230,6 +25109,66 @@
         "sheet": "Program Notes",
         "row": 59,
         "range": "A59"
+      }
+    },
+    {
+      "Category": "2026-08-23 body check-in",
+      "Rule / Observation": "87.7 kg and 38 in navel waist; repeated scale readings 87.6-87.7 before food/drink; bowel movement occurred around midnight rather than morning",
+      "Why It Matters": "Current reading is reliable, but overnight change is not equivalent fat loss; protocol difference retained",
+      "Action": "Use daily readings and seven-day average; do not change calories from one result",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 60,
+        "range": "A60"
+      }
+    },
+    {
+      "Category": "Egg introduction",
+      "Rule / Observation": "Vipin started eating eggs; exact amount, preparation and adherence To verify",
+      "Why It Matters": "Recommended 2 whole eggs + 2 whites replacing the tofu sandwich, not added to every meal",
+      "Action": "Keep quantified protein minimum unchanged until actual intake is confirmed",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 61,
+        "range": "A61"
+      }
+    },
+    {
+      "Category": "Back + Biceps performance",
+      "Rule / Observation": "2026-08-24 completed 20 entries in 75 min; no pain, assistance or breakdown; most loads progressed or improved reserve",
+      "Why It Matters": "Two RIR-3 preparation sets plus 18 working sets created about 20 meaningful sets",
+      "Action": "Keep loads; improve reserve; combined-session ceiling is 18 meaningful sets",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 62,
+        "range": "A62"
+      }
+    },
+    {
+      "Category": "Combined-session volume adherence",
+      "Rule / Observation": "Extra 55 kg straight-arm set and unreduced incline/hammer sets were completed after live set reductions",
+      "Why It Matters": "All work remains recorded, but unplanned sets do not justify progression and final energy fell to Low",
+      "Action": "A live reduction replaces the earlier plan; stop when the revised set count is reached",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 63,
+        "range": "A63"
+      }
+    },
+    {
+      "Category": "Morning coffee plus EAA+",
+      "Rule / Observation": "Morning coffee was consumed and a full EAA+ scoop added 100 mg caffeine; coffee amount and time To verify",
+      "Why It Matters": "Total daily caffeine cannot yet be quantified; timing may still affect sleep",
+      "Action": "Record coffee amount/time and next-morning sleep quality",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 64,
+        "range": "A64"
       }
     }
   ],
@@ -26937,6 +27876,186 @@
     {
       "id": "md-226",
       "level": 1,
+      "title": "Standardized Body Check-in - 2026-08-23",
+      "anchor": "standardized-body-check-in-2026-08-23",
+      "raw": "- Morning body weight: **87.7 kg**. Repeated readings were 87.6-87.7 kg, so 87.7 kg is retained as the official reading.\n- Navel waist: **38 inches**, abdomen relaxed at navel level.\n- Conditions: before food or drink. Vipin did not have a bowel movement that morning because he had gone around midnight; this difference from the preferred morning protocol is preserved for comparison rather than used to reject the reading.\n- A separate 88.7 kg reading reportedly occurred the previous day, but its time and measurement conditions are **To verify**.\n- Interpretation: the repeated 87.6-87.7 kg scale result is internally consistent, but an overnight change is not equivalent fat loss. Continue standardized morning readings and compare the seven-day average plus Sunday-to-Sunday waist trend before changing calories.",
+      "html": "<ul>\n<li>Morning body weight: <strong>87.7 kg</strong>. Repeated readings were 87.6-87.7 kg, so 87.7 kg is retained as the official reading.</li>\n<li>Navel waist: <strong>38 inches</strong>, abdomen relaxed at navel level.</li>\n<li>Conditions: before food or drink. Vipin did not have a bowel movement that morning because he had gone around midnight; this difference from the preferred morning protocol is preserved for comparison rather than used to reject the reading.</li>\n<li>A separate 88.7 kg reading reportedly occurred the previous day, but its time and measurement conditions are <strong>To verify</strong>.</li>\n<li>Interpretation: the repeated 87.6-87.7 kg scale result is internally consistent, but an overnight change is not equivalent fat loss. Continue standardized morning readings and compare the seven-day average plus Sunday-to-Sunday waist trend before changing calories.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "standardized-body-check-in-2026-08-23"
+      }
+    },
+    {
+      "id": "md-227",
+      "level": 1,
+      "title": "Nutrition Update - Eggs Introduced - 2026-08-24",
+      "anchor": "nutrition-update-eggs-introduced-2026-08-24",
+      "raw": "- Vipin has started eating eggs. Exact intake, preparation method and adherence are **To verify**.\n- Current coaching recommendation for a cutting phase: **2 whole eggs plus 2 egg whites**, preferably replacing the tofu sandwich rather than being added on top of the existing meal plan.\n- Alternative when separating whites is inconvenient: **3 whole eggs** replacing the sandwich.\n- Do not add eggs to every meal. Preserve whey, lentils and Epigamia Turbo yogurts as established protein sources.\n- The quantified protein total must not be increased until actual egg intake is confirmed; the existing subtotal remains the source-of-truth minimum.",
+      "html": "<ul>\n<li>Vipin has started eating eggs. Exact intake, preparation method and adherence are <strong>To verify</strong>.</li>\n<li>Current coaching recommendation for a cutting phase: <strong>2 whole eggs plus 2 egg whites</strong>, preferably replacing the tofu sandwich rather than being added on top of the existing meal plan.</li>\n<li>Alternative when separating whites is inconvenient: <strong>3 whole eggs</strong> replacing the sandwich.</li>\n<li>Do not add eggs to every meal. Preserve whey, lentils and Epigamia Turbo yogurts as established protein sources.</li>\n<li>The quantified protein total must not be increased until actual egg intake is confirmed; the existing subtotal remains the source-of-truth minimum.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "nutrition-update-eggs-introduced-2026-08-24"
+      }
+    },
+    {
+      "id": "md-228",
+      "level": 1,
+      "title": "Back + Biceps Workout - 2026-08-24",
+      "anchor": "back-biceps-workout-2026-08-24",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "back-biceps-workout-2026-08-24"
+      }
+    },
+    {
+      "id": "md-229",
+      "level": 2,
+      "title": "Pre-workout readiness",
+      "anchor": "pre-workout-readiness-8",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Back, biceps, elbow, shoulder or lower-back pain: **None reported**.\n- Pre-existing muscular soreness: **To verify**; no separate soreness answer was recorded before training began.\n- MuscleTech EAA+ Energy: **One full scoop**, providing 100 mg caffeine.\n- Coffee: consumed in the morning; amount and time are **To verify**.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Back, biceps, elbow, shoulder or lower-back pain: <strong>None reported</strong>.</li>\n<li>Pre-existing muscular soreness: <strong>To verify</strong>; no separate soreness answer was recorded before training began.</li>\n<li>MuscleTech EAA+ Energy: <strong>One full scoop</strong>, providing 100 mg caffeine.</li>\n<li>Coffee: consumed in the morning; amount and time are <strong>To verify</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pre-workout-readiness-8"
+      }
+    },
+    {
+      "id": "md-230",
+      "level": 2,
+      "title": "Exercise log",
+      "anchor": "exercise-log",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "exercise-log"
+      }
+    },
+    {
+      "id": "md-231",
+      "level": 3,
+      "title": "Lat pulldown - total stack",
+      "anchor": "lat-pulldown-total-stack",
+      "raw": "| Set | Load | Reps | RIR | Classification |\n|---:|---:|---:|---:|---|\n| 1 | 45 kg | 16 | 3 | Preparation; working-level fatigue |\n| 2 | 50 kg | 13 | 2 | Working |\n| 3 | 55 kg | 11 | 2 | Working |\n| 4 | 60 kg | 9 | 2 | Working |\n\nThe 50, 55 and 60 kg sets progressed, with the top set gaining one repetition while retaining RIR 2. The 45 kg preparation set was harder than the prescribed RIR 4 and therefore contributes meaningful fatigue.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Classification</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">16</td>\n<td align=\"right\">3</td>\n<td>Preparation; working-level fatigue</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">13</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">55 kg</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">60 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n</tbody></table>\n<p>The 50, 55 and 60 kg sets progressed, with the top set gaining one repetition while retaining RIR 2. The 45 kg preparation set was harder than the prescribed RIR 4 and therefore contributes meaningful fatigue.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "lat-pulldown-total-stack"
+      }
+    },
+    {
+      "id": "md-232",
+      "level": 3,
+      "title": "Seated cable row - total stack",
+      "anchor": "seated-cable-row-total-stack",
+      "raw": "| Set | Load | Reps | RIR | Classification |\n|---:|---:|---:|---:|---|\n| 1 | 45 kg | 15 | 3 | Preparation; working-level fatigue |\n| 2 | 50 kg | 12 | 3 | Working |\n| 3 | 55 kg | 10 | 3 | Working |\n| 4 | 60 kg | 10 | 1 | Working |\n\nThe 60 kg set gained one repetition but reached RIR 1 instead of the prescribed RIR 2. Keep the load unchanged and improve reserve.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Classification</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n<td>Preparation; working-level fatigue</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">3</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">55 kg</td>\n<td align=\"right\">10</td>\n<td align=\"right\">3</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">60 kg</td>\n<td align=\"right\">10</td>\n<td align=\"right\">1</td>\n<td>Working</td>\n</tr>\n</tbody></table>\n<p>The 60 kg set gained one repetition but reached RIR 1 instead of the prescribed RIR 2. Keep the load unchanged and improve reserve.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "seated-cable-row-total-stack"
+      }
+    },
+    {
+      "id": "md-233",
+      "level": 3,
+      "title": "Chest-supported row machine - same recorded plate convention",
+      "anchor": "chest-supported-row-machine-same-recorded-plate-convention",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 40 kg/side | 16 | 3 |\n| 2 | 50 kg/side | 13 | 3 |\n| 3 | 60 kg/side | 11 | 3 |\n\nReserve improved across the movement. The 60 kg set did not reach the 12-repetition target, but completing 11 at RIR 3 is a quality progression over the prior RIR 2 baseline.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">40 kg/side</td>\n<td align=\"right\">16</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg/side</td>\n<td align=\"right\">13</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">60 kg/side</td>\n<td align=\"right\">11</td>\n<td align=\"right\">3</td>\n</tr>\n</tbody></table>\n<p>Reserve improved across the movement. The 60 kg set did not reach the 12-repetition target, but completing 11 at RIR 3 is a quality progression over the prior RIR 2 baseline.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "chest-supported-row-machine-same-recorded-plate-convention"
+      }
+    },
+    {
+      "id": "md-234",
+      "level": 3,
+      "title": "Straight-arm cable pulldown - total stack",
+      "anchor": "straight-arm-cable-pulldown-total-stack",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 45 kg | 15 | 2 |\n| 2 | 50 kg | 12 | 2 |\n| 3 | 55 kg | 9 | 1 |\n\nOnly the first two sets were prescribed. The 55 kg set was an unplanned third set at RIR 1 and is retained as fatigue, not used to justify progression.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">55 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">1</td>\n</tr>\n</tbody></table>\n<p>Only the first two sets were prescribed. The 55 kg set was an unplanned third set at RIR 1 and is retained as fatigue, not used to justify progression.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "straight-arm-cable-pulldown-total-stack"
+      }
+    },
+    {
+      "id": "md-235",
+      "level": 3,
+      "title": "Incline dumbbell curl - dumbbell each side",
+      "anchor": "incline-dumbbell-curl-dumbbell-each-side",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 7.5 kg | 15 | 2 |\n| 2 | 10 kg | 12 | 2 |\n| 3 | 12.5 kg | 9 | 1 |\n\nAfter the extra straight-arm set, this exercise was reduced live to two sets, but all three were completed. The final set reached RIR 1; keep all loads unchanged.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">7.5 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">10 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">12.5 kg</td>\n<td align=\"right\">9</td>\n<td align=\"right\">1</td>\n</tr>\n</tbody></table>\n<p>After the extra straight-arm set, this exercise was reduced live to two sets, but all three were completed. The final set reached RIR 1; keep all loads unchanged.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "incline-dumbbell-curl-dumbbell-each-side"
+      }
+    },
+    {
+      "id": "md-236",
+      "level": 3,
+      "title": "Hammer curl - dumbbell each side",
+      "anchor": "hammer-curl-dumbbell-each-side",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 12.5 kg | 17 | 2 |\n| 2 | 15 kg | 14 | 2 |\n| 3 | 17.5 kg | 11 | 2 |\n\nHammer curls were reduced live to one set because the session had reached 17 working-level sets, but all three sets were completed. Performance remained controlled at RIR 2; the 17.5 kg load remains unchanged until 12 repetitions are achieved at the same reserve.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">12.5 kg</td>\n<td align=\"right\">17</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">15 kg</td>\n<td align=\"right\">14</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">17.5 kg</td>\n<td align=\"right\">11</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>Hammer curls were reduced live to one set because the session had reached 17 working-level sets, but all three sets were completed. Performance remained controlled at RIR 2; the 17.5 kg load remains unchanged until 12 repetitions are achieved at the same reserve.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "hammer-curl-dumbbell-each-side"
+      }
+    },
+    {
+      "id": "md-237",
+      "level": 2,
+      "title": "Post-workout recovery",
+      "anchor": "post-workout-recovery-8",
+      "raw": "- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 15 minutes**.\n- Back, biceps, elbow, shoulder or lower-back pain: **None**.\n- Pump or unusual sensation: **None reported**.\n- Assisted repetitions or technique breakdown: **None reported**.\n- EAA+: **One full scoop**.\n- Coffee: consumed in the morning; amount and time remain **To verify**.\n- Cardio or core: **None**; correctly omitted after final energy fell to Low and resistance volume exceeded the planned ceiling.",
+      "html": "<ul>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 15 minutes</strong>.</li>\n<li>Back, biceps, elbow, shoulder or lower-back pain: <strong>None</strong>.</li>\n<li>Pump or unusual sensation: <strong>None reported</strong>.</li>\n<li>Assisted repetitions or technique breakdown: <strong>None reported</strong>.</li>\n<li>EAA+: <strong>One full scoop</strong>.</li>\n<li>Coffee: consumed in the morning; amount and time remain <strong>To verify</strong>.</li>\n<li>Cardio or core: <strong>None</strong>; correctly omitted after final energy fell to Low and resistance volume exceeded the planned ceiling.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "post-workout-recovery-8"
+      }
+    },
+    {
+      "id": "md-238",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-11",
+      "raw": "This combined-session structure was appropriate for the temporary four-day week, and performance improved across most back movements without pain or assistance. The session contained **20 set entries**: two preparation sets and 18 formally classified working sets. Because both preparation sets were high-repetition sets ending at RIR 3, they also produced working-level fatigue; the session therefore delivered approximately **20 meaningful sets**.\n\nThe central coaching issue was adherence to live volume adjustments. The 55 kg straight-arm pulldown was performed after a two-set limit, all three incline-curl sets were performed after a reduction to two, and all three hammer-curl sets were performed after a one-set limit. Final energy falling from Medium-High to Low confirms that the additional volume was not required. Every completed set remains preserved, but none of the unplanned sets justifies adding load.\n\nFuture combined sessions must use the prescribed set count from the start. When a live reduction is given, it replaces the earlier plan and is not optional. Progress will come from matching repetitions with RIR 2-3, not from completing extra sets.",
+      "html": "<p>This combined-session structure was appropriate for the temporary four-day week, and performance improved across most back movements without pain or assistance. The session contained <strong>20 set entries</strong>: two preparation sets and 18 formally classified working sets. Because both preparation sets were high-repetition sets ending at RIR 3, they also produced working-level fatigue; the session therefore delivered approximately <strong>20 meaningful sets</strong>.</p>\n<p>The central coaching issue was adherence to live volume adjustments. The 55 kg straight-arm pulldown was performed after a two-set limit, all three incline-curl sets were performed after a reduction to two, and all three hammer-curl sets were performed after a one-set limit. Final energy falling from Medium-High to Low confirms that the additional volume was not required. Every completed set remains preserved, but none of the unplanned sets justifies adding load.</p>\n<p>Future combined sessions must use the prescribed set count from the start. When a live reduction is given, it replaces the earlier plan and is not optional. Progress will come from matching repetitions with RIR 2-3, not from completing extra sets.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-11"
+      }
+    },
+    {
+      "id": "md-239",
+      "level": 2,
+      "title": "Next Back + Biceps targets",
+      "anchor": "next-back-biceps-targets",
+      "raw": "| Exercise | Next target |\n|---|---|\n| Lat pulldown | 45 kg easy preparation near RIR 4; 50 kg x 13 @ RIR 3; 55 kg x 11-12 @ RIR 2; 60 kg x 9-10 @ RIR 2. |\n| Seated cable row | 45 kg easy preparation near RIR 4; 50 kg x 12 @ RIR 3; 55 kg x 10-11 @ RIR 2-3; 60 kg x 10 @ RIR 2. |\n| Chest-supported row | 40 kg/side x 16 @ RIR 3; 50 kg/side x 13 @ RIR 3; 60 kg/side x 12 @ RIR 2-3. |\n| Straight-arm cable pulldown | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2. Exactly two sets; no 55 kg set. |\n| Incline dumbbell curl | 7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 9-10 @ RIR 2. |\n| Hammer curl | 12.5 kg each x 17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2. |\n\nThe next immediate workout in the temporary four-day structure is **Chest + Triceps**, subject to fresh readiness and confirmation of the available training days. It will be capped at 18 working sets. No additional back or biceps work is needed before then.",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Lat pulldown</td>\n<td>45 kg easy preparation near RIR 4; 50 kg x 13 @ RIR 3; 55 kg x 11-12 @ RIR 2; 60 kg x 9-10 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Seated cable row</td>\n<td>45 kg easy preparation near RIR 4; 50 kg x 12 @ RIR 3; 55 kg x 10-11 @ RIR 2-3; 60 kg x 10 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Chest-supported row</td>\n<td>40 kg/side x 16 @ RIR 3; 50 kg/side x 13 @ RIR 3; 60 kg/side x 12 @ RIR 2-3.</td>\n</tr>\n<tr>\n<td>Straight-arm cable pulldown</td>\n<td>45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2. Exactly two sets; no 55 kg set.</td>\n</tr>\n<tr>\n<td>Incline dumbbell curl</td>\n<td>7.5 kg each x 15 @ RIR 3; 10 kg each x 12-13 @ RIR 2; 12.5 kg each x 9-10 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Hammer curl</td>\n<td>12.5 kg each x 17 @ RIR 3; 15 kg each x 14 @ RIR 2; 17.5 kg each x 12 @ RIR 2.</td>\n</tr>\n</tbody></table>\n<p>The next immediate workout in the temporary four-day structure is <strong>Chest + Triceps</strong>, subject to fresh readiness and confirmation of the available training days. It will be capped at 18 working sets. No additional back or biceps work is needed before then.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-back-biceps-targets"
+      }
+    },
+    {
+      "id": "md-240",
+      "level": 2,
+      "title": "Tracker status after 2026-08-24 Back + Biceps session",
+      "anchor": "tracker-status-after-2026-08-24-back-biceps-session",
+      "raw": "- Markdown workout history: **Updated**.\n- Canonical Excel tracker: **Updated and verified**. The workbook contains 20 journal entries for this session: two rows classified as preparation/warm-up and 18 rows classified as working sets. Both preparation sets ended at RIR 3 with high repetitions, so all 20 sets count toward the coaching fatigue assessment.\n- Workbook verification: **All 11 worksheets rendered and reviewed; formula-error scan returned zero matches**.\n- The standardized 2026-08-23 measurement was added as **87.7 kg** and **38 in / 96.5 cm at the navel**, preserving the protocol note and the separate prior 88.7 kg reading as **To verify**.\n- Eggs were added as a nutrition option, but actual quantity, preparation and adherence remain **To verify**. The quantified daily minimum therefore remains **113.60 g protein** until actual egg intake is confirmed.\n- Morning coffee amount and timing remain **To verify**.\n- Website source dataset: **Synchronized** with 386 journal entries, 19 sessions, 299 coaching sections and 13 evidence files. Publication confirmation is recorded separately after the GitHub Actions workflow and public-site verification complete.\n- Historical records and all existing `To verify` flags remain preserved.",
+      "html": "<ul>\n<li>Markdown workout history: <strong>Updated</strong>.</li>\n<li>Canonical Excel tracker: <strong>Updated and verified</strong>. The workbook contains 20 journal entries for this session: two rows classified as preparation/warm-up and 18 rows classified as working sets. Both preparation sets ended at RIR 3 with high repetitions, so all 20 sets count toward the coaching fatigue assessment.</li>\n<li>Workbook verification: <strong>All 11 worksheets rendered and reviewed; formula-error scan returned zero matches</strong>.</li>\n<li>The standardized 2026-08-23 measurement was added as <strong>87.7 kg</strong> and <strong>38 in / 96.5 cm at the navel</strong>, preserving the protocol note and the separate prior 88.7 kg reading as <strong>To verify</strong>.</li>\n<li>Eggs were added as a nutrition option, but actual quantity, preparation and adherence remain <strong>To verify</strong>. The quantified daily minimum therefore remains <strong>113.60 g protein</strong> until actual egg intake is confirmed.</li>\n<li>Morning coffee amount and timing remain <strong>To verify</strong>.</li>\n<li>Website source dataset: <strong>Synchronized</strong> with 386 journal entries, 19 sessions, 299 coaching sections and 13 evidence files. Publication confirmation is recorded separately after the GitHub Actions workflow and public-site verification complete.</li>\n<li>Historical records and all existing <code>To verify</code> flags remain preserved.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "tracker-status-after-2026-08-24-back-biceps-session"
+      }
+    },
+    {
+      "id": "md-241",
+      "level": 1,
       "title": "Triceps Workout - 2026-08-22",
       "anchor": "triceps-workout-2026-08-22",
       "raw": "",
@@ -26947,19 +28066,19 @@
       }
     },
     {
-      "id": "md-227",
+      "id": "md-242",
       "level": 2,
       "title": "Pre-workout readiness",
-      "anchor": "pre-workout-readiness-8",
+      "anchor": "pre-workout-readiness-9",
       "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium**.\n- Delayed shoulder soreness after the 2026-08-21 Shoulders session: **Very little**.\n- Shoulder, elbow or wrist pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
       "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium</strong>.</li>\n<li>Delayed shoulder soreness after the 2026-08-21 Shoulders session: <strong>Very little</strong>.</li>\n<li>Shoulder, elbow or wrist pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "pre-workout-readiness-8"
+        "anchor": "pre-workout-readiness-9"
       }
     },
     {
-      "id": "md-228",
+      "id": "md-243",
       "level": 2,
       "title": "Completed sets",
       "anchor": "completed-sets-8",
@@ -26971,7 +28090,7 @@
       }
     },
     {
-      "id": "md-229",
+      "id": "md-244",
       "level": 3,
       "title": "Straight-bar pushdown - total stack",
       "anchor": "straight-bar-pushdown-total-stack",
@@ -26983,7 +28102,7 @@
       }
     },
     {
-      "id": "md-230",
+      "id": "md-245",
       "level": 3,
       "title": "Rope pushdown - total stack",
       "anchor": "rope-pushdown-total-stack",
@@ -26995,7 +28114,7 @@
       }
     },
     {
-      "id": "md-231",
+      "id": "md-246",
       "level": 3,
       "title": "Overhead rope extension - total stack",
       "anchor": "overhead-rope-extension-total-stack",
@@ -27007,7 +28126,7 @@
       }
     },
     {
-      "id": "md-232",
+      "id": "md-247",
       "level": 3,
       "title": "Single-arm cable pushdown - reps per arm",
       "anchor": "single-arm-cable-pushdown-reps-per-arm",
@@ -27019,7 +28138,7 @@
       }
     },
     {
-      "id": "md-233",
+      "id": "md-248",
       "level": 3,
       "title": "Seated two-hand overhead dumbbell extension",
       "anchor": "seated-two-hand-overhead-dumbbell-extension",
@@ -27031,7 +28150,7 @@
       }
     },
     {
-      "id": "md-234",
+      "id": "md-249",
       "level": 3,
       "title": "Assisted dip machine - machine assistance",
       "anchor": "assisted-dip-machine-machine-assistance",
@@ -27043,31 +28162,31 @@
       }
     },
     {
-      "id": "md-235",
+      "id": "md-250",
       "level": 2,
       "title": "Post-workout recovery",
-      "anchor": "post-workout-recovery-8",
+      "anchor": "post-workout-recovery-9",
       "raw": "- Shoulder soreness: **Very little; unchanged from pre-workout**.\n- Shoulder, elbow or wrist pain: **None**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 15 minutes**.\n- Forced repetitions or reported technique breakdown: **None**.\n- Triceps pump: **Medium**.\n- Formal cardio or core work: **None**; deliberately omitted because final energy was Low after 19 working sets.\n- Full EAA+ serving: **Confirmed**.\n- Black coffee: **None**.",
       "html": "<ul>\n<li>Shoulder soreness: <strong>Very little; unchanged from pre-workout</strong>.</li>\n<li>Shoulder, elbow or wrist pain: <strong>None</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 15 minutes</strong>.</li>\n<li>Forced repetitions or reported technique breakdown: <strong>None</strong>.</li>\n<li>Triceps pump: <strong>Medium</strong>.</li>\n<li>Formal cardio or core work: <strong>None</strong>; deliberately omitted because final energy was Low after 19 working sets.</li>\n<li>Full EAA+ serving: <strong>Confirmed</strong>.</li>\n<li>Black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "post-workout-recovery-8"
+        "anchor": "post-workout-recovery-9"
       }
     },
     {
-      "id": "md-236",
+      "id": "md-251",
       "level": 2,
       "title": "Coaching assessment",
-      "anchor": "coaching-assessment-11",
+      "anchor": "coaching-assessment-12",
       "raw": "Excluding the 45 kg preparation set, the session contained **19 Triceps working sets**: four at RIR 3, twelve at RIR 2 and three at RIR 1. No set reached failure, no forced repetitions were used, no joint pain emerged, and the very slight shoulder soreness remained unchanged. Session duration improved to 75 minutes.\n\nPerformance progressed at several established loads: straight-bar pushdown improved at 55 and 60 kg, overhead rope extension improved at 30 and 35 kg, the 15 kg single-arm work retained better reserve, and the 22.5 kg overhead dumbbell extension gained one repetition.\n\nThe volume target was still missed by one set. The fourth rope-pushdown set triggered a live reduction to two overhead-dumbbell sets, but three were completed; the dip prescription was then reduced to two sets, but three were completed. All completed work remains recorded rather than being removed. Low final energy confirms that no cardio was needed. Next time, the plan must remain exactly three working sets per exercise, with no fourth rope set and no additional sets after a live volume adjustment.",
       "html": "<p>Excluding the 45 kg preparation set, the session contained <strong>19 Triceps working sets</strong>: four at RIR 3, twelve at RIR 2 and three at RIR 1. No set reached failure, no forced repetitions were used, no joint pain emerged, and the very slight shoulder soreness remained unchanged. Session duration improved to 75 minutes.</p>\n<p>Performance progressed at several established loads: straight-bar pushdown improved at 55 and 60 kg, overhead rope extension improved at 30 and 35 kg, the 15 kg single-arm work retained better reserve, and the 22.5 kg overhead dumbbell extension gained one repetition.</p>\n<p>The volume target was still missed by one set. The fourth rope-pushdown set triggered a live reduction to two overhead-dumbbell sets, but three were completed; the dip prescription was then reduced to two sets, but three were completed. All completed work remains recorded rather than being removed. Low final energy confirms that no cardio was needed. Next time, the plan must remain exactly three working sets per exercise, with no fourth rope set and no additional sets after a live volume adjustment.</p>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "coaching-assessment-11"
+        "anchor": "coaching-assessment-12"
       }
     },
     {
-      "id": "md-237",
+      "id": "md-252",
       "level": 2,
       "title": "Next Triceps-session targets",
       "anchor": "next-triceps-session-targets-2",
@@ -27079,7 +28198,7 @@
       }
     },
     {
-      "id": "md-238",
+      "id": "md-253",
       "level": 2,
       "title": "Tracker status after 2026-08-22 Triceps session",
       "anchor": "tracker-status-after-2026-08-22-triceps-session",
@@ -27091,7 +28210,7 @@
       }
     },
     {
-      "id": "md-239",
+      "id": "md-254",
       "level": 2,
       "title": "Tracker reconciliation completed - 2026-08-22 Triceps session",
       "anchor": "tracker-reconciliation-completed-2026-08-22-triceps-session",
@@ -27103,7 +28222,7 @@
       }
     },
     {
-      "id": "md-240",
+      "id": "md-255",
       "level": 1,
       "title": "Legs Workout - 2026-08-20",
       "anchor": "legs-workout-2026-08-20",
@@ -27115,19 +28234,19 @@
       }
     },
     {
-      "id": "md-241",
+      "id": "md-256",
       "level": 2,
       "title": "Pre-workout readiness",
-      "anchor": "pre-workout-readiness-9",
+      "anchor": "pre-workout-readiness-10",
       "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium**.\n- Quadriceps or hamstring soreness before training: **To verify; not reported before the session**.\n- Knee, hip or lower-back pain before training: **To verify; not reported before the session**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Black coffee: **None**.",
       "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium</strong>.</li>\n<li>Quadriceps or hamstring soreness before training: <strong>To verify; not reported before the session</strong>.</li>\n<li>Knee, hip or lower-back pain before training: <strong>To verify; not reported before the session</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "pre-workout-readiness-9"
+        "anchor": "pre-workout-readiness-10"
       }
     },
     {
-      "id": "md-242",
+      "id": "md-257",
       "level": 2,
       "title": "Completed sets",
       "anchor": "completed-sets-9",
@@ -27139,7 +28258,7 @@
       }
     },
     {
-      "id": "md-243",
+      "id": "md-258",
       "level": 3,
       "title": "Dumbbell Romanian deadlift - each dumbbell",
       "anchor": "dumbbell-romanian-deadlift-each-dumbbell",
@@ -27151,7 +28270,7 @@
       }
     },
     {
-      "id": "md-244",
+      "id": "md-259",
       "level": 3,
       "title": "Hack squat - plates each side",
       "anchor": "hack-squat-plates-each-side-3",
@@ -27163,7 +28282,7 @@
       }
     },
     {
-      "id": "md-245",
+      "id": "md-260",
       "level": 3,
       "title": "Leg press - total weight",
       "anchor": "leg-press-total-weight-3",
@@ -27175,7 +28294,7 @@
       }
     },
     {
-      "id": "md-246",
+      "id": "md-261",
       "level": 3,
       "title": "Leg curl - total weight",
       "anchor": "leg-curl-total-weight-2",
@@ -27187,7 +28306,7 @@
       }
     },
     {
-      "id": "md-247",
+      "id": "md-262",
       "level": 3,
       "title": "Leg extension - total weight",
       "anchor": "leg-extension-total-weight-3",
@@ -27199,7 +28318,7 @@
       }
     },
     {
-      "id": "md-248",
+      "id": "md-263",
       "level": 3,
       "title": "Standing calf raise - guided bar machine; plates each side",
       "anchor": "standing-calf-raise-guided-bar-machine-plates-each-side",
@@ -27211,31 +28330,31 @@
       }
     },
     {
-      "id": "md-249",
+      "id": "md-264",
       "level": 2,
       "title": "Post-workout recovery",
-      "anchor": "post-workout-recovery-9",
+      "anchor": "post-workout-recovery-10",
       "raw": "- Lower back: **Normal muscular pump; no lower-back pain reported**.\n- Hip: **A little hip pain**; side, exact location, movement trigger and 0-10 severity remain **To verify**.\n- Knee pain: **None reported**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 40 minutes**.\n- Assisted repetitions: **Only approximately two to three repetitions in the 150 kg leg-press set**.\n- Walking/stairs: **Better than after the previous Legs session**.\n- Full EAA+ serving: **Confirmed**.\n- Black coffee: **None**.",
       "html": "<ul>\n<li>Lower back: <strong>Normal muscular pump; no lower-back pain reported</strong>.</li>\n<li>Hip: <strong>A little hip pain</strong>; side, exact location, movement trigger and 0-10 severity remain <strong>To verify</strong>.</li>\n<li>Knee pain: <strong>None reported</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 40 minutes</strong>.</li>\n<li>Assisted repetitions: <strong>Only approximately two to three repetitions in the 150 kg leg-press set</strong>.</li>\n<li>Walking/stairs: <strong>Better than after the previous Legs session</strong>.</li>\n<li>Full EAA+ serving: <strong>Confirmed</strong>.</li>\n<li>Black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "post-workout-recovery-9"
+        "anchor": "post-workout-recovery-10"
       }
     },
     {
-      "id": "md-250",
+      "id": "md-265",
       "level": 2,
       "title": "Coaching assessment",
-      "anchor": "coaching-assessment-12",
+      "anchor": "coaching-assessment-13",
       "raw": "The session contained exactly **18 working sets**: 13 at RIR 2, four at RIR 1 and one at RIR 0. Hack squat, leg extension and the lighter calf set progressed. Walking and stair tolerance were better than after the previous Legs session, and the lower-back response was described as a normal pump rather than pain.\n\nEffort control was still incomplete. The 35 kg leg curl reached RIR 0, the 150 kg leg-press set again required assistance, final energy fell to Low and the workout lasted 100 minutes. The new Romanian deadlift produced more lower-back than hamstring sensation, so its technique is not yet established. A little hip pain was present after training and requires a fresh location/severity/movement check before the next lower-body session.\n\nDo not progress load based solely on today's strongest numbers. The next Legs session should use fewer near-failure sets, no assisted repetitions, and a lighter Romanian-deadlift technique reset. If hip discomfort persists during walking, squatting, hinging or daily activity, lower-body loading should be modified until it resolves.",
       "html": "<p>The session contained exactly <strong>18 working sets</strong>: 13 at RIR 2, four at RIR 1 and one at RIR 0. Hack squat, leg extension and the lighter calf set progressed. Walking and stair tolerance were better than after the previous Legs session, and the lower-back response was described as a normal pump rather than pain.</p>\n<p>Effort control was still incomplete. The 35 kg leg curl reached RIR 0, the 150 kg leg-press set again required assistance, final energy fell to Low and the workout lasted 100 minutes. The new Romanian deadlift produced more lower-back than hamstring sensation, so its technique is not yet established. A little hip pain was present after training and requires a fresh location/severity/movement check before the next lower-body session.</p>\n<p>Do not progress load based solely on today&#39;s strongest numbers. The next Legs session should use fewer near-failure sets, no assisted repetitions, and a lighter Romanian-deadlift technique reset. If hip discomfort persists during walking, squatting, hinging or daily activity, lower-body loading should be modified until it resolves.</p>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "coaching-assessment-12"
+        "anchor": "coaching-assessment-13"
       }
     },
     {
-      "id": "md-251",
+      "id": "md-266",
       "level": 2,
       "title": "Next Legs-session targets",
       "anchor": "next-legs-session-targets-2",
@@ -27247,7 +28366,7 @@
       }
     },
     {
-      "id": "md-252",
+      "id": "md-267",
       "level": 2,
       "title": "Tracker status after 2026-08-20 Legs session",
       "anchor": "tracker-status-after-2026-08-20-legs-session",
@@ -27259,7 +28378,7 @@
       }
     },
     {
-      "id": "md-253",
+      "id": "md-268",
       "level": 2,
       "title": "Tracker reconciliation completed - 2026-08-20 Legs session",
       "anchor": "tracker-reconciliation-completed-2026-08-20-legs-session",
@@ -27271,7 +28390,7 @@
       }
     },
     {
-      "id": "md-254",
+      "id": "md-269",
       "level": 2,
       "title": "Tracker reconciliation completed - 2026-08-18 Chest session",
       "anchor": "tracker-reconciliation-completed-2026-08-18-chest-session",
@@ -27283,7 +28402,7 @@
       }
     },
     {
-      "id": "md-255",
+      "id": "md-270",
       "level": 1,
       "title": "Standardized Sunday Measurement Check-In - 2026-08-16",
       "anchor": "standardized-sunday-measurement-check-in-2026-08-16",
@@ -27295,7 +28414,7 @@
       }
     },
     {
-      "id": "md-256",
+      "id": "md-271",
       "level": 1,
       "title": "Biceps Workout - 2026-08-19",
       "anchor": "biceps-workout-2026-08-19",
@@ -27307,19 +28426,19 @@
       }
     },
     {
-      "id": "md-257",
+      "id": "md-272",
       "level": 2,
       "title": "Pre-workout readiness",
-      "anchor": "pre-workout-readiness-10",
+      "anchor": "pre-workout-readiness-11",
       "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Lower-biceps pump following the 2026-08-18 Chest session: **Resolved**.\n- Elbow, wrist or shoulder pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
       "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Lower-biceps pump following the 2026-08-18 Chest session: <strong>Resolved</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "pre-workout-readiness-10"
+        "anchor": "pre-workout-readiness-11"
       }
     },
     {
-      "id": "md-258",
+      "id": "md-273",
       "level": 2,
       "title": "Completed sets",
       "anchor": "completed-sets-10",
@@ -27331,7 +28450,7 @@
       }
     },
     {
-      "id": "md-259",
+      "id": "md-274",
       "level": 3,
       "title": "Straight-bar curl - plates each side; bar excluded",
       "anchor": "straight-bar-curl-plates-each-side-bar-excluded-2",
@@ -27343,7 +28462,7 @@
       }
     },
     {
-      "id": "md-260",
+      "id": "md-275",
       "level": 3,
       "title": "Incline dumbbell curl - weight per dumbbell",
       "anchor": "incline-dumbbell-curl-weight-per-dumbbell",
@@ -27355,7 +28474,7 @@
       }
     },
     {
-      "id": "md-261",
+      "id": "md-276",
       "level": 3,
       "title": "Plate-loaded curl machine - plates each side",
       "anchor": "plate-loaded-curl-machine-plates-each-side",
@@ -27367,7 +28486,7 @@
       }
     },
     {
-      "id": "md-262",
+      "id": "md-277",
       "level": 3,
       "title": "Hammer dumbbell curl - weight per dumbbell",
       "anchor": "hammer-dumbbell-curl-weight-per-dumbbell",
@@ -27379,7 +28498,7 @@
       }
     },
     {
-      "id": "md-263",
+      "id": "md-278",
       "level": 3,
       "title": "Concentration curl - weight per dumbbell",
       "anchor": "concentration-curl-weight-per-dumbbell",
@@ -27391,7 +28510,7 @@
       }
     },
     {
-      "id": "md-264",
+      "id": "md-279",
       "level": 3,
       "title": "Reverse EZ-bar curl - plates each side; bar excluded",
       "anchor": "reverse-ez-bar-curl-plates-each-side-bar-excluded-2",
@@ -27403,31 +28522,31 @@
       }
     },
     {
-      "id": "md-265",
+      "id": "md-280",
       "level": 2,
       "title": "Post-workout recovery",
-      "anchor": "post-workout-recovery-10",
+      "anchor": "post-workout-recovery-11",
       "raw": "- Biceps sensation: **Usual overall muscular sensation; no unusual localized lower-biceps symptom**.\n- Elbow, wrist or shoulder pain: **None**.\n- Final energy: **Low**.\n- Total duration: **Approximately 1 hour 30 minutes**.\n- Assisted repetitions or body swinging: **None**.\n- Biceps pump: **Medium to high**.\n- Incline and concentration curls: **Confirmed clean and controlled**.",
       "html": "<ul>\n<li>Biceps sensation: <strong>Usual overall muscular sensation; no unusual localized lower-biceps symptom</strong>.</li>\n<li>Elbow, wrist or shoulder pain: <strong>None</strong>.</li>\n<li>Final energy: <strong>Low</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 30 minutes</strong>.</li>\n<li>Assisted repetitions or body swinging: <strong>None</strong>.</li>\n<li>Biceps pump: <strong>Medium to high</strong>.</li>\n<li>Incline and concentration curls: <strong>Confirmed clean and controlled</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "post-workout-recovery-10"
+        "anchor": "post-workout-recovery-11"
       }
     },
     {
-      "id": "md-266",
+      "id": "md-281",
       "level": 2,
       "title": "Coaching assessment",
-      "anchor": "coaching-assessment-13",
+      "anchor": "coaching-assessment-14",
       "raw": "This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly **18 working sets**, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was **three sets at RIR 3, twelve at RIR 2 and three at RIR 1**. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.\n\nPerformance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.\n\nFinal energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.",
       "html": "<p>This was a clear improvement over the 2026-08-12 Biceps session. Direct volume decreased from 20 to exactly <strong>18 working sets</strong>, no set reached RIR 0, and only three sets reached RIR 1. The RIR distribution was <strong>three sets at RIR 3, twelve at RIR 2 and three at RIR 1</strong>. By comparison, the previous session contained sixteen RIR-1 sets and one RIR-0 set.</p>\n<p>Performance also progressed. Straight-bar curl improved to 15 kg/side x 8 at RIR 2; the plate-loaded machine improved to 12.5 kg/side x 10 at RIR 2; hammer curls maintained the 17.5 kg top-set repetitions with better reserve; concentration curl improved to 12.5 kg x 10; and reverse EZ curl improved to 10 kg/side x 11. Incline dumbbell curl replaced cable curl and established a pain-free, clean baseline.</p>\n<p>Final energy still fell from Medium-High to Low despite improved effort distribution. Therefore, no load increases are warranted next time. Preserve the 18-set ceiling, use exactly three sets per exercise, and improve reserve before adding weight. The usual overall biceps sensation and Medium-High pump are acceptable; any future sharp or localized distal-biceps pain would require stopping and reassessment.</p>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "coaching-assessment-13"
+        "anchor": "coaching-assessment-14"
       }
     },
     {
-      "id": "md-267",
+      "id": "md-282",
       "level": 2,
       "title": "Next Biceps-session targets",
       "anchor": "next-biceps-session-targets-2",
@@ -27439,7 +28558,7 @@
       }
     },
     {
-      "id": "md-268",
+      "id": "md-283",
       "level": 2,
       "title": "Tracker status after 2026-08-19 Biceps session",
       "anchor": "tracker-status-after-2026-08-19-biceps-session",
@@ -27451,7 +28570,7 @@
       }
     },
     {
-      "id": "md-269",
+      "id": "md-284",
       "level": 1,
       "title": "Shoulders Workout - 2026-08-21",
       "anchor": "shoulders-workout-2026-08-21",
@@ -27463,19 +28582,19 @@
       }
     },
     {
-      "id": "md-270",
+      "id": "md-285",
       "level": 2,
       "title": "Pre-workout readiness",
-      "anchor": "pre-workout-readiness-11",
+      "anchor": "pre-workout-readiness-12",
       "raw": "- Sleep quality: **Good**.\n- Starting energy: **Medium to high**.\n- Hip pain following the 2026-08-20 Legs session: **None**.\n- Shoulder, neck, elbow or wrist pain: **None**.\n- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.\n- Additional black coffee: **None**.",
       "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>Medium to high</strong>.</li>\n<li>Hip pain following the 2026-08-20 Legs session: <strong>None</strong>.</li>\n<li>Shoulder, neck, elbow or wrist pain: <strong>None</strong>.</li>\n<li>EAA+ Energy: <strong>One full scoop</strong>, supplying <strong>100 mg caffeine</strong>.</li>\n<li>Additional black coffee: <strong>None</strong>.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "pre-workout-readiness-11"
+        "anchor": "pre-workout-readiness-12"
       }
     },
     {
-      "id": "md-271",
+      "id": "md-286",
       "level": 2,
       "title": "Completed sets",
       "anchor": "completed-sets-11",
@@ -27487,7 +28606,7 @@
       }
     },
     {
-      "id": "md-272",
+      "id": "md-287",
       "level": 3,
       "title": "Dumbbell shoulder press - weight per dumbbell",
       "anchor": "dumbbell-shoulder-press-weight-per-dumbbell-2",
@@ -27499,7 +28618,7 @@
       }
     },
     {
-      "id": "md-273",
+      "id": "md-288",
       "level": 3,
       "title": "Plate-loaded lateral-raise machine - plates each side",
       "anchor": "plate-loaded-lateral-raise-machine-plates-each-side-2",
@@ -27511,7 +28630,7 @@
       }
     },
     {
-      "id": "md-274",
+      "id": "md-289",
       "level": 3,
       "title": "Experimental rear-delt movement on lateral-raise machine - plates each side",
       "anchor": "experimental-rear-delt-movement-on-lateral-raise-machine-plates-each-side",
@@ -27523,7 +28642,7 @@
       }
     },
     {
-      "id": "md-275",
+      "id": "md-290",
       "level": 3,
       "title": "Reverse pec deck - total machine load",
       "anchor": "reverse-pec-deck-total-machine-load",
@@ -27535,7 +28654,7 @@
       }
     },
     {
-      "id": "md-276",
+      "id": "md-291",
       "level": 3,
       "title": "Cable upright row - total stack",
       "anchor": "cable-upright-row-total-stack",
@@ -27547,7 +28666,7 @@
       }
     },
     {
-      "id": "md-277",
+      "id": "md-292",
       "level": 3,
       "title": "Single-arm cable lateral raise - reps per arm",
       "anchor": "single-arm-cable-lateral-raise-reps-per-arm",
@@ -27559,7 +28678,7 @@
       }
     },
     {
-      "id": "md-278",
+      "id": "md-293",
       "level": 3,
       "title": "Cable shrug with straight bar on low pulley - total stack",
       "anchor": "cable-shrug-with-straight-bar-on-low-pulley-total-stack",
@@ -27571,7 +28690,7 @@
       }
     },
     {
-      "id": "md-279",
+      "id": "md-294",
       "level": 3,
       "title": "Core and cardio finishers",
       "anchor": "core-and-cardio-finishers",
@@ -27583,31 +28702,31 @@
       }
     },
     {
-      "id": "md-280",
+      "id": "md-295",
       "level": 2,
       "title": "Post-workout recovery",
-      "anchor": "post-workout-recovery-11",
+      "anchor": "post-workout-recovery-12",
       "raw": "- Shoulder, neck, elbow or wrist pain: **None**.\n- Hip pain during or after the incline walk: **None**.\n- Lower-back pain: **None**.\n- Final energy: **Medium**.\n- Total duration: **Approximately 1 hour 40 minutes**.\n- Assisted repetitions or reported form breakdown: **None**.\n- Shoulder pump: **Low to medium**.\n- Delayed shoulder soreness: **To verify the following morning**; Vipin noted that the previous Legs-session soreness also appeared later rather than immediately.\n- Cable-shrug quality: elbows tended to bend but were controlled; low trap sensation made the substitution feel unproductive.",
       "html": "<ul>\n<li>Shoulder, neck, elbow or wrist pain: <strong>None</strong>.</li>\n<li>Hip pain during or after the incline walk: <strong>None</strong>.</li>\n<li>Lower-back pain: <strong>None</strong>.</li>\n<li>Final energy: <strong>Medium</strong>.</li>\n<li>Total duration: <strong>Approximately 1 hour 40 minutes</strong>.</li>\n<li>Assisted repetitions or reported form breakdown: <strong>None</strong>.</li>\n<li>Shoulder pump: <strong>Low to medium</strong>.</li>\n<li>Delayed shoulder soreness: <strong>To verify the following morning</strong>; Vipin noted that the previous Legs-session soreness also appeared later rather than immediately.</li>\n<li>Cable-shrug quality: elbows tended to bend but were controlled; low trap sensation made the substitution feel unproductive.</li>\n</ul>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "post-workout-recovery-11"
+        "anchor": "post-workout-recovery-12"
       }
     },
     {
-      "id": "md-281",
+      "id": "md-296",
       "level": 2,
       "title": "Coaching assessment",
-      "anchor": "coaching-assessment-14",
+      "anchor": "coaching-assessment-15",
       "raw": "The session showed objective progression without pain or assistance. Excluding the 15 kg preparation set, the shoulder work comprised **20 working sets**: five at RIR 3, eleven at RIR 2 and four at RIR 1. Pressing reserve improved, reverse-pec-deck reserve improved markedly, and both lateral-raise variations progressed.\n\nThe main issue was excess volume. The two experimental rear-delt sets raised the session above the planned 18-set ceiling, after which three plank sets and a steep 12% incline walk extended the workout to 100 minutes. The cable shrug added fatigue without producing useful trap stimulus. Therefore, today's stronger numbers do not justify adding load next time.\n\nReturn to exactly 18 shoulder working sets, avoid experimental extras during the main session, keep most sets around RIR 2, and use dumbbell shrugs or a dedicated shrug machine instead of the low-pulley cable version. Because this session followed Legs and delayed soreness remains unknown, the next readiness decision should be based on the following-morning shoulder, hip and leg response.",
       "html": "<p>The session showed objective progression without pain or assistance. Excluding the 15 kg preparation set, the shoulder work comprised <strong>20 working sets</strong>: five at RIR 3, eleven at RIR 2 and four at RIR 1. Pressing reserve improved, reverse-pec-deck reserve improved markedly, and both lateral-raise variations progressed.</p>\n<p>The main issue was excess volume. The two experimental rear-delt sets raised the session above the planned 18-set ceiling, after which three plank sets and a steep 12% incline walk extended the workout to 100 minutes. The cable shrug added fatigue without producing useful trap stimulus. Therefore, today&#39;s stronger numbers do not justify adding load next time.</p>\n<p>Return to exactly 18 shoulder working sets, avoid experimental extras during the main session, keep most sets around RIR 2, and use dumbbell shrugs or a dedicated shrug machine instead of the low-pulley cable version. Because this session followed Legs and delayed soreness remains unknown, the next readiness decision should be based on the following-morning shoulder, hip and leg response.</p>\n",
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
-        "anchor": "coaching-assessment-14"
+        "anchor": "coaching-assessment-15"
       }
     },
     {
-      "id": "md-282",
+      "id": "md-297",
       "level": 2,
       "title": "Next Shoulders-session targets",
       "anchor": "next-shoulders-session-targets",
@@ -27619,7 +28738,7 @@
       }
     },
     {
-      "id": "md-283",
+      "id": "md-298",
       "level": 2,
       "title": "Tracker status after 2026-08-21 Shoulders session",
       "anchor": "tracker-status-after-2026-08-21-shoulders-session",
@@ -27631,7 +28750,7 @@
       }
     },
     {
-      "id": "md-284",
+      "id": "md-299",
       "level": 2,
       "title": "Tracker reconciliation completed - 2026-08-21 Shoulders session",
       "anchor": "tracker-reconciliation-completed-2026-08-21-shoulders-session",

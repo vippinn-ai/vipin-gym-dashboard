@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(366)
-    expect(data.sessions).toHaveLength(18)
-    expect(data.markdownSections).toHaveLength(284)
+    expect(data.journal).toHaveLength(386)
+    expect(data.sessions).toHaveLength(19)
+    expect(data.markdownSections).toHaveLength(299)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -76,5 +76,29 @@ describe('generated coaching dataset', () => {
     expect(assistedDips.every((row) => row['Set Type'] === 'Working')).toBe(true)
     expect(assistedDips.every((row) => String(row['Unit / Load Basis']).includes('higher is easier'))).toBe(true)
     expect(tricepsRows.some((row) => row['Set Type'] === 'Assisted')).toBe(false)
+  })
+
+  it('records the August 24 combined session and standardized body check-in', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-24')
+    expect(latestSession?.Workout).toBe('Back + Biceps')
+    expect(latestSession?.['Set Entries']).toBe(20)
+
+    const combinedRows = data.journal.filter((row) => row.Date === '2026-08-24')
+    expect(combinedRows).toHaveLength(20)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Working')).toHaveLength(18)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Warm-up')).toHaveLength(2)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Assisted')).toHaveLength(0)
+    expect(combinedRows.filter((row) => row.Workout === 'Back')).toHaveLength(14)
+    expect(combinedRows.filter((row) => row.Workout === 'Biceps')).toHaveLength(6)
+    expect(
+      combinedRows
+        .filter((row) => row['Set Type'] === 'Warm-up')
+        .every((row) => row.RIR === 3),
+    ).toBe(true)
+
+    const checkIn = data.recovery.find((row) => row.Date === '2026-08-23')
+    expect(checkIn?.['Weight (kg)']).toBe(87.7)
+    expect(checkIn?.['Waist (cm)']).toBe(96.5)
+    expect(checkIn?.Notes).toContain('87.6-87.7 kg')
   })
 })
