@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(386)
-    expect(data.sessions).toHaveLength(19)
-    expect(data.markdownSections).toHaveLength(299)
+    expect(data.journal).toHaveLength(406)
+    expect(data.sessions).toHaveLength(20)
+    expect(data.markdownSections).toHaveLength(312)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -100,5 +100,30 @@ describe('generated coaching dataset', () => {
     expect(checkIn?.['Weight (kg)']).toBe(87.7)
     expect(checkIn?.['Waist (cm)']).toBe(96.5)
     expect(checkIn?.Notes).toContain('87.6-87.7 kg')
+  })
+
+  it('records the August 25 combined session with fatigue and uncertainty intact', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-25')
+    expect(latestSession?.Workout).toBe('Chest + Triceps')
+    expect(latestSession?.['Set Entries']).toBe(20)
+    expect(latestSession?.['Coach Assessment']).toContain('19 meaningful sets')
+
+    const combinedRows = data.journal.filter((row) => row.Date === '2026-08-25')
+    expect(combinedRows).toHaveLength(20)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Working')).toHaveLength(19)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Warm-up')).toHaveLength(1)
+    expect(combinedRows.filter((row) => row['Set Type'] === 'Assisted')).toHaveLength(0)
+    expect(combinedRows.filter((row) => row.Workout === 'Chest')).toHaveLength(13)
+    expect(combinedRows.filter((row) => row.Workout === 'Triceps')).toHaveLength(7)
+    expect(combinedRows.filter((row) => row.RIR === 0)).toHaveLength(1)
+
+    const pecDeckRows = combinedRows.filter((row) => row.Exercise === 'Pec Deck Fly')
+    expect(pecDeckRows).toHaveLength(3)
+    expect(pecDeckRows.every((row) => containsUncertainty(row))).toBe(true)
+    expect(pecDeckRows.at(-1)?.['Coach Note']).toContain('omit 60 kg')
+
+    const recovery = data.recovery.find((row) => row.Date === '2026-08-25')
+    expect(recovery?.Energy).toBe('Low final')
+    expect(recovery?.['Soreness / Pain']).toContain('non-painful upper-biceps/arm pump')
   })
 })

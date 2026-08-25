@@ -1760,6 +1760,124 @@ The next Chest session remains capped at **15 direct working sets plus up to thr
 - Canonical Excel tracker: **Updated and verified** with 18 working sets, recovery, coaching assessment, next-session targets and the standardized 2026-08-16 measurement check-in.
 - Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
 
+# Chest + Triceps Workout - 2026-08-25
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Chest or triceps soreness: **None**.
+- Shoulder, elbow or wrist pain: **None**.
+- MuscleTech EAA+ Energy: **One full scoop**, providing 100 mg caffeine.
+- Additional coffee: **None**.
+
+## Exercise log
+
+### Flat bench press - plates each side; bar excluded
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg/side | 15 | 3 | Working-level fatigue |
+| 2 | 20 kg/side | 10 | 2 | Working |
+| 3 | 20 kg/side | 10 | 2 | Working |
+| 4 | 22.5 kg/side | 8 | 0 | Working; failure-level effort |
+
+The 22.5 kg target reached eight repetitions, but at RIR 0 rather than RIR 1-2. This does not justify a load increase. The 15 kg set also ended at RIR 3 with 15 repetitions and therefore counts as meaningful fatigue rather than a low-fatigue preparation set.
+
+### Incline barbell bench press - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg/side | 15 | 2 |
+| 2 | 12.5 kg/side | 12 | 2 |
+| 3 | 15 kg/side | 10 | 2 |
+
+All three tracked loads progressed in repetitions. Loads remain unchanged until the same repetitions can be achieved with the first set near RIR 3 and no failure-level work elsewhere in the session.
+
+### Plate-loaded chest press - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg/side | 15 | 3 |
+| 2 | 40 kg/side | 12 | 2 |
+| 3 | 50 kg/side | 8 | 1 |
+
+Only two sets were prescribed after the flat-bench volume adjustment, but three were completed and the final load was increased beyond the prescribed 45 kg/side. The 50 kg result is retained as unplanned fatigue and is not used for progression.
+
+### Pec deck fly - total machine-stack weight
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 50 kg | 12 | 3 |
+| 2 | 55 kg | 12 | 2 |
+| 3 | 60 kg | 11 | 1 |
+
+Exactly two sets were prescribed, but a third 60 kg set was completed. A strong upper-biceps/upper-arm pump was felt and was later attributed by Vipin to the pec deck. It was explicitly **not painful**. Exact side remains **To verify**. Next time, relax the grip, keep a soft fixed elbow bend, drive through the elbows and omit 60 kg.
+
+### Straight-bar triceps pushdown - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 12 | 4 | Preparation; excluded from meaningful-set total |
+| 2 | 50 kg | 13 | 2 | Working |
+| 3 | 55 kg | 11 | 1 | Working |
+| 4 | 60 kg | 9 | 1 | Working |
+
+The preparation set remained appropriately easy. The working repetitions were completed, but all sets were harder than their RIR targets; keep loads unchanged.
+
+### Overhead rope extension - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 11 | 2 |
+| 2 | 40 kg | 9 | 2 |
+| 3 | 45 kg | 7 | 1 |
+
+Only two sets at 30 and 35 kg were prescribed after the session reached 16 meaningful sets. Three sets were completed, including unplanned 40 and 45 kg loads. All sets were reported clean, but the third set raised the session above its ceiling and receives no progression credit.
+
+## Post-workout recovery
+
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 15 minutes**.
+- Chest and triceps pump: **Medium**.
+- Upper-biceps/upper-arm sensation: **Strong pump, likely pec-deck-related; not painful; exact side To verify**.
+- Chest, shoulder, elbow or wrist pain: **None reported**.
+- Assisted repetitions or technique breakdown: **None**.
+- Overhead-rope technique: **All three sets reported clean**.
+- EAA+: **One full scoop**.
+- Additional coffee: **None**.
+- Cardio, core or additional lifting: **None after the final overhead-rope set**, as directed because final energy was Low and the resistance ceiling had already been exceeded.
+
+## Coaching assessment
+
+The session contained **20 journal entries**: one genuine preparation set at RIR 4 and **19 meaningful working sets**. Chest contributed 13 meaningful sets and Triceps contributed six. The combined-session ceiling of 18 meaningful sets was exceeded by one.
+
+Performance improved across Incline Barbell Bench Press and several established loads, and no pain, assistance or technique breakdown was reported. However, the flat-bench top set reached RIR 0, the live reduction on Plate-Loaded Chest Press was not followed, Pec Deck received an unplanned third set, and Overhead Rope Extension received three sets after an explicit two-set limit. Final energy falling from Medium to Low again confirms that the extra work was unnecessary.
+
+The upper-biceps pump is not currently treated as an injury because it was not painful, but it is a useful technique signal. If it persists after the workout, becomes painful, produces bruising or weakness, or is still prominent before the next upper-body session, direct chest and arm loading should be paused and reassessed.
+
+## Next Chest + Triceps targets
+
+| Exercise | Next target |
+|---|---|
+| Flat bench press | Use low-fatigue preparation sets, including 15 kg/side x 8 near RIR 5; then 17.5 kg/side x 12 @ RIR 3, 20 kg/side x 10 @ RIR 2 and 22.5 kg/side x 8 @ RIR 1-2. No RIR 0. |
+| Incline barbell bench press | 10 kg/side x 15 @ RIR 3; 12.5 kg/side x 12 @ RIR 2-3; 15 kg/side x 10 @ RIR 2. Keep loads. |
+| Plate-loaded chest press | 30 kg/side x 15 @ RIR 3; 40 kg/side x 12 @ RIR 2; 45 kg/side x 9-10 @ RIR 2. Do not use 50 kg yet. |
+| Pec deck fly | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 3; 55 kg x 12 @ RIR 2. Use a relaxed grip and elbow-driven arc; omit 60 kg. |
+| Straight-bar pushdown | Use 45 kg x 10-12 near RIR 5 as preparation; then 50 kg x 13 @ RIR 3, 55 kg x 11 @ RIR 2 and 60 kg x 9 @ RIR 2. |
+| Overhead rope extension | 30 kg x 12-15 @ RIR 3; 35 kg x 12 @ RIR 2; 40 kg x 9-10 @ RIR 2. Do not use 45 kg. |
+
+The next combined Chest + Triceps session is capped at **18 meaningful sets**, exactly three working sets per exercise. Preparation work must remain near RIR 5 and live reductions replace the earlier plan. The next immediate workout in the temporary four-day structure is **Legs**, subject to fresh readiness and confirmation that the upper-biceps pump has resolved.
+
+## Tracker status after 2026-08-25 Chest + Triceps session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Updated and verified** with 20 journal entries, comprising one genuine preparation row and 19 working rows. The coaching fatigue total is 19 meaningful sets.
+- Workbook verification: **All 11 worksheets rendered and reviewed; formula-error scan returned zero matches**.
+- Pec-deck response: strong upper-biceps/upper-arm pump retained as **non-painful**, likely pec-deck-related; exact side remains **To verify**.
+- Website source dataset: **Synchronized** with 406 journal entries, 20 sessions, 312 coaching sections and 13 evidence files. Publication confirmation is recorded separately after the GitHub Actions workflow and public-site verification complete.
+- Historical records and all existing `To verify` flags remain preserved.
+
 # Standardized Body Check-in - 2026-08-23
 
 - Morning body weight: **87.7 kg**. Repeated readings were 87.6-87.7 kg, so 87.7 kg is retained as the official reading.
