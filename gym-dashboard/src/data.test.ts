@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(406)
-    expect(data.sessions).toHaveLength(20)
-    expect(data.markdownSections).toHaveLength(312)
+    expect(data.journal).toHaveLength(425)
+    expect(data.sessions).toHaveLength(21)
+    expect(data.markdownSections).toHaveLength(327)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -125,5 +125,31 @@ describe('generated coaching dataset', () => {
     const recovery = data.recovery.find((row) => row.Date === '2026-08-25')
     expect(recovery?.Energy).toBe('Low final')
     expect(recovery?.['Soreness / Pain']).toContain('non-painful upper-biceps/arm pump')
+  })
+
+  it('records the August 26 shoulders and biceps session at the working-set ceiling', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-26')
+    expect(latestSession?.Workout).toBe('Shoulders + Biceps')
+    expect(latestSession?.['Set Entries']).toBe(19)
+    expect(latestSession?.['Coach Assessment']).toContain('Exactly 18 working sets')
+
+    const sessionRows = data.journal.filter((row) => row.Date === '2026-08-26')
+    expect(sessionRows).toHaveLength(19)
+    expect(sessionRows.filter((row) => row['Set Type'] === 'Warm-up')).toHaveLength(1)
+    expect(sessionRows.filter((row) => row['Set Type'] === 'Working')).toHaveLength(18)
+    expect(sessionRows.filter((row) => row['Set Type'] === 'Assisted')).toHaveLength(0)
+    expect(sessionRows.filter((row) => row.RIR === 0)).toHaveLength(0)
+    expect(sessionRows.filter((row) => row.Workout === 'Shoulders')).toHaveLength(16)
+    expect(sessionRows.filter((row) => row.Workout === 'Biceps')).toHaveLength(3)
+
+    const rearDeltRows = sessionRows.filter(
+      (row) => row.Exercise === 'Experimental Rear-Delt Lateral-Raise Machine',
+    )
+    expect(rearDeltRows).toHaveLength(2)
+    expect(rearDeltRows.every((row) => containsUncertainty(row))).toBe(true)
+
+    const recovery = data.recovery.find((row) => row.Date === '2026-08-26')
+    expect(recovery?.Energy).toBe('Low final')
+    expect(recovery?.Notes).toContain('no extra 15 kg curl')
   })
 })

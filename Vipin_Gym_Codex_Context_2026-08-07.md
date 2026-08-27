@@ -2520,3 +2520,133 @@ The next Shoulder session is capped at **18 working sets**. The experimental rea
 - Experimental-set handling: both rear-delt machine sets and all three cable-shrug sets remain recorded as working fatigue, while their active targets are marked replaced rather than progressed.
 - Verification flags: exact experimental machine setup/path, unloaded lateral-raise-machine resistance, effective cable-shrug resistance, treadmill speed unit, detailed plank alignment and delayed shoulder soreness remain **To verify**.
 - Workbook validation: **Passed**; all 11 sheets rendered for visual review and the formula-error scan returned zero matches.
+
+# Shoulders + Biceps Workout - 2026-08-26
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Shoulder or relevant muscular soreness: **None**.
+- Shoulder, elbow, wrist or other pain: **None**.
+- Upper-biceps pump following the 2026-08-25 Chest + Triceps session: **Resolved**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+- Schedule change: Legs was planned, but the principal leg machines appeared occupied. The session was changed to Shoulders + Biceps, leaving Legs as the fourth workout of the temporary four-day week.
+
+## Completed sets
+
+### Dumbbell shoulder press - weight per dumbbell
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg | 16 | 4 | Warm-up; reported very easy and excluded from the working-set total |
+| 2 | 17.5 kg | 14 | 2 | Working |
+| 3 | 20 kg | 12 | 2 | Working |
+| 4 | 22.5 kg | 9 | 2 | Working |
+| 5 | 25 kg | 8 | 1 | Working; unplanned fourth working set |
+
+The 17.5 kg, 20 kg and 22.5 kg sets all progressed in repetitions or reserve. The 25 kg set was reported clean and pain-free, but it was an unplanned fourth working set. It remains in history and workload but does not independently justify increasing the active working range, particularly because final energy fell to Low.
+
+### Plate-loaded lateral-raise machine - added plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 2.5 kg/side | 18 | 4 |
+| 2 | 5 kg/side | 15 | 2 |
+| 3 | 5 kg/side | 15 | 2 |
+
+The unloaded machine resistance remains **To verify** and is excluded from the recorded load. The 5 kg/side baseline progressed from 12 repetitions to two sets of 15 at RIR 2.
+
+### Experimental rear-delt lateral-raise-machine variation - added plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 2.5 kg/side | 14 | 2 |
+| 2 | 2.5 kg/side | 14 | 2 |
+
+These reverse-facing sets were used instead of the reverse pec deck after they had already been performed. They count as working fatigue and rear-delt work, so the reverse pec deck was correctly omitted. The exact seat orientation, arm path and machine geometry remain **To verify**. This variation remains experimental rather than replacing the reverse pec deck in the standard active sequence.
+
+### Cable upright row - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 16 | 3 |
+| 2 | 50 kg | 12 | 2 |
+| 3 | 60 kg | 9 | 2 |
+
+The 60 kg set was above the prescribed 50 kg top range but was reported clean and pain-free. It is retained without progression credit. The exact effective resistance of the cable stack remains **To verify**.
+
+### Dumbbell shrugs - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 15 | 2 |
+| 2 | 35 kg | 10 | 2 |
+| 3 | 40 kg | 9 | 2 |
+
+The preferred dumbbell movement restored useful shrug work after the previous low-pulley substitution. The 35 kg and 40 kg sets finished below their repetition targets, so the loads remain unchanged.
+
+### Plate-loaded biceps curl machine - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 16 | 3 |
+| 2 | 10 kg/side | 13 | 3 |
+| 3 | 12.5 kg/side | 11 | 3 |
+
+The curl machine replaced incline dumbbell curls rather than being added to them. All three sets improved reserve, and the proposed additional 15 kg/side set was correctly omitted so the session remained at the volume ceiling.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Shoulder, elbow, wrist, biceps or other pain: **None**.
+- Final energy: **Low**.
+- Shoulder/trap pump: **Medium**.
+- Total duration: **Approximately 1 hour 15 minutes**.
+- Assisted repetitions or form breakdown: **None**.
+- 25 kg shoulder press and 60 kg upright row: **Confirmed clean**.
+- Additional 15 kg/side curl: **Not performed**.
+- Core and cardio: **Not performed by preference**.
+
+## Coaching assessment
+
+The session contained **19 set entries**: one genuine warm-up and exactly **18 working sets**. Across the working sets, one finished at RIR 1, twelve at RIR 2, four at RIR 3 and one at RIR 4. No set reached RIR 0, and no assisted repetitions, pain or form breakdown were reported.
+
+Shoulder-press performance clearly improved, the plate-loaded lateral raise progressed strongly, and biceps-curl reserve improved. The live adjustment after the two experimental rear-delt sets was followed: reverse pec deck was omitted, and the additional requested curl set was not performed. This preserved the 18-set ceiling despite the unplanned fourth shoulder-press working set.
+
+Final energy nevertheless fell from Medium to Low for the third consecutive completed resistance session. Therefore, the unplanned 25 kg shoulder press and 60 kg upright row do not justify expanding load or volume. Legs remains next, but it should use the existing 18-set ceiling, avoid RIR 0 and hand-assisted repetitions, and begin the Romanian-deadlift technique reset only if hip and lower-back readiness are clear.
+
+## Next Shoulders + Biceps targets
+
+| Exercise | Next target |
+|---|---|
+| Dumbbell shoulder press | Keep 15 kg as an easy preparation set near RIR 5. Use exactly three working sets: 17.5 kg each x 14 @ RIR 3; 20 kg each x 12 @ RIR 2; 22.5 kg each x 9 @ RIR 2. Do not add the 25 kg set next time unless the active plan is revised before the session. |
+| Plate-loaded lateral-raise machine | 2.5 kg/side x 18 @ RIR 3; 5 kg/side x 15 @ RIR 2; 5 kg/side x 16 @ RIR 2. Continue excluding unloaded machine resistance until verified. |
+| Reverse pec deck | Return to the active standard movement: 25 kg x 15-16 @ RIR 3; 30 kg x 13-14 @ RIR 2-3; 35 kg x 11-12 @ RIR 2. Do not combine it with the experimental reverse-facing lateral-raise variation. |
+| Experimental rear-delt lateral-raise-machine variation | Historical/experimental only. Exact setup and movement path remain To verify; do not add it when reverse pec deck is performed. |
+| Cable upright row | 40 kg x 16 @ RIR 3; 50 kg x 12-13 @ RIR 2; 50 kg x 11-12 @ RIR 2. Do not use 60 kg until both 50 kg sets meet reserve and repetition targets. |
+| Dumbbell shrugs | 30 kg each x 15 @ RIR 3; 35 kg each x 11 @ RIR 2; 40 kg each x 10 @ RIR 2. Keep loads unchanged and pause at the top. |
+| Plate-loaded biceps curl machine | 7.5 kg/side x 16 @ RIR 3; 10 kg/side x 13 @ RIR 2-3; 12.5 kg/side x 12 @ RIR 2. Do not add 15 kg/side until the 12.5 kg target is earned cleanly. |
+
+## Temporary four-day schedule status
+
+- Day 1: **Back + Biceps - completed 2026-08-24**.
+- Day 2: **Chest + Triceps - completed 2026-08-25**.
+- Day 3: **Shoulders + Biceps - completed 2026-08-26 after leg-equipment congestion**.
+- Day 4: **Legs - next, subject to fresh sleep, energy, hip, knee and lower-back readiness**.
+
+## Tracker status after 2026-08-26 Shoulders + Biceps session
+
+- Markdown workout history: **Updated**.
+- Canonical Excel tracker: **Updated and verified** with 19 journal entries, comprising one warm-up and 18 working sets.
+- Workbook verification: **All 11 worksheets rendered and reviewed; formula-error scan returned zero matches**.
+- Website source dataset: **Synchronized** with 425 journal entries, 21 sessions, 327 coaching sections and 13 evidence files.
+- Historical records and all existing `To verify` flags remain preserved.
+
+## Tracker reconciliation completed - 2026-08-26 Shoulders + Biceps session
+
+- Historical data: **Preserved**; no prior workout, recovery, target or uncertainty records were removed.
+- Volume accounting: **One warm-up plus exactly 18 working sets**; the reverse-facing rear-delt work replaced rather than supplemented reverse pec deck.
+- Assistance accounting: **No human-assisted or machine-assisted repetitions were reported**.
+- Verification flags: unloaded lateral-raise-machine resistance, experimental rear-delt setup/path and effective cable-stack resistance remain **To verify**.
