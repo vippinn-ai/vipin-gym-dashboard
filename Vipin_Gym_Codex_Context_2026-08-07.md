@@ -2650,3 +2650,121 @@ Final energy nevertheless fell from Medium to Low for the third consecutive comp
 - Volume accounting: **One warm-up plus exactly 18 working sets**; the reverse-facing rear-delt work replaced rather than supplemented reverse pec deck.
 - Assistance accounting: **No human-assisted or machine-assisted repetitions were reported**.
 - Verification flags: unloaded lateral-raise-machine resistance, experimental rear-delt setup/path and effective cable-stack resistance remain **To verify**.
+
+# Legs Workout - 2026-08-27
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Shoulder/biceps soreness: **None**.
+- Hip, knee or lower-back pain: **None**.
+- Leg soreness: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional black coffee: **None**.
+- Schedule context: fourth and final resistance session of the temporary four-day week.
+
+## Completed sets
+
+### Hack squat - plates each side; machine carriage excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg/side | 15 | 3 |
+| 2 | 45 kg/side | 12 | 3 |
+| 3 | 55 kg/side | 10 | 3 |
+| 4 | 65 kg/side | 9 | 2 |
+
+The first three sets met or improved their reserve targets. The 65 kg/side set finished one repetition below its target, so the load remains unchanged.
+
+### Leg press - total displayed load
+
+| Set | Load | Reps | RIR | Assistance |
+|---:|---:|---:|---:|---|
+| 1 | 100 kg | 15 | 2 | None |
+| 2 | 120 kg | 12 | 2 | None |
+| 3 | 140 kg | 10 | 1 | None |
+| 4 | 160 kg | 7 total | 1 | **Five clean plus two human hand-assisted repetitions** |
+
+The 160 kg set remains recorded as five clean repetitions and two assisted repetitions rather than seven clean repetitions. It receives no progression credit. Vipin also reported that the previous leg-press session used 140 and 160 kg rather than the 130 and 150 kg values recorded contemporaneously. The historical row is preserved and the **130/150 versus 140/160 kg discrepancy remains To verify** against the machine increments or other evidence.
+
+### Dumbbell Romanian deadlift - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg each | 15 | 2 |
+| 2 | 12.5 kg each | 12 | 2 |
+| 3 | 15 kg each | 10 | 2 |
+
+No pain occurred. Vipin felt the movement mainly in the hamstrings, with a little non-painful lower-back involvement. This is a meaningful technique improvement from the prior lower-back-dominant RDL session. Detailed hinge depth and spinal position remain **To verify**.
+
+### Leg curl - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 12 | 2 |
+| 2 | 35 kg | 9 | 1 |
+
+The 35 kg set remained below the 10-12 repetition target and too close to failure, so it should not increase.
+
+### Leg extension - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 15 | 3 |
+| 2 | 45 kg | 13 | 2 |
+| 3 | 50 kg | 11 | 2 |
+
+All three prescribed repetition and reserve targets were met exactly.
+
+### Standing calf raise - plates each side on guided bar; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg/side | 22 | 3 |
+| 2 | 20 kg/side | 16 | 3 |
+
+Only two calf sets were used because the fourth leg-press set and third RDL set had already been completed. This live reduction preserved the 18-working-set ceiling.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Lower-back pain: **None**.
+- Knee pain: **None**.
+- Hip pain: **None**.
+- RDL sensation: **Hamstrings dominant, with a little non-painful lower-back involvement**.
+- Final energy: **Low**.
+- Total duration: **Approximately 1 hour 30 minutes**.
+- Current leg/lower-back pump: **Medium**.
+- Assisted repetitions: **Two final repetitions at 160 kg leg press only**.
+- Other assistance or reported form breakdown: **None**.
+- Core and cardio: **Not performed**.
+
+## Coaching assessment
+
+The session contained exactly **18 working sets**: four hack squats, four leg presses, three RDLs, two leg curls, three leg extensions and two calf raises. Six sets finished at RIR 3, nine at RIR 2 and three at RIR 1. No set reached RIR 0, and no pain or general form breakdown was reported.
+
+The strongest result was the RDL correction: the movement became hamstring-led and pain-free after previously being lower-back dominant. Hack-squat reserve, leg-extension execution and calf reserve also improved. However, the unplanned 160 kg leg press required two assisted repetitions, and the 140 kg set was already at RIR 1. Neither set supports increasing load.
+
+Final energy was Low for the fourth consecutive resistance session from 2026-08-24 through 2026-08-27. The temporary four-day week is now complete, so the next immediate training action is recovery/rest rather than compensatory cardio or another resistance session.
+
+## Next Legs-session targets
+
+| Exercise | Next target |
+|---|---|
+| Hack squat | 35 kg/side x 15 @ RIR 3; 45 kg/side x 12-13 @ RIR 3; 55 kg/side x 10-11 @ RIR 2-3; 65 kg/side x 10 @ RIR 2. Do not increase load. |
+| Leg press | Use exactly three unassisted sets: 100 kg x 15 @ RIR 3; 120 kg x 12 @ RIR 2-3; 140 kg x 10 @ RIR 2. Omit 160 kg until the 140 kg target is clean and the historical load discrepancy is verified. |
+| Dumbbell Romanian deadlift | 10 kg each x 12-15 @ RIR 3; 12.5 kg each x 12 @ RIR 3; 15 kg each x 10-11 @ RIR 2. Keep the dumbbells close and stop if the lower back or hip becomes dominant or painful. |
+| Leg curl | 30 kg x 13-15 @ RIR 3; 35 kg x 10 @ RIR 2. No RIR 0. |
+| Leg extension | 40 kg x 15 @ RIR 3; 45 kg x 14 @ RIR 2; 50 kg x 12 @ RIR 2. |
+| Standing calf raise | 10 kg/side x 20-22 @ RIR 3; 20 kg/side x 16-17 @ RIR 2; 20 kg/side x 15-17 @ RIR 2. Use three sets when leg press is limited to three sets. |
+
+The next Legs session remains capped at **18 working sets**. The previous leg-press load discrepancy, effective machine/stack resistance, hack-squat carriage weight, RDL hinge details and calf guided-bar weight remain **To verify**.
+
+## Temporary four-day schedule completed
+
+- Day 1: **Back + Biceps - completed 2026-08-24**.
+- Day 2: **Chest + Triceps - completed 2026-08-25**.
+- Day 3: **Shoulders + Biceps - completed 2026-08-26**.
+- Day 4: **Legs - completed 2026-08-27**.
+- Next action: **Recovery/rest, with easy walking only if desired**.

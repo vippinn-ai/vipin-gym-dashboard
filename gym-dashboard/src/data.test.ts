@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(425)
-    expect(data.sessions).toHaveLength(21)
-    expect(data.markdownSections).toHaveLength(327)
+    expect(data.journal).toHaveLength(443)
+    expect(data.sessions).toHaveLength(22)
+    expect(data.markdownSections).toHaveLength(340)
     expect(data.evidence).toHaveLength(13)
   })
 
@@ -151,5 +151,33 @@ describe('generated coaching dataset', () => {
     const recovery = data.recovery.find((row) => row.Date === '2026-08-26')
     expect(recovery?.Energy).toBe('Low final')
     expect(recovery?.Notes).toContain('no extra 15 kg curl')
+  })
+
+  it('records the August 27 legs session with assistance and uncertainty preserved', () => {
+    const latestSession = data.sessions.find((row) => row.Date === '2026-08-27')
+    expect(latestSession?.Workout).toBe('Legs')
+    expect(latestSession?.['Set Entries']).toBe(18)
+    expect(latestSession?.['Coach Assessment']).toContain('Exactly 18 working sets')
+
+    const sessionRows = data.journal.filter((row) => row.Date === '2026-08-27')
+    expect(sessionRows).toHaveLength(18)
+    expect(sessionRows.filter((row) => row.RIR === 0)).toHaveLength(0)
+    expect(sessionRows.filter((row) => row['Set Type'] === 'Assisted')).toHaveLength(1)
+
+    const topLegPress = sessionRows.find(
+      (row) => row.Exercise === 'Leg Press' && row.Weight === 160,
+    )
+    expect(topLegPress?.Reps).toBe(7)
+    expect(topLegPress?.['Form Note']).toContain('Five clean reps plus two human hand-assisted')
+    expect(topLegPress?.['Coach Note']).toContain('historical load discrepancy To verify')
+
+    const rdlRows = sessionRows.filter((row) => row.Exercise === 'Dumbbell Romanian Deadlift')
+    expect(rdlRows).toHaveLength(3)
+    expect(rdlRows.every((row) => String(row['Form Note']).includes('Pain-free'))).toBe(true)
+
+    const legPressTarget = data.targets.find((row) => row.Exercise === 'Leg Press')
+    expect(containsUncertainty(legPressTarget!)).toBe(true)
+    const recovery = data.recovery.find((row) => row.Date === '2026-08-27')
+    expect(recovery?.Energy).toBe('Low final')
   })
 })
