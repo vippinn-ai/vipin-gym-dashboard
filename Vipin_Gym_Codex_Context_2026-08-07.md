@@ -2768,3 +2768,131 @@ The next Legs session remains capped at **18 working sets**. The previous leg-pr
 - Day 3: **Shoulders + Biceps - completed 2026-08-26**.
 - Day 4: **Legs - completed 2026-08-27**.
 - Next action: **Recovery/rest, with easy walking only if desired**.
+
+# Chest + Triceps Workout - 2026-08-31
+
+## Active six-day split adopted
+
+- Monday: **Chest + Triceps**.
+- Tuesday: **Back + Biceps**.
+- Wednesday: **Shoulders + Triceps**.
+- Thursday: **Legs + Calves**.
+- Friday: **Chest + Shoulders**.
+- Saturday: **Back + Biceps**.
+- Sunday: **Complete rest**.
+
+This two-body-part structure replaces the temporary four-day schedule. It provides two weekly upper-body and direct-arm exposures while retaining one dedicated high-quality Legs session by Vipin's preference. Resistance work remains capped at **18 working sets per session**. The initial block will be reviewed after four weeks rather than expanded reactively during individual workouts.
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Soreness: **None**.
+- Pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional coffee: **None**.
+- Creatine monohydrate: **Not started**.
+
+## Completed resistance work
+
+### Flat bench press - plates each side; bar excluded
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg/side | 8 | 5 | Warm-up |
+| 2 | 17.5 kg/side | 12 | 3 | Working |
+| 3 | 20 kg/side | 10 | 3 | Working |
+| 4 | 22.5 kg/side | 8 | 2 | Working |
+
+The 15 kg set was a genuine low-fatigue preparation set. All three working sets were clean and unassisted. The 22.5 kg result corrected the prior RIR-0 exposure and now supports rep-led progression.
+
+### Incline barbell bench press - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 12.5 kg/side | 12 | 2 |
+| 2 | 15 kg/side | 10 | 2 |
+| 3 | 17.5 kg/side | 8 | 2 |
+
+The previously proposed 10 kg set was skipped. The completed sets remain recorded as performed. The clean and unassisted 17.5 kg/side result establishes a new higher-load baseline, but load should not increase until repetitions improve at the same reserve.
+
+### Pec deck - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 50 kg | 13 | 3 |
+| 2 | 55 kg | 11 | 2 |
+| 3 | 60 kg | 9 | 2 |
+
+No upper-biceps pain or other pain was reported. Relaxed-grip and elbow-path details remain **To verify**, so the 60 kg load should add a repetition before increasing.
+
+### Straight-bar pushdown - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 50 kg | 13 | 2 |
+| 2 | 55 kg | 11 | 2 |
+| 3 | 60 kg | 9 | 2 |
+
+All three sets stayed at RIR 2. The prior 60 kg RIR-1 result was improved without assistance.
+
+### Overhead rope extension - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg | 13 | 2 |
+| 2 | 40 kg | 10 | 2 |
+| 3 | 45 kg | 8 | 1 |
+
+The 45 kg load was explicitly confirmed after the session. The third set exceeded the live two-set prescription. It remains preserved as historical fatigue but receives no automatic progression credit. Next time this movement is limited to exactly two working sets.
+
+### Assisted dips - machine assistance/support
+
+| Set | Assistance | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 60 kg | 12 | 2 |
+| 2 | 50 kg | 8 | 1 |
+
+Assistance came from the machine rather than another person. The machine model and effective resistance remain **To verify**. Because the 50 kg-assistance set finished at RIR 1, retain the same assistance and improve reserve before reducing support.
+
+## Cardio
+
+- Modality: **Incline treadmill walk**.
+- Duration: **15 minutes**.
+- Incline: **12%**.
+- Speed: **Reported as 3-4 mph walking-speed range**; exact setting remains **To verify**.
+- Pain during cardio: **None**.
+
+This exceeded the suggested ten-minute dose but was completed without pain. Because final energy was Low, incline, speed and duration should not increase at the next comparable session.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Chest, shoulder, elbow or upper-biceps pain: **None**.
+- Knee, hip or lower-back pain: **None**.
+- Final energy: **Low**.
+- Chest and triceps pump: **Medium**.
+- Total duration including cardio: **Approximately 1 hour 40 minutes**.
+- Human-assisted repetitions: **None**.
+- Reported form breakdown: **None**.
+
+## Coaching assessment
+
+The session contained **18 resistance entries**: one genuine warm-up and **17 working sets**, followed by 15 minutes of treadmill walking. Among the working sets, four finished at RIR 3, eleven at RIR 2 and two at RIR 1. No set reached RIR 0, and no pain, human assistance or form breakdown was reported.
+
+Flat-bench reserve improved substantially, incline pressing established a clean 17.5 kg/side baseline, and pec-deck and straight-bar-pushdown reserve improved. The main coaching constraint is recovery: the third overhead-rope set exceeded the two-set instruction, total duration reached 100 minutes and final energy fell to Low. Creatine had not started, so this session remains part of the pre-creatine performance baseline.
+
+## Next Chest + Triceps targets
+
+| Exercise | Next target |
+|---|---|
+| Flat bench press | 15 kg/side x 8-10 near RIR 5 as preparation; 17.5 kg/side x 12 @ RIR 3; 20 kg/side x 10-11 @ RIR 2-3; 22.5 kg/side x 9 @ RIR 2. |
+| Incline barbell bench press | 12.5 kg/side x 12 @ RIR 3; 15 kg/side x 10-11 @ RIR 2; 17.5 kg/side x 9 @ RIR 2. Do not add load. |
+| Pec deck | 50 kg x 13-15 @ RIR 3; 55 kg x 12 @ RIR 2; 60 kg x 10 @ RIR 2. Stop if the previous upper-biceps sensation returns. |
+| Straight-bar pushdown | 50 kg x 13-15 @ RIR 3; 55 kg x 12 @ RIR 2; 60 kg x 10 @ RIR 2. |
+| Overhead rope extension | Exactly two sets: 40 kg x 10-12 @ RIR 2 and 45 kg x 8 @ RIR 2. No third set. |
+| Assisted dips | 60 kg machine assistance x 12-13 @ RIR 2; 50 kg assistance x 8 @ RIR 2. Keep support unchanged until reserve improves. |
+
+## Next session
+
+**Back + Biceps** is next under the active six-day split, subject to fresh sleep, energy, chest/triceps soreness and pain checks. Cap resistance work at the planned **16 working sets**, keep most sets at RIR 2, and perform post-lift cardio only if final energy remains Medium or higher.
