@@ -2896,3 +2896,126 @@ Flat-bench reserve improved substantially, incline pressing established a clean 
 ## Next session
 
 **Back + Biceps** is next under the active six-day split, subject to fresh sleep, energy, chest/triceps soreness and pain checks. Cap resistance work at the planned **16 working sets**, keep most sets at RIR 2, and perform post-lift cardio only if final energy remains Medium or higher.
+
+# Back + Biceps Workout - 2026-09-01
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Chest/triceps or other muscular soreness: **None**.
+- Back, lower-back, shoulder, elbow or biceps pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional coffee: **None**.
+- Creatine monohydrate status: **To verify**; no start was reported for this session.
+
+## Completed resistance work
+
+### Lat pulldown - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 12 | 4 | Preparation |
+| 2 | 50 kg | 13 | 2 | Working |
+| 3 | 55 kg | 11 | 2 | Working |
+| 4 | 60 kg | 10 | 2 | Working |
+
+The preparation set was correctly kept low-fatigue. The 60 kg set improved from 9 to 10 repetitions while retaining RIR 2. The 50 kg set was one reserve harder than prescribed, so progression remains rep- and reserve-led rather than load-led.
+
+### Seated cable row - total stack
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 45 kg | 12 | 4 | Preparation |
+| 2 | 50 kg | 12 | 3 | Working |
+| 3 | 55 kg | 11 | 2 | Working |
+| 4 | 60 kg | 10 | 2 | Working |
+
+All prescribed row targets were met. The 60 kg top set matched the previous repetitions with improved reserve from RIR 1 to RIR 2.
+
+### Chest-supported T-bar row - new machine baseline
+
+| Set | Reported load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 12 | 2 |
+| 2 | 40 kg | 10 | 1 |
+| 3 | 40 kg | 10 | 1 |
+
+This was a different T-bar machine, so its loads are not comparable with the established chest-supported-row machine. Whether the reported load represents total added plates, displayed resistance or another convention, and the machine's starting resistance, remain **To verify**. Both 40 kg sets were too close to failure for routine progression.
+
+### Chest-supported row machine - established machine
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 30 kg | 16 | 4 | Preparation |
+| 2 | 40 kg | 15 | 3 | Working |
+| 3 | 55 kg | 12 | 2 | Working |
+
+This machine was added after the T-bar work and replaced the planned straight-arm pulldown. The 30 kg set was a genuine preparation set. The 55 kg set was performed instead of the suggested 50 kg set and remains a clean baseline rather than evidence to add load.
+
+### Incline dumbbell curl - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg | 12 | 2 |
+| 2 | 12.5 kg | 10 | 2 |
+| 3 | 15 kg | 8 | 1 |
+
+The planned 7.5 kg set was skipped. The 15 kg set establishes a heavier baseline but reached RIR 1, so it earns no load progression until the same repetitions are completed at RIR 2.
+
+### Hammer curl - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 15 kg | 12 | 2 |
+| 2 | 17.5 kg | 11 | 2 |
+
+Exactly two sets were completed. Both remained controlled at RIR 2, but repetitions were slightly below target; retain the loads.
+
+Straight-arm cable pulldown was **not performed**. It was replaced by the established chest-supported-row machine so the resistance session could remain at the prescribed **16 working sets**.
+
+## Cardio
+
+- Modality: **Incline treadmill walk**.
+- Duration: **20 minutes**.
+- Speed: **3 km/h**, now confirmed with units.
+- Incline: **12%**.
+- Treadmill calorie display: reported as **"200k"**, interpreted provisionally as approximately **200 kcal machine estimate - To verify**.
+- Rail support: **To verify**.
+- Pain, dizziness or unusual breathlessness: **None**.
+
+The full 20-minute cardio dose was completed, advancing the fat-loss conditioning plan. The 12% incline was higher than the prescribed 6-10% range and final energy was Low, so incline should be moderated in the next comparable session. Treadmill calorie estimates are not used to increase food intake or claim a measured energy deficit.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Back or lower-back pain: **None**.
+- Shoulder, elbow or biceps pain: **None**.
+- Final energy: **Low**.
+- Back and biceps pump: **Medium**.
+- Total duration including cardio: **Approximately 1 hour 30 minutes**.
+- Human-assisted repetitions or reported form breakdown: **None**.
+- Cardio symptoms: **None**.
+
+## Coaching assessment
+
+The session contained **19 resistance entries**: three genuine preparation sets and exactly **16 working sets**, followed by 20 minutes of incline walking. Working-set effort comprised three sets at RIR 3, ten at RIR 2 and three at RIR 1. No set reached RIR 0, and no pain, assisted repetitions or form breakdown was reported.
+
+Lat pulldown and seated-row performance progressed cleanly. The main programming deviation was substituting both a new chest-supported T-bar machine and the established chest-supported-row machine for the single planned chest-supported-row slot. Live adjustment prevented this from increasing total working volume, but the duplicate horizontal-row pattern displaced straight-arm shoulder-extension work. The three RIR-1 sets and Low final energy mean the next Back + Biceps session should use only one chest-supported-row variation and preserve the 16-set ceiling.
+
+## Next Back + Biceps targets
+
+| Exercise | Next target |
+|---|---|
+| Lat pulldown | 45 kg x 10-12 preparation @ RIR 4; 50 kg x 13 @ RIR 3; 55 kg x 12 @ RIR 2; 60 kg x 10 @ RIR 2. |
+| Seated cable row | 45 kg x 10-12 preparation @ RIR 4; 50 kg x 12 @ RIR 3; 55 kg x 11-12 @ RIR 2; 60 kg x 10-11 @ RIR 2. |
+| Chest-supported row | Use **one variation only**. Preferred established machine: 30 kg preparation x 12-15 @ RIR 4; 40 kg x 15-16 @ RIR 3; 55 kg x 12-13 @ RIR 2. |
+| Chest-supported T-bar alternative | Only if the established machine is unavailable: 30 kg x 12-15 @ RIR 3; approximately 35 kg x 10-12 @ RIR 2; 40 kg x 8-10 @ RIR 2. Load basis remains To verify. |
+| Straight-arm cable pulldown | 45 kg x 15 @ RIR 3; 50 kg x 12 @ RIR 2. Exactly two sets when the established chest-supported-row plan is used. |
+| Incline dumbbell curl | 10 kg each x 12-13 @ RIR 3; 12.5 kg each x 10 @ RIR 2; 15 kg each x 8-9 @ RIR 2. |
+| Hammer curl | 15 kg each x 12-14 @ RIR 2; 17.5 kg each x 12 @ RIR 2. Exactly two sets. |
+| Incline treadmill | 20 minutes at 3 km/h and **8-10% incline**, using the talk test. Do not chase the calorie display. |
+
+## Next session
+
+**Shoulders + Triceps** is next under the active six-day split, subject to fresh sleep, energy, back/biceps soreness and joint-pain checks. Keep resistance work within the prescribed ceiling and plan 20 minutes of moderate cardio by controlling resistance-session duration and effort. Reduce cardio incline if final energy is Low rather than increasing intensity.

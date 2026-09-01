@@ -4,9 +4,9 @@ import { containsUncertainty, data } from './data'
 describe('generated coaching dataset', () => {
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(461)
-    expect(data.sessions).toHaveLength(23)
-    expect(data.markdownSections).toHaveLength(355)
+    expect(data.journal).toHaveLength(480)
+    expect(data.sessions).toHaveLength(24)
+    expect(data.markdownSections).toHaveLength(369)
     expect(data.evidence).toHaveLength(13)
   })
 
