@@ -3019,3 +3019,229 @@ Lat pulldown and seated-row performance progressed cleanly. The main programming
 ## Next session
 
 **Shoulders + Triceps** is next under the active six-day split, subject to fresh sleep, energy, back/biceps soreness and joint-pain checks. Keep resistance work within the prescribed ceiling and plan 20 minutes of moderate cardio by controlling resistance-session duration and effort. Reduce cardio incline if final energy is Low rather than increasing intensity.
+
+# Shoulders + Triceps Workout - 2026-09-02
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Muscular soreness: **None**.
+- Shoulder, elbow, wrist, back or other pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional coffee: **None**.
+- Creatine monohydrate status: **To verify**; no start was reported for this session.
+
+## Completed resistance work
+
+### Dumbbell shoulder press - weight per dumbbell
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 15 kg | 16 | 4 | Preparation |
+| 2 | 17.5 kg | 15 | 3 | Working |
+| 3 | 20 kg | 13 | 2 | Working |
+| 4 | 22.5 kg | 11 | 2 | Working |
+| 5 | 25 kg | 9 | 2 | Working |
+
+The preparation set remained low-fatigue. The 25 kg top set progressed from 8 repetitions at RIR 1 to 9 at RIR 2 and was reported clean and unassisted. It was an additional fourth working press set beyond the planned three, so the progression is preserved but does not justify adding load or volume.
+
+### Plate-loaded lateral raise machine - plates per side
+
+| Set | Added load per side | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 2.5 kg | 20 | 3 |
+| 2 | 5 kg | 15 | 2 |
+| 3 | 7.5 kg | 8 | 2 |
+
+The 7.5 kg/side set establishes a heavier pain-free baseline. The unloaded machine resistance remains **To verify**; retain the same loads and build repetitions before progressing.
+
+### Reverse pec deck - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 15 | 2 |
+| 2 | 35 kg | 13 | 2 |
+| 3 | 40 kg | 9 | 2 |
+
+All three sets stayed at RIR 2 and the 40 kg set establishes a clean higher-load baseline. This was a third working set despite the live two-set volume reduction.
+
+### Rope pushdown - total stack, performed fourth
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 17 | 3 |
+| 2 | 35 kg | 13 | 2 |
+| 3 | 40 kg | 10 | 2 |
+
+All sets were clean and unassisted. The loads remain appropriate; no load increase is needed.
+
+### Single-arm cable pushdown - each arm
+
+| Set | Stack setting | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 5 kg | 20 | 3 |
+| 2 | 10 kg | 15 | 2 |
+| 3 | 15 kg | 12 | 2 |
+
+Both sides were reported completed without pain or form breakdown. Side-to-side differences remain **To verify**.
+
+### Seated two-hand overhead dumbbell extension
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 20 kg | 15 | 3 |
+| 2 | 25 kg | 12 | 2 |
+| 3 | 30 kg | 7 | 2 |
+
+The 30 kg set establishes a new heavy baseline, but the 25 and 30 kg sets were added after a one-set live prescription. Preserve the work without using it as a reason to expand future volume; technique details remain **To verify**.
+
+## Cardio
+
+- Modality: **Incline treadmill walk**.
+- Duration: **20 minutes**.
+- Incline: **12%**.
+- Speed: **3.5 km/h**.
+- Rail support: **None**.
+- Pain, dizziness or unusual breathlessness: **None**.
+
+The complete cardio dose was achieved, but the incline exceeded the prescribed 6-8% range. Because final energy was Medium to Low and Legs follows, do not increase any treadmill variable and avoid another steep post-leg walk tomorrow.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Shoulder or elbow pain: **None**.
+- Wrist, back or lower-back pain: **None**.
+- Final energy: **Medium to Low**.
+- Shoulder and triceps pump: **Medium**.
+- Total duration including cardio: **Approximately 1 hour 30 minutes**.
+- Human-assisted repetitions or reported form breakdown: **None**.
+- Cardio symptoms: **None**.
+
+## Coaching assessment
+
+The session contained **20 resistance entries**: one genuine preparation set and **19 working sets**, followed by 20 minutes of steep incline walking. Working-set effort comprised five sets at RIR 3 and fourteen at RIR 2; no working set reached RIR 1 or 0. Performance was strong, pain-free and technically reported as clean.
+
+The main coaching issue is accumulated volume. The session exceeded the planned 15 working sets by four and the absolute 18-set ceiling by one, during the third consecutive training day. Several extra sets were completed after live reductions. They remain part of the historical fatigue record but do not earn automatic load or volume progression. The next comparable session should preserve the improved loads within exactly 15 working sets.
+
+## Next Shoulders + Triceps targets
+
+| Exercise | Next target |
+|---|---|
+| Dumbbell shoulder press | 15 kg each x 10-12 preparation @ RIR 5; 20 kg each x 12-13 @ RIR 3; 22.5 kg each x 10-11 @ RIR 2; 25 kg each x 9-10 @ RIR 2. Exactly three working sets. |
+| Plate-loaded lateral raise machine | 2.5 kg/side x 20 @ RIR 3; 5 kg/side x 15-16 @ RIR 2; 7.5 kg/side x 8-9 @ RIR 2. Do not add load. |
+| Reverse pec deck | 30 kg x 15 @ RIR 3; 35 kg x 13-14 @ RIR 2; 40 kg x 9-10 @ RIR 2. |
+| Rope pushdown | Exactly two sets: 30 kg x 15-17 @ RIR 3 and 35 kg x 13-14 @ RIR 2. |
+| Single-arm cable pushdown | Exactly two sets each arm: 10 kg x 15 @ RIR 3 and 15 kg x 12-13 @ RIR 2. |
+| Seated two-hand overhead dumbbell extension | Exactly two sets: 20 kg x 15 @ RIR 3 and 25 kg x 12-13 @ RIR 2. Do not use 30 kg next time. |
+
+## Next session
+
+**Legs + Calves** is next under the active six-day split, subject to fresh sleep, energy, delayed shoulder/triceps soreness and hip/knee/lower-back checks. Keep resistance work at or below 18 working sets, stop all sets before failure, and use only a 5-10 minute easy cooldown walk—or no cardio—so leg strength and recovery remain the priority.
+
+# Legs + Calves Workout - 2026-09-03
+
+## Pre-workout readiness
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium**.
+- Muscular soreness: **None**.
+- Hip, knee, lower-back or other pain: **None**.
+- EAA+ Energy: **One full scoop**, supplying **100 mg caffeine**.
+- Additional coffee: **None**.
+- Creatine monohydrate status: **To verify**; no start was reported for this session.
+
+## Completed resistance work
+
+### Hack squat - plates each side; machine carriage excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg/side | 15 | 3 |
+| 2 | 45 kg/side | 12 | 3 |
+| 3 | 55 kg/side | 10 | 2 |
+| 4 | 65 kg/side | 8 | 2 |
+
+The first three sets met the intended reserve. The 65 kg/side set was one repetition below the previous session at the same RIR, so all loads remain unchanged.
+
+### Leg press - total displayed load
+
+| Set | Load | Reps | RIR | Assistance |
+|---:|---:|---:|---:|---|
+| 1 | 100 kg | 15 | 3 | None |
+| 2 | 120 kg | 12 | 2 | None |
+| 3 | 140 kg | 10 | 1 | None |
+| 4 | 160 kg | 7 | 1 | **None** |
+
+The 160 kg set improved from five clean plus two human-assisted repetitions to seven unassisted repetitions. This is a meaningful execution improvement, but both top sets reached RIR 1 and the 160 kg set was an unplanned fourth set beyond the three-set prescription. It receives no load-progression credit. The earlier 130/150 versus 140/160 kg historical discrepancy remains **To verify**.
+
+### Dumbbell Romanian deadlift - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg each | 15 | 3 |
+| 2 | 12.5 kg each | 12 | 3 |
+| 3 | 17.5 kg each | 9 | 2 |
+
+The prescribed 15 kg dumbbells were unavailable, so 17.5 kg each was used as an equipment-availability substitution. Vipin felt the hamstrings but not strongly, and reported no pain. The heavier set is preserved but does not establish a progression target; hinge depth, spinal position and the reason for limited hamstring sensation remain **To verify**.
+
+### Leg curl - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 30 kg | 14 | 2 |
+| 2 | 35 kg | 9 | 1 |
+
+The 35 kg set matched the previous session and again finished too close to failure. Do not add load or an extra set.
+
+### Leg extension - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 15 | 3 |
+| 2 | 45 kg | 13 | 2 |
+| 3 | 50 kg | 11 | 2 |
+
+All three sets matched the prior session with the intended reserve. Keep the loads and progress repetitions.
+
+### Standing calf raise - plates each side on guided bar; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg/side | 22 | 3 |
+| 2 | 20 kg/side | 17 | 2 |
+
+Both targets were met. Calf work was limited to two sets because the extra fourth leg-press set had already consumed the 18-set session budget.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Hip, knee or lower-back pain: **None**.
+- Other pain: **None**.
+- Final energy: **Low**.
+- Overall leg pump: **Medium**.
+- Total duration: **Approximately 1 hour 20 minutes**.
+- Human-assisted repetitions: **None**, including the 160 kg leg-press set.
+- Reported form breakdown: **None**.
+- Cardio or core: **Not performed**, appropriately, because final energy was Low.
+
+## Coaching assessment
+
+The session contained exactly **18 working sets**: four hack squats, four leg presses, three RDLs, two leg curls, three leg extensions and two calf raises. Seven sets finished at RIR 3, eight at RIR 2 and three at RIR 1. No set reached RIR 0, and no pain, assistance or form breakdown was reported.
+
+The strongest result was completing 160 kg leg press for seven unassisted repetitions after the previous assisted finish. Calf targets were also achieved, and the session stayed within the 18-set ceiling by reducing calves after the extra press set. However, 140 and 160 kg leg press and the 35 kg leg curl all reached RIR 1, final energy was Low, and the 17.5 kg RDL substitution did not produce a strong hamstring stimulus. Progression should therefore remain rep-, reserve- and technique-led rather than load-led.
+
+## Next Legs + Calves targets
+
+| Exercise | Next target |
+|---|---|
+| Hack squat | 35 kg/side x 15 @ RIR 3; 45 kg/side x 12-13 @ RIR 3; 55 kg/side x 10-11 @ RIR 2; 65 kg/side x 9 @ RIR 2. Do not add load. |
+| Leg press | Exactly three unassisted sets: 100 kg x 15 @ RIR 3; 120 kg x 12-13 @ RIR 2-3; 140 kg x 10 @ RIR 2. Omit 160 kg until the 140 kg target is achieved at RIR 2. |
+| Dumbbell Romanian deadlift | When available: 10 kg each x 15 @ RIR 3; 12.5 kg each x 12 @ RIR 3; 15 kg each x 10-11 @ RIR 2. Do not use 17.5 kg as the planned top load until the hamstrings clearly dominate. |
+| Leg curl | 30 kg x 14-15 @ RIR 3; 35 kg x 9-10 @ RIR 2. No RIR 1 or additional sets. |
+| Leg extension | 40 kg x 15 @ RIR 3; 45 kg x 14 @ RIR 2; 50 kg x 12 @ RIR 2. |
+| Standing calf raise | 10 kg/side x 22 @ RIR 3; 20 kg/side x 17 @ RIR 2; 20 kg/side x 15-17 @ RIR 2. Use three sets when leg press is limited to three sets. |
+
+## Next session
+
+**Chest + Shoulders** is next under the active six-day split, subject to fresh sleep, energy, leg soreness, and shoulder/chest/joint-pain checks. Because four consecutive training days have ended at Low or Medium-to-Low final energy, do not add unplanned sets or failure work. Perform post-lift cardio only if final energy remains Medium or higher.
