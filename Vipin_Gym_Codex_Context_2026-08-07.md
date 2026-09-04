@@ -3245,3 +3245,135 @@ The strongest result was completing 160 kg leg press for seven unassisted repeti
 ## Next session
 
 **Chest + Shoulders** is next under the active six-day split, subject to fresh sleep, energy, leg soreness, and shoulder/chest/joint-pain checks. Because four consecutive training days have ended at Low or Medium-to-Low final energy, do not add unplanned sets or failure work. Perform post-lift cardio only if final energy remains Medium or higher.
+
+# Chest + Shoulders Workout - 2026-09-04
+
+## Session-plan correction
+
+The first Friday prescription repeated too much of Monday's chest work and Wednesday's shoulder work. Vipin correctly challenged that duplication before training. Friday was therefore converted into a distinct secondary exposure: machine and dumbbell chest pressing, a low-to-high cable fly, then cable upright rows, face pulls and dumbbell shrugs. No direct shoulder press was used because Wednesday already supplied the primary overhead-press exposure and today's chest presses also trained the anterior deltoids.
+
+## Pre-workout readiness and supplements
+
+- Sleep quality: **Good**.
+- Starting energy: **To verify**; it was not separately reported in the session close-out.
+- Pre-session soreness: **To verify**; no post-session pain was reported.
+- Pre-session pain: **To verify**; no post-session pain was reported.
+- EAA+ Energy: **One half scoop reported**, calculated from the verified full-serving label as approximately **50 mg caffeine** and **3.745 g EAAs** if the half scoop was level; exact powder weight remains **To verify**.
+- Pre-workout: **One half scoop reported**, supplying approximately **100 mg caffeine according to Vipin's stated 200 mg full-scoop value**. Product identity, full ingredient panel, serving mass and exact caffeine remain **To verify** pending a label photo.
+- Additional coffee: **None**.
+- Estimated workout-caffeine exposure: **Approximately 150 mg**, combining the verified EAA label calculation with the unverified pre-workout label claim.
+- Creatine monohydrate: **Started 2026-09-04**. Vipin confirmed consuming **one stated 3 g scoop** post-workout with whey. Product label and scoop accuracy remain **To verify**.
+- Magnesium glycinate: **Planned only**; no dose or first use has been confirmed. Product label and elemental-magnesium content are required before adding it to the active supplement routine.
+
+## Completed resistance work
+
+### Plate-loaded chest press - reported plate load; total versus per-side basis To verify
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 20 kg reported | 15 | 5 | Preparation |
+| 2 | 30 kg reported | 15 | 3 | Working |
+| 3 | 40 kg reported | 13 | 3 | Working |
+| 4 | 50 kg reported | 9 | 2 | Working |
+
+All targets were achieved and the 40 kg set retained more reserve than initially prescribed. The load basis was not explicitly reconfirmed after the live question, so it remains **To verify** rather than being inferred from prior sessions.
+
+### Incline dumbbell press - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 20 kg each | 15 | 3 |
+| 2 | 22.5 kg each | 12 | 2 |
+| 3 | 25 kg each | 9 | 2 |
+
+Vipin identified that the proposed 12.5-17.5 kg baseline was outdated. The completed sets establish the current pain-free working baseline and all stayed within the intended reserve.
+
+### Low-to-high cable fly - reported stack setting; per-side load basis To verify
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 10 kg reported | 25 | 5 | Preparation |
+| 2 | 15 kg reported | 18 | 5 | Preparation |
+| 3 | 20 kg reported | 15 | 3 | Working |
+| 4 | 25 kg reported | 12 | 2 | Working |
+| 5 | 30 kg reported | 8 | 2 | Working |
+
+Vipin reported feeling no meaningful stimulus during the 10 and 15 kg sets, so both are retained as low-fatigue preparation. The 20-30 kg sets establish the refreshed working baseline. Exact per-pulley versus combined load remains **To verify**.
+
+### Cable upright row - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 15 | 3 |
+| 2 | 50 kg | 12 | 3 |
+| 3 | 60 kg | 10 | 2 |
+
+The 50 kg reserve improved and the 60 kg result improved from nine to ten repetitions at RIR 2. No shoulder pinching was reported. Keep the pull at a comfortable height rather than raising the elbows above shoulder level.
+
+### Face pull - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg | 15 | 4 |
+| 2 | 40 kg | 12 | 3 |
+| 3 | 45 kg | 10 | 3 |
+
+Three sets were completed despite the live two-set fatigue reduction. They remained comfortably short of failure and pain-free. The third set is preserved as working volume but does not justify adding more sets next time.
+
+### Dumbbell shrug - weight per dumbbell
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 35 kg each | 15 | 3 |
+| 2 | 40 kg each | 12 | 2 |
+
+Both planned sets met their targets. Top-pause duration and exact range remain **To verify**.
+
+## Cardio
+
+- Modality: **Incline treadmill walk**.
+- Duration: **20 minutes**.
+- Incline: **12%**.
+- Speed: **3 km/h**.
+- Rail support: **To verify**.
+- Pain, dizziness or unusual breathlessness during cardio: **To verify**; no post-session pain was reported.
+
+Vipin chose the familiar 12% incline after reporting enough energy for cardio, despite the advised 6-8% recovery-oriented prescription. The work is preserved as performed, but it is not a reason to progress incline or duration. This was the fifth consecutive resistance day and final energy fell to Medium-to-Low.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Chest, shoulder, elbow, wrist or upper-biceps pain/sensation: **None reported**.
+- Shoulder pinching during upright rows: **None**.
+- Final energy: **Medium to Low**.
+- Chest and shoulder pump: **Medium**.
+- Total duration including cardio: **Approximately 1 hour 30 minutes**.
+- Human-assisted repetitions or reported form breakdown: **None**.
+- Creatine consumed post-workout: **Yes, one stated 3 g scoop with whey**.
+
+## Coaching assessment
+
+The session contained **20 resistance entries**: three genuine preparation sets and **17 working sets**, followed by 20 minutes of steep incline walking. Among working sets, one ended at RIR 4, nine at RIR 3 and seven at RIR 2. No working set reached RIR 1 or 0, and no pain, shoulder pinching, assistance or form breakdown was reported.
+
+The corrected Friday exercise selection successfully differed from Monday and Wednesday while retaining a second weekly chest and shoulder stimulus. Current incline-dumbbell, low-to-high-fly and upright-row baselines were refreshed, and shrug targets were met. The main constraint remains cumulative fatigue: this was the fifth consecutive training day, the face-pull prescription gained an extra set, cardio doubled the suggested duration and used a steeper incline, and final energy ended Medium-to-Low. No additional volume or cardio progression is warranted tomorrow.
+
+Creatine monohydrate now has a confirmed user-reported start date. A small scale increase from muscle water is possible and must not be interpreted as fat gain from a single reading. Daily consistency is more important than workout timing. The supporting NIH exercise-supplement fact sheet is https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/.
+
+The half-EAA plus half-pre-workout combination produced an estimated 150 mg caffeine exposure, but only the EAA contribution is label-verified. Because training normally occurs late, this combination requires sleep monitoring and should not be treated as the standing routine until the pre-workout label is reviewed. FDA caffeine guidance: https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much.
+
+Magnesium glycinate remains planned rather than active. Evidence suggests at most a modest average sleep benefit, and elemental magnesium from all supplements must be counted. Label review is required before dosing. NIH magnesium guidance: https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/; 2025 randomized bisglycinate trial: https://pubmed.ncbi.nlm.nih.gov/40918053/.
+
+## Next Chest + Shoulders targets
+
+| Exercise | Next target |
+|---|---|
+| Plate-loaded chest press | One preparation set at 20 kg reported x 10-12 near RIR 5; 30 kg x 15 @ RIR 3; 40 kg x 14-15 @ RIR 3; 50 kg x 10 @ RIR 2. Verify whether loads are total or per side before progression. |
+| Incline dumbbell press | 20 kg each x 15 @ RIR 3; 22.5 kg each x 13 @ RIR 2; 25 kg each x 10 @ RIR 2. |
+| Low-to-high cable fly | Use only one preparation set at 15 kg reported. Then 20 kg x 15-16 @ RIR 3; 25 kg x 13 @ RIR 2; 30 kg x 9 @ RIR 2. Verify per-side load basis. |
+| Cable upright row | 40 kg x 15 @ RIR 3; 50 kg x 13 @ RIR 3; 60 kg x 11 @ RIR 2. Stop for shoulder pinching and do not raise the elbows above shoulder level. |
+| Face pull | Exactly two sets: 40 kg x 12-13 @ RIR 3 and 45 kg x 10-11 @ RIR 2-3. No third set. |
+| Dumbbell shrug | 35 kg each x 15-16 @ RIR 3; 40 kg each x 13 @ RIR 2. Use a controlled one-second top pause. |
+
+## Next session
+
+**Back + Biceps** is scheduled next under the active six-day split, but only if sleep is Good, starting energy is at least Medium, and there is no meaningful chest, shoulder, back, biceps or leg soreness or pain. Cap resistance work at **16 working sets**, keep all routine sets at RIR 2-3, use only one chest-supported row variation, and do not perform post-lift cardio after today's 20-minute steep walk. If starting energy is Low or soreness is significant, use a recovery/rest day instead.

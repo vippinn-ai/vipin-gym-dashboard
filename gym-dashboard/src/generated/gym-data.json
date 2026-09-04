@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T17:08:46.630Z",
+  "generatedAt": "2026-09-04T18:07:43.122Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "695c980a9870b2b58aff149439291125720f539c93107c71345a93518ad1ab62"
+      "sha256": "5262ce656378892bbe4bfa9499ec602157b488cab81ad005a9f912eea13b6ad0"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "8518c261df70a54d5481f19e2c3a8860b9735a5f265d0289dcc19cca18489130"
+      "sha256": "035b725b162b040bdd35d0d7b8bb35115cb7f43c043c7ffbf5adedece971db33"
     }
   ],
   "workbook": {
@@ -391,7 +391,7 @@
           ],
           [
             "Friday",
-            "Chest + Shoulders - next after readiness",
+            "Chest + Shoulders - completed 2026-09-04",
             "",
             "Legs",
             "Hack Squat",
@@ -492,11 +492,11 @@
             "",
             "",
             "Next",
-            "Chest + Shoulders",
-            "Four days completed",
-            "No unplanned sets",
-            "Planned",
-            "Cardio only if energy allows",
+            "Back + Biceps",
+            "Five days completed",
+            "16 working sets; no cardio",
+            "Conditional",
+            "Train only after fresh readiness",
             "",
             "",
             ""
@@ -8858,6 +8858,326 @@
             "Target met; two sets because fourth leg-press set consumed budget",
             "Working",
             2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Plate-Loaded Chest Press",
+            1,
+            20,
+            "kg reported plate load; total vs per side To verify",
+            15,
+            "No reported form breakdown; machine setup/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Low-fatigue preparation",
+            "Preparation",
+            5
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Plate-Loaded Chest Press",
+            2,
+            30,
+            "kg reported plate load; total vs per side To verify",
+            15,
+            "Clean and unassisted; machine setup/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target met",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Plate-Loaded Chest Press",
+            3,
+            40,
+            "kg reported plate load; total vs per side To verify",
+            13,
+            "Clean and unassisted; machine setup/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Improved reserve; add reps before load",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Plate-Loaded Chest Press",
+            4,
+            50,
+            "kg reported plate load; total vs per side To verify",
+            9,
+            "Clean and unassisted; machine setup/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Current top-set baseline; verify load basis",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Incline Dumbbell Press",
+            1,
+            20,
+            "kg each dumbbell",
+            15,
+            "Clean and unassisted; bench angle To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Refreshed working baseline",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Incline Dumbbell Press",
+            2,
+            22.5,
+            "kg each dumbbell",
+            12,
+            "Clean and unassisted; bench angle To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target-quality set",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Incline Dumbbell Press",
+            3,
+            25,
+            "kg each dumbbell",
+            9,
+            "Clean and unassisted; bench angle To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Current top-set baseline; add rep before load",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Low-to-High Cable Fly",
+            1,
+            10,
+            "kg reported stack setting; per-side basis To verify",
+            25,
+            "No meaningful stimulus reported; exact cable setup/path To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Preparation; do not repeat as working volume",
+            "Preparation",
+            5
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Low-to-High Cable Fly",
+            2,
+            15,
+            "kg reported stack setting; per-side basis To verify",
+            18,
+            "No meaningful stimulus reported; exact cable setup/path To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Preparation; use only one prep set next time",
+            "Preparation",
+            5
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Low-to-High Cable Fly",
+            3,
+            20,
+            "kg reported stack setting; per-side basis To verify",
+            15,
+            "No reported form breakdown; exact cable setup/path To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Refreshed working baseline",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Low-to-High Cable Fly",
+            4,
+            25,
+            "kg reported stack setting; per-side basis To verify",
+            12,
+            "No reported form breakdown; exact cable setup/path To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target-quality set",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Low-to-High Cable Fly",
+            5,
+            30,
+            "kg reported stack setting; per-side basis To verify",
+            8,
+            "No reported form breakdown; exact cable setup/path To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Current top-set baseline; add rep before load",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Cable Upright Row",
+            1,
+            40,
+            "kg total stack",
+            15,
+            "No reported form breakdown or shoulder pinching; pull height To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target met",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Cable Upright Row",
+            2,
+            50,
+            "kg total stack",
+            12,
+            "No reported form breakdown or shoulder pinching; pull height To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Improved reserve",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Cable Upright Row",
+            3,
+            60,
+            "kg total stack",
+            10,
+            "No reported form breakdown or shoulder pinching; pull height To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Rep progression at RIR 2",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Face Pull",
+            1,
+            35,
+            "kg total stack",
+            15,
+            "No reported form breakdown; rope path and lean-back To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Comfortably below failure",
+            "Working",
+            4
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Face Pull",
+            2,
+            40,
+            "kg total stack",
+            12,
+            "No reported form breakdown; rope path and lean-back To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Improved reserve",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Face Pull",
+            3,
+            45,
+            "kg total stack",
+            10,
+            "No reported form breakdown; rope path and lean-back To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Extra third set retained; no volume increase",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Dumbbell Shrug",
+            1,
+            35,
+            "kg each dumbbell",
+            15,
+            "Clean and unassisted; top-pause duration/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target met",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            "Dumbbell Shrug",
+            2,
+            40,
+            "kg each dumbbell",
+            12,
+            "Clean and unassisted; top-pause duration/range To verify",
+            "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "Medium to Low final; starting energy To verify",
+            "Good",
+            "Target met; add rep before load",
+            "Working",
+            2
           ]
         ]
       },
@@ -8967,24 +9287,24 @@
           [
             "Chest",
             "Incline DB Press",
-            "22.5 kg × 8",
-            "20–22.5 kg",
-            "22.5 kg × 9–10",
-            "Add reps first",
-            "Bench 30–45°",
+            "25 kg each x 9 @ RIR 2",
+            "20-25 kg each",
+            "20 kg x15 @3; 22.5 kg x13 @2; 25 kg x10 @2",
+            "Add reps before load",
+            "Moderate incline; shoulder blades set",
             "In progress",
-            "Each dumbbell"
+            "Current baseline refreshed 2026-09-04; no assistance or pain"
           ],
           [
             "Chest",
             "Plate Chest Press",
-            "50 kg/side x 8 @ RIR 1 unplanned",
-            "30-45 kg/side",
-            "45 kg/side x 9-10 @ RIR 2",
-            "Do not use 50 kg yet",
-            "Controlled eccentric",
-            "Modify load/volume",
-            "50 kg was an unplanned third set and receives no progression credit"
+            "50 kg reported x9 @ RIR 2; load basis To verify",
+            "30-50 kg reported; total vs per side To verify",
+            "Prep 20 kg x10-12 @5; 30 x15 @3; 40 x14-15 @3; 50 x10 @2",
+            "Verify load basis, then add reps",
+            "Shoulder blades against pad; controlled depth",
+            "In progress / To verify",
+            "Prior per-side convention conflicts with unreconfirmed current basis; preserve uncertainty"
           ],
           [
             "Chest",
@@ -9176,13 +9496,13 @@
           [
             "Shoulders",
             "Face Pull",
-            "40 kg x 12 @ RIR 1",
-            "30-40 kg total stack",
-            "40 kg x 13-15 @ RIR 2",
-            "Add controlled reps before load",
+            "45 kg x10 @ RIR 3",
+            "40-45 kg total stack",
+            "Exactly 2 sets: 40 kg x12-13 @3; 45 kg x10-11 @2-3",
+            "No third set; add controlled reps",
             "Rope to eye/forehead; no lean-back",
             "In progress",
-            "45 kg x 10 @ RIR 2 only if the path stays clean"
+            "35 kg x15 @4 was extra low-fatigue work; 3 sets completed despite 2-set plan"
           ],
           [
             "Shoulders",
@@ -9209,13 +9529,13 @@
           [
             "Shoulders",
             "Dumbbell Shrugs",
-            "40 kg each x 9 @ RIR 2",
-            "30-40 kg each",
-            "40 kg each x 10 @ RIR 2",
+            "40 kg each x12 @ RIR 2",
+            "35-40 kg each",
+            "35 kg each x15-16 @3; 40 kg each x13 @2",
             "Add reps before load",
-            "Vertical shrug; top pause; straight arms",
+            "Vertical shrug; one-second top pause; straight arms",
             "Active / Preferred",
-            "35 kg and 40 kg finished below repetition targets; keep loads"
+            "Both planned sets achieved; exact top pause To verify"
           ],
           [
             "Triceps",
@@ -9319,13 +9639,13 @@
           [
             "Chest",
             "Low-to-High Cable Fly",
-            "10 kg/side x 15 @ RIR 3",
-            "5-10 kg/side",
-            "10 kg/side x 16-18 @ RIR 2-3",
-            "Add reps first",
+            "30 kg reported x8 @ RIR 2; load basis To verify",
+            "20-30 kg reported; per-side basis To verify",
+            "One 15 kg prep; 20 x15-16 @3; 25 x13 @2; 30 x9 @2",
+            "Add reps before load; remove redundant prep",
             "Soft elbow bend; low-to-high arc",
-            "In progress",
-            "Use instead of extra fly volume"
+            "In progress / To verify",
+            "10 and 15 kg produced no meaningful stimulus; exact cable load basis To verify"
           ],
           [
             "Biceps",
@@ -9352,13 +9672,13 @@
           [
             "Shoulders",
             "Cable Upright Row",
-            "60 kg x 9 @ RIR 2 unplanned",
-            "40-50 kg stack",
-            "50 kg x 11-12 @ RIR 2",
-            "No 60 kg until both 50 kg sets qualify",
-            "Pull only to comfortable height",
-            "Modify load",
-            "60 kg was clean but above plan; effective stack resistance To verify"
+            "60 kg x10 @ RIR 2",
+            "40-60 kg total stack",
+            "40 kg x15 @3; 50 kg x13 @3; 60 kg x11 @2",
+            "Add reps before load",
+            "Pull only to comfortable height; elbows no higher than shoulders",
+            "In progress",
+            "No shoulder pinching; 50 kg reserve and 60 kg reps improved"
           ],
           [
             "Core",
@@ -10105,6 +10425,16 @@
             null
           ],
           [
+            "2026-09-04",
+            "",
+            "",
+            "Good",
+            "Medium to Low final",
+            "No chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+            "",
+            "",
+            "Chest + Shoulders workout - 90 min total; 17 working sets plus three preparation sets; medium pump; 20 min treadmill at 3 km/h and 12% incline",
+            "Starting energy To verify; half EAA+ (~50 mg caffeine) plus half pre-workout (~100 mg user-stated; label To verify); no coffee; no assistance/form breakdown; 3 g creatine started post-workout with whey; rail support and cardio symptoms To verify",
             "",
             "",
             "",
@@ -10113,17 +10443,7 @@
             "",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            null,
-            null
+            ""
           ],
           [
             "",
@@ -14618,6 +14938,56 @@
             null,
             null,
             null
+          ],
+          [
+            "Friday secondary-exposure correction",
+            "Chest + Shoulders on 2026-09-04 used plate chest press, incline dumbbell press, low-to-high cable fly, cable upright row, face pull and dumbbell shrug",
+            "This avoids simply repeating Monday chest and Wednesday shoulder sessions while preserving second weekly exposure",
+            "Keep Friday as the B session; no direct shoulder press after Wednesday pressing unless the block is redesigned",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Chest + Shoulders performance",
+            "17 working sets plus three preparation sets completed pain-free; no RIR 1/0, assistance, breakdown or upright-row pinching",
+            "Current incline-dumbbell, cable-fly and upright-row baselines progressed; final energy was Medium-Low",
+            "Keep rep-led progression and remove one redundant cable-fly preparation set and the extra face-pull set next time",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Creatine monohydrate started",
+            "Vipin confirmed one stated 3 g scoop post-workout with whey on 2026-09-04",
+            "Daily consistency matters more than workout timing; a small muscle-water scale increase must not be classified as fat gain",
+            "Continue 3 g daily including rest days; product label and scoop accuracy To verify; NIH source https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Caffeine routine changed",
+            "2026-09-04 used half EAA+ (~50 mg label-derived) plus half pre-workout (~100 mg user-stated), no coffee; estimated total ~150 mg",
+            "Only the EAA contribution is label-verified and late caffeine may worsen sleep despite acceptable daily totals",
+            "Obtain full pre-workout label; prefer one caffeine source and monitor bedtime, sleep onset, awakenings and morning freshness; FDA source https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Magnesium glycinate planned",
+            "No dose or first use confirmed; product label and elemental-magnesium amount To verify",
+            "Evidence indicates at most a modest average sleep benefit and magnesium will not offset late caffeine",
+            "Review label before use and count elemental magnesium from all supplements; NIH source https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -14924,6 +15294,16 @@
             "Good sleep; Medium start and Low final energy; no soreness or pain; 80 min; medium leg pump; no assistance or form breakdown; full EAA+ (100 mg caffeine); no coffee; creatine status To verify; no cardio/core",
             "Exactly 18 working sets were completed without pain or RIR 0. The 160 kg leg press improved from five clean plus two assisted repetitions to seven unassisted. Calf targets were met. However, three sets reached RIR 1, the fourth leg-press set exceeded prescription, and the 17.5 kg RDL substitution produced only limited hamstring sensation.",
             "Chest + Shoulders next after fresh readiness; next Legs exactly three leg-press sets, planned RDL top load returns to 15 kg each, improve leg-curl reserve, and use three calf sets within the 18-set ceiling"
+          ],
+          [
+            "2026-09-04",
+            "Chest + Shoulders",
+            6,
+            17,
+            "Green/Yellow",
+            "Good sleep; starting energy and pre-session soreness/pain To verify; Medium-to-Low final energy; no post-session pain or upright-row pinching; 90 min including 20 min treadmill; medium chest/shoulder pump; no assistance or form breakdown; half EAA+ plus half pre-workout, approximately 150 mg combined caffeine with pre-workout label To verify; no coffee; 3 g creatine started post-workout",
+            "Seventeen working sets plus three genuine preparation sets were completed with no RIR 1/0, pain, pinching or assistance. Friday exercise selection differed from Monday and Wednesday, and incline-dumbbell, low-to-high-fly and upright-row baselines progressed. The extra face-pull set and 20 min at 12% incline increased fatigue on the fifth consecutive training day; final energy was Medium-Low.",
+            "Back + Biceps only after Good sleep, at least Medium starting energy and no meaningful soreness/pain; cap at 16 working sets, use one chest-supported-row variation, keep RIR 2-3 and omit post-lift cardio"
           ]
         ]
       },
@@ -14997,9 +15377,9 @@
           [
             "Health",
             "Current pain or movement restrictions",
-            "After Legs + Calves on 2026-09-03: no hip, knee, lower-back or other pain; no assistance or reported form breakdown.",
-            "Known",
-            "Fresh chest, shoulder and joint readiness before Chest + Shoulders; monitor delayed leg soreness"
+            "After Chest + Shoulders on 2026-09-04: no chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; no assistance or reported form breakdown.",
+            "Known with pre-session gap",
+            "Fresh Back + Biceps readiness; pre-session soreness/pain for 2026-09-04 remains To verify"
           ],
           [
             "Goal",
@@ -15074,9 +15454,9 @@
           [
             "Training",
             "Current sequence",
-            "Active six-day split: Mon Chest+Triceps; Tue Back+Biceps; Wed Shoulders+Triceps; Thu Legs+Calves; Fri Chest+Shoulders; Sat Back+Biceps; Sun rest. Monday through Thursday completed this week.",
+            "Active six-day split: Mon Chest+Triceps; Tue Back+Biceps; Wed Shoulders+Triceps; Thu Legs+Calves; Fri Chest+Shoulders; Sat Back+Biceps; Sun rest. Monday through Friday completed this week.",
             "Known / active four-week block",
-            "Chest + Shoulders next; no unplanned sets and cardio only if final energy remains Medium or higher"
+            "Back + Biceps only after recovery threshold; 16 working-set cap and no cardio"
           ],
           [
             "Training",
@@ -15116,16 +15496,16 @@
           [
             "Nutrition",
             "Supplements currently used",
-            "MuscleTech multivitamin; fish oil; MuscleTech EAA+ Energy (user reports always taking one full 13.2 g scoop: 100 mg caffeine and 7.49 g EAAs); Ultimate Nutrition Prostar whey post-workout; Run Nutrition yeast whey at breakfast; Kapiva shilajit 500 mg after lunch",
-            "Partial",
-            "EAA serving habit and label verified; remaining supplement labels still needed"
+            "MuscleTech multivitamin; fish oil; MuscleTech EAA+ Energy now reported as half scoop; unidentified pre-workout reported as half scoop; Ultimate Nutrition Prostar whey post-workout; Run Nutrition yeast whey at breakfast; Kapiva shilajit 500 mg after lunch; creatine monohydrate started 2026-09-04 at one stated 3 g scoop post-workout. Magnesium glycinate planned but not started.",
+            "Partial / To verify",
+            "Obtain pre-workout, creatine and magnesium labels; verify elemental magnesium and all stimulant ingredients"
           ],
           [
             "Nutrition",
             "Late caffeine exposure",
-            "Every workout normally includes one full EAA+ Energy scoop (100 mg caffeine). No black coffee is now the standing workout default unless Vipin reports an exception.",
-            "Partial",
-            "Continue comparing sleep and morning freshness; EAA still provides late caffeine"
+            "On 2026-09-04, half EAA+ supplied approximately 50 mg label-derived caffeine and half pre-workout supplied approximately 100 mg according to the unverified product claim; no coffee. Estimated total approximately 150 mg.",
+            "Partial / To verify",
+            "Track sleep response and avoid treating two caffeine products as the standing routine until the pre-workout label is reviewed"
           ],
           [
             "Lifestyle",
@@ -15246,13 +15626,13 @@
           ],
           [
             "Caffeine / sleep",
-            "100 mg caffeine from a full EAA+ Energy serving; coffee adds an unknown amount",
-            "Partial",
-            "Workout EAA+ label provides 100 mg caffeine. On the 2026-08-09 rest day, EAA+ was omitted; Vipin slept ~23:30-08:00 (~8.5 h) and woke fresh on 2026-08-10.",
-            "Whether the improvement came from no EAA+ caffeine, the earlier chosen bedtime, rest-day recovery, or their combination; other caffeine intake that day was not reconfirmed",
-            "Continue avoiding extra black coffee. Compare several workout nights using EAA+ with caffeine-free rest nights; record bedtime, wake time, awakenings and morning freshness.",
-            "At least 5-7 comparable nights, including workout and rest days",
-            "This is the strongest caffeine-free rest-night datapoint so far, but one night is not causal proof."
+            "Approximately 150 mg on 2026-09-04 from half EAA+ plus half pre-workout; no coffee",
+            "Partial / To verify",
+            "EAA label confirms 100 mg per full scoop, so half is approximately 50 mg. Pre-workout full-scoop 200 mg and half-scoop 100 mg are user-stated only.",
+            "Pre-workout product, full ingredient panel, serving mass, other stimulants and exact dose",
+            "Prefer one caffeine source for late training; collect several sleep nights before judging tolerance",
+            "Pre-workout label review plus 5-7 comparable sleep nights",
+            "Late caffeine remains the main modifiable sleep variable; FDA source https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
           ],
           [
             "Meal timing",
@@ -15266,13 +15646,13 @@
           ],
           [
             "Supplements",
-            "EAA+ Energy label verified; remaining supplement labels pending",
-            "Partial",
-            "1 scoop (13.2 g): 7.49 g EAAs, 100 mg caffeine, 3 kcal; label says once daily",
-            "Actual scoop used; labels for multivitamin, fish oil, whey products and shilajit",
-            "For late workouts, replace with caffeine-free EAA/electrolyte or water when practical",
-            "Sleep trial and remaining label review",
-            "Do not exceed the package maximum of one serving daily"
+            "Creatine monohydrate active at 3 g/day reported; half EAA+ active on 2026-09-04; pre-workout and magnesium labels pending",
+            "Partial / To verify",
+            "Creatine first dose confirmed post-workout 2026-09-04. EAA label verified. Magnesium glycinate planned only.",
+            "Creatine scoop accuracy/product label; pre-workout label; magnesium elemental dose; multivitamin magnesium",
+            "Continue creatine 3 g daily; review stimulant and magnesium labels before finalizing routine",
+            "Daily creatine adherence, sleep response and label review",
+            "NIH creatine source https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/; NIH magnesium source https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
           ],
           [
             "",
@@ -15347,22 +15727,22 @@
           [
             "Pre-workout",
             "Before ~21:00 workout",
-            "Half-spoon black coffee; banana or another fruit",
-            "",
+            "MuscleTech EAA+ Energy, Sour Apple; current reported workout amount changed to half scoop on 2026-09-04",
             "",
             "Partial",
-            "Coffee type/grams and caffeine; fruit quantity",
-            "Late caffeine is a sleep variable; Current no-coffee trial: omitted on 2026-08-07 and 2026-08-08"
+            "Exact half-scoop powder weight and whether this remains the standing routine",
+            "Half of the verified full serving is approximately 3.745 g EAAs and 50 mg caffeine; do not count as dietary protein",
+            "Do not combine routinely with another caffeinated product until its label is reviewed"
           ],
           [
             "During workout",
             "During ~21:00 workout",
-            "MuscleTech EAA+ Energy, Sour Apple\nLabel serving: 1 scoop (13.2 g) in 240 mL cold water",
-            "",
-            3,
-            "Active",
-            "User confirmed on 2026-08-09 that every workout uses one full level scoop",
-            "Actual serving: 13.2 g, 7.49 g EAAs and 100 mg caffeine; no black coffee before today's workout; Equal workout energy without coffee reported after 2026-08-07 Shoulder session; overnight sleep and morning freshness pending; Follow-up 2026-08-08: ~8 h subjectively very good sleep and refreshed, energetic morning despite 100 mg EAA+ caffeine; bedtime was deliberately delayed, so continue tracking; Triceps session 2026-08-08 started ~18:30: EAA+ used, no black coffee, medium workout energy; serving amount not reconfirmed (To verify); Routine confirmed 2026-08-09: full 13.2 g scoop every workout, so the 2026-08-08 Triceps serving is resolved as 100 mg caffeine and 7.49 g EAAs"
+            "Ultimate Nutrition Prostar whey (25 g protein) plus one stated 3 g scoop creatine monohydrate after training",
+            25,
+            "Partial / To verify",
+            "Exact whey serving/label; creatine product label and scoop accuracy",
+            "Continue 3 g creatine daily, including rest days",
+            "Creatine began 2026-09-04; timing is for convenience and consistency"
           ],
           [
             "Post-workout",
@@ -27740,6 +28120,446 @@
         "row": 522,
         "range": "A522"
       }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Plate-Loaded Chest Press",
+      "Set": 1,
+      "Weight": 20,
+      "Unit / Load Basis": "kg reported plate load; total vs per side To verify",
+      "Reps": 15,
+      "Form Note": "No reported form breakdown; machine setup/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Low-fatigue preparation",
+      "Set Type": "Preparation",
+      "RIR": 5,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 523,
+        "range": "A523"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Plate-Loaded Chest Press",
+      "Set": 2,
+      "Weight": 30,
+      "Unit / Load Basis": "kg reported plate load; total vs per side To verify",
+      "Reps": 15,
+      "Form Note": "Clean and unassisted; machine setup/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target met",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 524,
+        "range": "A524"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Plate-Loaded Chest Press",
+      "Set": 3,
+      "Weight": 40,
+      "Unit / Load Basis": "kg reported plate load; total vs per side To verify",
+      "Reps": 13,
+      "Form Note": "Clean and unassisted; machine setup/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Improved reserve; add reps before load",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 525,
+        "range": "A525"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Plate-Loaded Chest Press",
+      "Set": 4,
+      "Weight": 50,
+      "Unit / Load Basis": "kg reported plate load; total vs per side To verify",
+      "Reps": 9,
+      "Form Note": "Clean and unassisted; machine setup/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Current top-set baseline; verify load basis",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 526,
+        "range": "A526"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Incline Dumbbell Press",
+      "Set": 1,
+      "Weight": 20,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 15,
+      "Form Note": "Clean and unassisted; bench angle To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Refreshed working baseline",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 527,
+        "range": "A527"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Incline Dumbbell Press",
+      "Set": 2,
+      "Weight": 22.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "Clean and unassisted; bench angle To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target-quality set",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 528,
+        "range": "A528"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Incline Dumbbell Press",
+      "Set": 3,
+      "Weight": 25,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 9,
+      "Form Note": "Clean and unassisted; bench angle To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Current top-set baseline; add rep before load",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 529,
+        "range": "A529"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Low-to-High Cable Fly",
+      "Set": 1,
+      "Weight": 10,
+      "Unit / Load Basis": "kg reported stack setting; per-side basis To verify",
+      "Reps": 25,
+      "Form Note": "No meaningful stimulus reported; exact cable setup/path To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Preparation; do not repeat as working volume",
+      "Set Type": "Preparation",
+      "RIR": 5,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 530,
+        "range": "A530"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Low-to-High Cable Fly",
+      "Set": 2,
+      "Weight": 15,
+      "Unit / Load Basis": "kg reported stack setting; per-side basis To verify",
+      "Reps": 18,
+      "Form Note": "No meaningful stimulus reported; exact cable setup/path To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Preparation; use only one prep set next time",
+      "Set Type": "Preparation",
+      "RIR": 5,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 531,
+        "range": "A531"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Low-to-High Cable Fly",
+      "Set": 3,
+      "Weight": 20,
+      "Unit / Load Basis": "kg reported stack setting; per-side basis To verify",
+      "Reps": 15,
+      "Form Note": "No reported form breakdown; exact cable setup/path To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Refreshed working baseline",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 532,
+        "range": "A532"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Low-to-High Cable Fly",
+      "Set": 4,
+      "Weight": 25,
+      "Unit / Load Basis": "kg reported stack setting; per-side basis To verify",
+      "Reps": 12,
+      "Form Note": "No reported form breakdown; exact cable setup/path To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target-quality set",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 533,
+        "range": "A533"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Low-to-High Cable Fly",
+      "Set": 5,
+      "Weight": 30,
+      "Unit / Load Basis": "kg reported stack setting; per-side basis To verify",
+      "Reps": 8,
+      "Form Note": "No reported form breakdown; exact cable setup/path To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Current top-set baseline; add rep before load",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 534,
+        "range": "A534"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Cable Upright Row",
+      "Set": 1,
+      "Weight": 40,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 15,
+      "Form Note": "No reported form breakdown or shoulder pinching; pull height To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target met",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 535,
+        "range": "A535"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Cable Upright Row",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 12,
+      "Form Note": "No reported form breakdown or shoulder pinching; pull height To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Improved reserve",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 536,
+        "range": "A536"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Cable Upright Row",
+      "Set": 3,
+      "Weight": 60,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 10,
+      "Form Note": "No reported form breakdown or shoulder pinching; pull height To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Rep progression at RIR 2",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 537,
+        "range": "A537"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Face Pull",
+      "Set": 1,
+      "Weight": 35,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 15,
+      "Form Note": "No reported form breakdown; rope path and lean-back To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Comfortably below failure",
+      "Set Type": "Working",
+      "RIR": 4,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 538,
+        "range": "A538"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Face Pull",
+      "Set": 2,
+      "Weight": 40,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 12,
+      "Form Note": "No reported form breakdown; rope path and lean-back To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Improved reserve",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 539,
+        "range": "A539"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Face Pull",
+      "Set": 3,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 10,
+      "Form Note": "No reported form breakdown; rope path and lean-back To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Extra third set retained; no volume increase",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 540,
+        "range": "A540"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Dumbbell Shrug",
+      "Set": 1,
+      "Weight": 35,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 15,
+      "Form Note": "Clean and unassisted; top-pause duration/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target met",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 541,
+        "range": "A541"
+      }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercise": "Dumbbell Shrug",
+      "Set": 2,
+      "Weight": 40,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "Clean and unassisted; top-pause duration/range To verify",
+      "Pain / Soreness": "No post-session chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Energy": "Medium to Low final; starting energy To verify",
+      "Sleep": "Good",
+      "Coach Note": "Target met; add rep before load",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 542,
+        "range": "A542"
+      }
     }
   ],
   "sessions": [
@@ -28158,6 +28978,22 @@
         "row": 30,
         "range": "A30"
       }
+    },
+    {
+      "Date": "2026-09-04",
+      "Workout": "Chest + Shoulders",
+      "Exercises": 6,
+      "Set Entries": 17,
+      "Readiness": "Green/Yellow",
+      "Recovery Notes": "Good sleep; starting energy and pre-session soreness/pain To verify; Medium-to-Low final energy; no post-session pain or upright-row pinching; 90 min including 20 min treadmill; medium chest/shoulder pump; no assistance or form breakdown; half EAA+ plus half pre-workout, approximately 150 mg combined caffeine with pre-workout label To verify; no coffee; 3 g creatine started post-workout",
+      "Coach Assessment": "Seventeen working sets plus three genuine preparation sets were completed with no RIR 1/0, pain, pinching or assistance. Friday exercise selection differed from Monday and Wednesday, and incline-dumbbell, low-to-high-fly and upright-row baselines progressed. The extra face-pull set and 20 min at 12% incline increased fatigue on the fifth consecutive training day; final energy was Medium-Low.",
+      "Next-Session Status": "Back + Biceps only after Good sleep, at least Medium starting energy and no meaningful soreness/pain; cap at 16 working sets, use one chest-supported-row variation, keep RIR 2-3 and omit post-lift cardio",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 31,
+        "range": "A31"
+      }
     }
   ],
   "targets": [
@@ -28249,13 +29085,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Incline DB Press",
-      "Current Best Set": "22.5 kg × 8",
-      "Current Working Zone": "20–22.5 kg",
-      "Next Target": "22.5 kg × 9–10",
-      "Progress Rule": "Add reps first",
-      "Technique Focus": "Bench 30–45°",
+      "Current Best Set": "25 kg each x 9 @ RIR 2",
+      "Current Working Zone": "20-25 kg each",
+      "Next Target": "20 kg x15 @3; 22.5 kg x13 @2; 25 kg x10 @2",
+      "Progress Rule": "Add reps before load",
+      "Technique Focus": "Moderate incline; shoulder blades set",
       "Status": "In progress",
-      "Notes": "Each dumbbell",
+      "Notes": "Current baseline refreshed 2026-09-04; no assistance or pain",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -28266,13 +29102,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Plate Chest Press",
-      "Current Best Set": "50 kg/side x 8 @ RIR 1 unplanned",
-      "Current Working Zone": "30-45 kg/side",
-      "Next Target": "45 kg/side x 9-10 @ RIR 2",
-      "Progress Rule": "Do not use 50 kg yet",
-      "Technique Focus": "Controlled eccentric",
-      "Status": "Modify load/volume",
-      "Notes": "50 kg was an unplanned third set and receives no progression credit",
+      "Current Best Set": "50 kg reported x9 @ RIR 2; load basis To verify",
+      "Current Working Zone": "30-50 kg reported; total vs per side To verify",
+      "Next Target": "Prep 20 kg x10-12 @5; 30 x15 @3; 40 x14-15 @3; 50 x10 @2",
+      "Progress Rule": "Verify load basis, then add reps",
+      "Technique Focus": "Shoulder blades against pad; controlled depth",
+      "Status": "In progress / To verify",
+      "Notes": "Prior per-side convention conflicts with unreconfirmed current basis; preserve uncertainty",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -28572,13 +29408,13 @@
     {
       "Muscle": "Shoulders",
       "Exercise": "Face Pull",
-      "Current Best Set": "40 kg x 12 @ RIR 1",
-      "Current Working Zone": "30-40 kg total stack",
-      "Next Target": "40 kg x 13-15 @ RIR 2",
-      "Progress Rule": "Add controlled reps before load",
+      "Current Best Set": "45 kg x10 @ RIR 3",
+      "Current Working Zone": "40-45 kg total stack",
+      "Next Target": "Exactly 2 sets: 40 kg x12-13 @3; 45 kg x10-11 @2-3",
+      "Progress Rule": "No third set; add controlled reps",
       "Technique Focus": "Rope to eye/forehead; no lean-back",
       "Status": "In progress",
-      "Notes": "45 kg x 10 @ RIR 2 only if the path stays clean",
+      "Notes": "35 kg x15 @4 was extra low-fatigue work; 3 sets completed despite 2-set plan",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -28623,13 +29459,13 @@
     {
       "Muscle": "Shoulders",
       "Exercise": "Dumbbell Shrugs",
-      "Current Best Set": "40 kg each x 9 @ RIR 2",
-      "Current Working Zone": "30-40 kg each",
-      "Next Target": "40 kg each x 10 @ RIR 2",
+      "Current Best Set": "40 kg each x12 @ RIR 2",
+      "Current Working Zone": "35-40 kg each",
+      "Next Target": "35 kg each x15-16 @3; 40 kg each x13 @2",
       "Progress Rule": "Add reps before load",
-      "Technique Focus": "Vertical shrug; top pause; straight arms",
+      "Technique Focus": "Vertical shrug; one-second top pause; straight arms",
       "Status": "Active / Preferred",
-      "Notes": "35 kg and 40 kg finished below repetition targets; keep loads",
+      "Notes": "Both planned sets achieved; exact top pause To verify",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -28793,13 +29629,13 @@
     {
       "Muscle": "Chest",
       "Exercise": "Low-to-High Cable Fly",
-      "Current Best Set": "10 kg/side x 15 @ RIR 3",
-      "Current Working Zone": "5-10 kg/side",
-      "Next Target": "10 kg/side x 16-18 @ RIR 2-3",
-      "Progress Rule": "Add reps first",
+      "Current Best Set": "30 kg reported x8 @ RIR 2; load basis To verify",
+      "Current Working Zone": "20-30 kg reported; per-side basis To verify",
+      "Next Target": "One 15 kg prep; 20 x15-16 @3; 25 x13 @2; 30 x9 @2",
+      "Progress Rule": "Add reps before load; remove redundant prep",
       "Technique Focus": "Soft elbow bend; low-to-high arc",
-      "Status": "In progress",
-      "Notes": "Use instead of extra fly volume",
+      "Status": "In progress / To verify",
+      "Notes": "10 and 15 kg produced no meaningful stimulus; exact cable load basis To verify",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -28844,13 +29680,13 @@
     {
       "Muscle": "Shoulders",
       "Exercise": "Cable Upright Row",
-      "Current Best Set": "60 kg x 9 @ RIR 2 unplanned",
-      "Current Working Zone": "40-50 kg stack",
-      "Next Target": "50 kg x 11-12 @ RIR 2",
-      "Progress Rule": "No 60 kg until both 50 kg sets qualify",
-      "Technique Focus": "Pull only to comfortable height",
-      "Status": "Modify load",
-      "Notes": "60 kg was clean but above plan; effective stack resistance To verify",
+      "Current Best Set": "60 kg x10 @ RIR 2",
+      "Current Working Zone": "40-60 kg total stack",
+      "Next Target": "40 kg x15 @3; 50 kg x13 @3; 60 kg x11 @2",
+      "Progress Rule": "Add reps before load",
+      "Technique Focus": "Pull only to comfortable height; elbows no higher than shoulders",
+      "Status": "In progress",
+      "Notes": "No shoulder pinching; 50 kg reserve and 60 kg reps improved",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Exercise Targets",
@@ -29521,6 +30357,26 @@
         "row": 32,
         "range": "A32"
       }
+    },
+    {
+      "Date": "2026-09-04",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Medium to Low final",
+      "Soreness / Pain": "No chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; pre-session soreness/pain To verify",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "Chest + Shoulders workout - 90 min total; 17 working sets plus three preparation sets; medium pump; 20 min treadmill at 3 km/h and 12% incline",
+      "Notes": "Starting energy To verify; half EAA+ (~50 mg caffeine) plus half pre-workout (~100 mg user-stated; label To verify); no coffee; no assistance/form breakdown; 3 g creatine started post-workout with whey; rail support and cardio symptoms To verify",
+      "Column 11": "",
+      "Weekly Measurement Check-In": "",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 33,
+        "range": "A33"
+      }
     }
   ],
   "protein": [
@@ -29832,9 +30688,9 @@
     {
       "Category": "Health",
       "Item": "Current pain or movement restrictions",
-      "Current Value": "After Legs + Calves on 2026-09-03: no hip, knee, lower-back or other pain; no assistance or reported form breakdown.",
-      "Status": "Known",
-      "Why Needed / Next Check": "Fresh chest, shoulder and joint readiness before Chest + Shoulders; monitor delayed leg soreness",
+      "Current Value": "After Chest + Shoulders on 2026-09-04: no chest, shoulder, elbow, wrist or upper-biceps pain; no upright-row shoulder pinching; no assistance or reported form breakdown.",
+      "Status": "Known with pre-session gap",
+      "Why Needed / Next Check": "Fresh Back + Biceps readiness; pre-session soreness/pain for 2026-09-04 remains To verify",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -29975,9 +30831,9 @@
     {
       "Category": "Training",
       "Item": "Current sequence",
-      "Current Value": "Active six-day split: Mon Chest+Triceps; Tue Back+Biceps; Wed Shoulders+Triceps; Thu Legs+Calves; Fri Chest+Shoulders; Sat Back+Biceps; Sun rest. Monday through Thursday completed this week.",
+      "Current Value": "Active six-day split: Mon Chest+Triceps; Tue Back+Biceps; Wed Shoulders+Triceps; Thu Legs+Calves; Fri Chest+Shoulders; Sat Back+Biceps; Sun rest. Monday through Friday completed this week.",
       "Status": "Known / active four-week block",
-      "Why Needed / Next Check": "Chest + Shoulders next; no unplanned sets and cardio only if final energy remains Medium or higher",
+      "Why Needed / Next Check": "Back + Biceps only after recovery threshold; 16 working-set cap and no cardio",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -30053,9 +30909,9 @@
     {
       "Category": "Nutrition",
       "Item": "Supplements currently used",
-      "Current Value": "MuscleTech multivitamin; fish oil; MuscleTech EAA+ Energy (user reports always taking one full 13.2 g scoop: 100 mg caffeine and 7.49 g EAAs); Ultimate Nutrition Prostar whey post-workout; Run Nutrition yeast whey at breakfast; Kapiva shilajit 500 mg after lunch",
-      "Status": "Partial",
-      "Why Needed / Next Check": "EAA serving habit and label verified; remaining supplement labels still needed",
+      "Current Value": "MuscleTech multivitamin; fish oil; MuscleTech EAA+ Energy now reported as half scoop; unidentified pre-workout reported as half scoop; Ultimate Nutrition Prostar whey post-workout; Run Nutrition yeast whey at breakfast; Kapiva shilajit 500 mg after lunch; creatine monohydrate started 2026-09-04 at one stated 3 g scoop post-workout. Magnesium glycinate planned but not started.",
+      "Status": "Partial / To verify",
+      "Why Needed / Next Check": "Obtain pre-workout, creatine and magnesium labels; verify elemental magnesium and all stimulant ingredients",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -30066,9 +30922,9 @@
     {
       "Category": "Nutrition",
       "Item": "Late caffeine exposure",
-      "Current Value": "Every workout normally includes one full EAA+ Energy scoop (100 mg caffeine). No black coffee is now the standing workout default unless Vipin reports an exception.",
-      "Status": "Partial",
-      "Why Needed / Next Check": "Continue comparing sleep and morning freshness; EAA still provides late caffeine",
+      "Current Value": "On 2026-09-04, half EAA+ supplied approximately 50 mg label-derived caffeine and half pre-workout supplied approximately 100 mg according to the unverified product claim; no coffee. Estimated total approximately 150 mg.",
+      "Status": "Partial / To verify",
+      "Why Needed / Next Check": "Track sleep response and avoid treating two caffeine products as the standing routine until the pre-workout label is reviewed",
       "__source": {
         "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
         "sheet": "Coaching Profile",
@@ -31219,6 +32075,66 @@
         "sheet": "Program Notes",
         "row": 96,
         "range": "A96"
+      }
+    },
+    {
+      "Category": "Friday secondary-exposure correction",
+      "Rule / Observation": "Chest + Shoulders on 2026-09-04 used plate chest press, incline dumbbell press, low-to-high cable fly, cable upright row, face pull and dumbbell shrug",
+      "Why It Matters": "This avoids simply repeating Monday chest and Wednesday shoulder sessions while preserving second weekly exposure",
+      "Action": "Keep Friday as the B session; no direct shoulder press after Wednesday pressing unless the block is redesigned",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 97,
+        "range": "A97"
+      }
+    },
+    {
+      "Category": "Chest + Shoulders performance",
+      "Rule / Observation": "17 working sets plus three preparation sets completed pain-free; no RIR 1/0, assistance, breakdown or upright-row pinching",
+      "Why It Matters": "Current incline-dumbbell, cable-fly and upright-row baselines progressed; final energy was Medium-Low",
+      "Action": "Keep rep-led progression and remove one redundant cable-fly preparation set and the extra face-pull set next time",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 98,
+        "range": "A98"
+      }
+    },
+    {
+      "Category": "Creatine monohydrate started",
+      "Rule / Observation": "Vipin confirmed one stated 3 g scoop post-workout with whey on 2026-09-04",
+      "Why It Matters": "Daily consistency matters more than workout timing; a small muscle-water scale increase must not be classified as fat gain",
+      "Action": "Continue 3 g daily including rest days; product label and scoop accuracy To verify; NIH source https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 99,
+        "range": "A99"
+      }
+    },
+    {
+      "Category": "Caffeine routine changed",
+      "Rule / Observation": "2026-09-04 used half EAA+ (~50 mg label-derived) plus half pre-workout (~100 mg user-stated), no coffee; estimated total ~150 mg",
+      "Why It Matters": "Only the EAA contribution is label-verified and late caffeine may worsen sleep despite acceptable daily totals",
+      "Action": "Obtain full pre-workout label; prefer one caffeine source and monitor bedtime, sleep onset, awakenings and morning freshness; FDA source https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 100,
+        "range": "A100"
+      }
+    },
+    {
+      "Category": "Magnesium glycinate planned",
+      "Rule / Observation": "No dose or first use confirmed; product label and elemental-magnesium amount To verify",
+      "Why It Matters": "Evidence indicates at most a modest average sleep benefit and magnesium will not offset late caffeine",
+      "Action": "Review label before use and count elemental magnesium from all supplements; NIH source https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 101,
+        "range": "A101"
       }
     }
   ],
@@ -35973,6 +36889,186 @@
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "next-session-4"
+      }
+    },
+    {
+      "id": "md-397",
+      "level": 1,
+      "title": "Chest + Shoulders Workout - 2026-09-04",
+      "anchor": "chest-shoulders-workout-2026-09-04",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "chest-shoulders-workout-2026-09-04"
+      }
+    },
+    {
+      "id": "md-398",
+      "level": 2,
+      "title": "Session-plan correction",
+      "anchor": "session-plan-correction",
+      "raw": "The first Friday prescription repeated too much of Monday's chest work and Wednesday's shoulder work. Vipin correctly challenged that duplication before training. Friday was therefore converted into a distinct secondary exposure: machine and dumbbell chest pressing, a low-to-high cable fly, then cable upright rows, face pulls and dumbbell shrugs. No direct shoulder press was used because Wednesday already supplied the primary overhead-press exposure and today's chest presses also trained the anterior deltoids.",
+      "html": "<p>The first Friday prescription repeated too much of Monday&#39;s chest work and Wednesday&#39;s shoulder work. Vipin correctly challenged that duplication before training. Friday was therefore converted into a distinct secondary exposure: machine and dumbbell chest pressing, a low-to-high cable fly, then cable upright rows, face pulls and dumbbell shrugs. No direct shoulder press was used because Wednesday already supplied the primary overhead-press exposure and today&#39;s chest presses also trained the anterior deltoids.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "session-plan-correction"
+      }
+    },
+    {
+      "id": "md-399",
+      "level": 2,
+      "title": "Pre-workout readiness and supplements",
+      "anchor": "pre-workout-readiness-and-supplements",
+      "raw": "- Sleep quality: **Good**.\n- Starting energy: **To verify**; it was not separately reported in the session close-out.\n- Pre-session soreness: **To verify**; no post-session pain was reported.\n- Pre-session pain: **To verify**; no post-session pain was reported.\n- EAA+ Energy: **One half scoop reported**, calculated from the verified full-serving label as approximately **50 mg caffeine** and **3.745 g EAAs** if the half scoop was level; exact powder weight remains **To verify**.\n- Pre-workout: **One half scoop reported**, supplying approximately **100 mg caffeine according to Vipin's stated 200 mg full-scoop value**. Product identity, full ingredient panel, serving mass and exact caffeine remain **To verify** pending a label photo.\n- Additional coffee: **None**.\n- Estimated workout-caffeine exposure: **Approximately 150 mg**, combining the verified EAA label calculation with the unverified pre-workout label claim.\n- Creatine monohydrate: **Started 2026-09-04**. Vipin confirmed consuming **one stated 3 g scoop** post-workout with whey. Product label and scoop accuracy remain **To verify**.\n- Magnesium glycinate: **Planned only**; no dose or first use has been confirmed. Product label and elemental-magnesium content are required before adding it to the active supplement routine.",
+      "html": "<ul>\n<li>Sleep quality: <strong>Good</strong>.</li>\n<li>Starting energy: <strong>To verify</strong>; it was not separately reported in the session close-out.</li>\n<li>Pre-session soreness: <strong>To verify</strong>; no post-session pain was reported.</li>\n<li>Pre-session pain: <strong>To verify</strong>; no post-session pain was reported.</li>\n<li>EAA+ Energy: <strong>One half scoop reported</strong>, calculated from the verified full-serving label as approximately <strong>50 mg caffeine</strong> and <strong>3.745 g EAAs</strong> if the half scoop was level; exact powder weight remains <strong>To verify</strong>.</li>\n<li>Pre-workout: <strong>One half scoop reported</strong>, supplying approximately <strong>100 mg caffeine according to Vipin&#39;s stated 200 mg full-scoop value</strong>. Product identity, full ingredient panel, serving mass and exact caffeine remain <strong>To verify</strong> pending a label photo.</li>\n<li>Additional coffee: <strong>None</strong>.</li>\n<li>Estimated workout-caffeine exposure: <strong>Approximately 150 mg</strong>, combining the verified EAA label calculation with the unverified pre-workout label claim.</li>\n<li>Creatine monohydrate: <strong>Started 2026-09-04</strong>. Vipin confirmed consuming <strong>one stated 3 g scoop</strong> post-workout with whey. Product label and scoop accuracy remain <strong>To verify</strong>.</li>\n<li>Magnesium glycinate: <strong>Planned only</strong>; no dose or first use has been confirmed. Product label and elemental-magnesium content are required before adding it to the active supplement routine.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "pre-workout-readiness-and-supplements"
+      }
+    },
+    {
+      "id": "md-400",
+      "level": 2,
+      "title": "Completed resistance work",
+      "anchor": "completed-resistance-work-5",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-resistance-work-5"
+      }
+    },
+    {
+      "id": "md-401",
+      "level": 3,
+      "title": "Plate-loaded chest press - reported plate load; total versus per-side basis To verify",
+      "anchor": "plate-loaded-chest-press-reported-plate-load-total-versus-per-side-basis-to-verify",
+      "raw": "| Set | Load | Reps | RIR | Classification |\n|---:|---:|---:|---:|---|\n| 1 | 20 kg reported | 15 | 5 | Preparation |\n| 2 | 30 kg reported | 15 | 3 | Working |\n| 3 | 40 kg reported | 13 | 3 | Working |\n| 4 | 50 kg reported | 9 | 2 | Working |\n\nAll targets were achieved and the 40 kg set retained more reserve than initially prescribed. The load basis was not explicitly reconfirmed after the live question, so it remains **To verify** rather than being inferred from prior sessions.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Classification</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">20 kg reported</td>\n<td align=\"right\">15</td>\n<td align=\"right\">5</td>\n<td>Preparation</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">30 kg reported</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">40 kg reported</td>\n<td align=\"right\">13</td>\n<td align=\"right\">3</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">50 kg reported</td>\n<td align=\"right\">9</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n</tbody></table>\n<p>All targets were achieved and the 40 kg set retained more reserve than initially prescribed. The load basis was not explicitly reconfirmed after the live question, so it remains <strong>To verify</strong> rather than being inferred from prior sessions.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "plate-loaded-chest-press-reported-plate-load-total-versus-per-side-basis-to-verify"
+      }
+    },
+    {
+      "id": "md-402",
+      "level": 3,
+      "title": "Incline dumbbell press - weight per dumbbell",
+      "anchor": "incline-dumbbell-press-weight-per-dumbbell",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 20 kg each | 15 | 3 |\n| 2 | 22.5 kg each | 12 | 2 |\n| 3 | 25 kg each | 9 | 2 |\n\nVipin identified that the proposed 12.5-17.5 kg baseline was outdated. The completed sets establish the current pain-free working baseline and all stayed within the intended reserve.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">20 kg each</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">22.5 kg each</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">25 kg each</td>\n<td align=\"right\">9</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>Vipin identified that the proposed 12.5-17.5 kg baseline was outdated. The completed sets establish the current pain-free working baseline and all stayed within the intended reserve.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "incline-dumbbell-press-weight-per-dumbbell"
+      }
+    },
+    {
+      "id": "md-403",
+      "level": 3,
+      "title": "Low-to-high cable fly - reported stack setting; per-side load basis To verify",
+      "anchor": "low-to-high-cable-fly-reported-stack-setting-per-side-load-basis-to-verify",
+      "raw": "| Set | Load | Reps | RIR | Classification |\n|---:|---:|---:|---:|---|\n| 1 | 10 kg reported | 25 | 5 | Preparation |\n| 2 | 15 kg reported | 18 | 5 | Preparation |\n| 3 | 20 kg reported | 15 | 3 | Working |\n| 4 | 25 kg reported | 12 | 2 | Working |\n| 5 | 30 kg reported | 8 | 2 | Working |\n\nVipin reported feeling no meaningful stimulus during the 10 and 15 kg sets, so both are retained as low-fatigue preparation. The 20-30 kg sets establish the refreshed working baseline. Exact per-pulley versus combined load remains **To verify**.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n<th>Classification</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">10 kg reported</td>\n<td align=\"right\">25</td>\n<td align=\"right\">5</td>\n<td>Preparation</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">15 kg reported</td>\n<td align=\"right\">18</td>\n<td align=\"right\">5</td>\n<td>Preparation</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">20 kg reported</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">4</td>\n<td align=\"right\">25 kg reported</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n<tr>\n<td align=\"right\">5</td>\n<td align=\"right\">30 kg reported</td>\n<td align=\"right\">8</td>\n<td align=\"right\">2</td>\n<td>Working</td>\n</tr>\n</tbody></table>\n<p>Vipin reported feeling no meaningful stimulus during the 10 and 15 kg sets, so both are retained as low-fatigue preparation. The 20-30 kg sets establish the refreshed working baseline. Exact per-pulley versus combined load remains <strong>To verify</strong>.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "low-to-high-cable-fly-reported-stack-setting-per-side-load-basis-to-verify"
+      }
+    },
+    {
+      "id": "md-404",
+      "level": 3,
+      "title": "Cable upright row - total stack",
+      "anchor": "cable-upright-row-total-stack-3",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 40 kg | 15 | 3 |\n| 2 | 50 kg | 12 | 3 |\n| 3 | 60 kg | 10 | 2 |\n\nThe 50 kg reserve improved and the 60 kg result improved from nine to ten repetitions at RIR 2. No shoulder pinching was reported. Keep the pull at a comfortable height rather than raising the elbows above shoulder level.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">40 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">50 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">60 kg</td>\n<td align=\"right\">10</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>The 50 kg reserve improved and the 60 kg result improved from nine to ten repetitions at RIR 2. No shoulder pinching was reported. Keep the pull at a comfortable height rather than raising the elbows above shoulder level.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "cable-upright-row-total-stack-3"
+      }
+    },
+    {
+      "id": "md-405",
+      "level": 3,
+      "title": "Face pull - total stack",
+      "anchor": "face-pull-total-stack",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 35 kg | 15 | 4 |\n| 2 | 40 kg | 12 | 3 |\n| 3 | 45 kg | 10 | 3 |\n\nThree sets were completed despite the live two-set fatigue reduction. They remained comfortably short of failure and pain-free. The third set is preserved as working volume but does not justify adding more sets next time.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">35 kg</td>\n<td align=\"right\">15</td>\n<td align=\"right\">4</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">40 kg</td>\n<td align=\"right\">12</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">3</td>\n<td align=\"right\">45 kg</td>\n<td align=\"right\">10</td>\n<td align=\"right\">3</td>\n</tr>\n</tbody></table>\n<p>Three sets were completed despite the live two-set fatigue reduction. They remained comfortably short of failure and pain-free. The third set is preserved as working volume but does not justify adding more sets next time.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "face-pull-total-stack"
+      }
+    },
+    {
+      "id": "md-406",
+      "level": 3,
+      "title": "Dumbbell shrug - weight per dumbbell",
+      "anchor": "dumbbell-shrug-weight-per-dumbbell",
+      "raw": "| Set | Load | Reps | RIR |\n|---:|---:|---:|---:|\n| 1 | 35 kg each | 15 | 3 |\n| 2 | 40 kg each | 12 | 2 |\n\nBoth planned sets met their targets. Top-pause duration and exact range remain **To verify**.",
+      "html": "<table>\n<thead>\n<tr>\n<th align=\"right\">Set</th>\n<th align=\"right\">Load</th>\n<th align=\"right\">Reps</th>\n<th align=\"right\">RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td align=\"right\">1</td>\n<td align=\"right\">35 kg each</td>\n<td align=\"right\">15</td>\n<td align=\"right\">3</td>\n</tr>\n<tr>\n<td align=\"right\">2</td>\n<td align=\"right\">40 kg each</td>\n<td align=\"right\">12</td>\n<td align=\"right\">2</td>\n</tr>\n</tbody></table>\n<p>Both planned sets met their targets. Top-pause duration and exact range remain <strong>To verify</strong>.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "dumbbell-shrug-weight-per-dumbbell"
+      }
+    },
+    {
+      "id": "md-407",
+      "level": 2,
+      "title": "Cardio",
+      "anchor": "cardio-4",
+      "raw": "- Modality: **Incline treadmill walk**.\n- Duration: **20 minutes**.\n- Incline: **12%**.\n- Speed: **3 km/h**.\n- Rail support: **To verify**.\n- Pain, dizziness or unusual breathlessness during cardio: **To verify**; no post-session pain was reported.\n\nVipin chose the familiar 12% incline after reporting enough energy for cardio, despite the advised 6-8% recovery-oriented prescription. The work is preserved as performed, but it is not a reason to progress incline or duration. This was the fifth consecutive resistance day and final energy fell to Medium-to-Low.",
+      "html": "<ul>\n<li>Modality: <strong>Incline treadmill walk</strong>.</li>\n<li>Duration: <strong>20 minutes</strong>.</li>\n<li>Incline: <strong>12%</strong>.</li>\n<li>Speed: <strong>3 km/h</strong>.</li>\n<li>Rail support: <strong>To verify</strong>.</li>\n<li>Pain, dizziness or unusual breathlessness during cardio: <strong>To verify</strong>; no post-session pain was reported.</li>\n</ul>\n<p>Vipin chose the familiar 12% incline after reporting enough energy for cardio, despite the advised 6-8% recovery-oriented prescription. The work is preserved as performed, but it is not a reason to progress incline or duration. This was the fifth consecutive resistance day and final energy fell to Medium-to-Low.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "cardio-4"
+      }
+    },
+    {
+      "id": "md-408",
+      "level": 2,
+      "title": "Post-workout recovery",
+      "anchor": "post-workout-recovery-20",
+      "raw": "- Workout completion: **Confirmed**.\n- Chest, shoulder, elbow, wrist or upper-biceps pain/sensation: **None reported**.\n- Shoulder pinching during upright rows: **None**.\n- Final energy: **Medium to Low**.\n- Chest and shoulder pump: **Medium**.\n- Total duration including cardio: **Approximately 1 hour 30 minutes**.\n- Human-assisted repetitions or reported form breakdown: **None**.\n- Creatine consumed post-workout: **Yes, one stated 3 g scoop with whey**.",
+      "html": "<ul>\n<li>Workout completion: <strong>Confirmed</strong>.</li>\n<li>Chest, shoulder, elbow, wrist or upper-biceps pain/sensation: <strong>None reported</strong>.</li>\n<li>Shoulder pinching during upright rows: <strong>None</strong>.</li>\n<li>Final energy: <strong>Medium to Low</strong>.</li>\n<li>Chest and shoulder pump: <strong>Medium</strong>.</li>\n<li>Total duration including cardio: <strong>Approximately 1 hour 30 minutes</strong>.</li>\n<li>Human-assisted repetitions or reported form breakdown: <strong>None</strong>.</li>\n<li>Creatine consumed post-workout: <strong>Yes, one stated 3 g scoop with whey</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "post-workout-recovery-20"
+      }
+    },
+    {
+      "id": "md-409",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-23",
+      "raw": "The session contained **20 resistance entries**: three genuine preparation sets and **17 working sets**, followed by 20 minutes of steep incline walking. Among working sets, one ended at RIR 4, nine at RIR 3 and seven at RIR 2. No working set reached RIR 1 or 0, and no pain, shoulder pinching, assistance or form breakdown was reported.\n\nThe corrected Friday exercise selection successfully differed from Monday and Wednesday while retaining a second weekly chest and shoulder stimulus. Current incline-dumbbell, low-to-high-fly and upright-row baselines were refreshed, and shrug targets were met. The main constraint remains cumulative fatigue: this was the fifth consecutive training day, the face-pull prescription gained an extra set, cardio doubled the suggested duration and used a steeper incline, and final energy ended Medium-to-Low. No additional volume or cardio progression is warranted tomorrow.\n\nCreatine monohydrate now has a confirmed user-reported start date. A small scale increase from muscle water is possible and must not be interpreted as fat gain from a single reading. Daily consistency is more important than workout timing. The supporting NIH exercise-supplement fact sheet is https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/.\n\nThe half-EAA plus half-pre-workout combination produced an estimated 150 mg caffeine exposure, but only the EAA contribution is label-verified. Because training normally occurs late, this combination requires sleep monitoring and should not be treated as the standing routine until the pre-workout label is reviewed. FDA caffeine guidance: https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much.\n\nMagnesium glycinate remains planned rather than active. Evidence suggests at most a modest average sleep benefit, and elemental magnesium from all supplements must be counted. Label review is required before dosing. NIH magnesium guidance: https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/; 2025 randomized bisglycinate trial: https://pubmed.ncbi.nlm.nih.gov/40918053/.",
+      "html": "<p>The session contained <strong>20 resistance entries</strong>: three genuine preparation sets and <strong>17 working sets</strong>, followed by 20 minutes of steep incline walking. Among working sets, one ended at RIR 4, nine at RIR 3 and seven at RIR 2. No working set reached RIR 1 or 0, and no pain, shoulder pinching, assistance or form breakdown was reported.</p>\n<p>The corrected Friday exercise selection successfully differed from Monday and Wednesday while retaining a second weekly chest and shoulder stimulus. Current incline-dumbbell, low-to-high-fly and upright-row baselines were refreshed, and shrug targets were met. The main constraint remains cumulative fatigue: this was the fifth consecutive training day, the face-pull prescription gained an extra set, cardio doubled the suggested duration and used a steeper incline, and final energy ended Medium-to-Low. No additional volume or cardio progression is warranted tomorrow.</p>\n<p>Creatine monohydrate now has a confirmed user-reported start date. A small scale increase from muscle water is possible and must not be interpreted as fat gain from a single reading. Daily consistency is more important than workout timing. The supporting NIH exercise-supplement fact sheet is <a href=\"https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/\">https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/</a>.</p>\n<p>The half-EAA plus half-pre-workout combination produced an estimated 150 mg caffeine exposure, but only the EAA contribution is label-verified. Because training normally occurs late, this combination requires sleep monitoring and should not be treated as the standing routine until the pre-workout label is reviewed. FDA caffeine guidance: <a href=\"https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much\">https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much</a>.</p>\n<p>Magnesium glycinate remains planned rather than active. Evidence suggests at most a modest average sleep benefit, and elemental magnesium from all supplements must be counted. Label review is required before dosing. NIH magnesium guidance: <a href=\"https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/\">https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/</a>; 2025 randomized bisglycinate trial: <a href=\"https://pubmed.ncbi.nlm.nih.gov/40918053/\">https://pubmed.ncbi.nlm.nih.gov/40918053/</a>.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-23"
+      }
+    },
+    {
+      "id": "md-410",
+      "level": 2,
+      "title": "Next Chest + Shoulders targets",
+      "anchor": "next-chest-shoulders-targets",
+      "raw": "| Exercise | Next target |\n|---|---|\n| Plate-loaded chest press | One preparation set at 20 kg reported x 10-12 near RIR 5; 30 kg x 15 @ RIR 3; 40 kg x 14-15 @ RIR 3; 50 kg x 10 @ RIR 2. Verify whether loads are total or per side before progression. |\n| Incline dumbbell press | 20 kg each x 15 @ RIR 3; 22.5 kg each x 13 @ RIR 2; 25 kg each x 10 @ RIR 2. |\n| Low-to-high cable fly | Use only one preparation set at 15 kg reported. Then 20 kg x 15-16 @ RIR 3; 25 kg x 13 @ RIR 2; 30 kg x 9 @ RIR 2. Verify per-side load basis. |\n| Cable upright row | 40 kg x 15 @ RIR 3; 50 kg x 13 @ RIR 3; 60 kg x 11 @ RIR 2. Stop for shoulder pinching and do not raise the elbows above shoulder level. |\n| Face pull | Exactly two sets: 40 kg x 12-13 @ RIR 3 and 45 kg x 10-11 @ RIR 2-3. No third set. |\n| Dumbbell shrug | 35 kg each x 15-16 @ RIR 3; 40 kg each x 13 @ RIR 2. Use a controlled one-second top pause. |",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Plate-loaded chest press</td>\n<td>One preparation set at 20 kg reported x 10-12 near RIR 5; 30 kg x 15 @ RIR 3; 40 kg x 14-15 @ RIR 3; 50 kg x 10 @ RIR 2. Verify whether loads are total or per side before progression.</td>\n</tr>\n<tr>\n<td>Incline dumbbell press</td>\n<td>20 kg each x 15 @ RIR 3; 22.5 kg each x 13 @ RIR 2; 25 kg each x 10 @ RIR 2.</td>\n</tr>\n<tr>\n<td>Low-to-high cable fly</td>\n<td>Use only one preparation set at 15 kg reported. Then 20 kg x 15-16 @ RIR 3; 25 kg x 13 @ RIR 2; 30 kg x 9 @ RIR 2. Verify per-side load basis.</td>\n</tr>\n<tr>\n<td>Cable upright row</td>\n<td>40 kg x 15 @ RIR 3; 50 kg x 13 @ RIR 3; 60 kg x 11 @ RIR 2. Stop for shoulder pinching and do not raise the elbows above shoulder level.</td>\n</tr>\n<tr>\n<td>Face pull</td>\n<td>Exactly two sets: 40 kg x 12-13 @ RIR 3 and 45 kg x 10-11 @ RIR 2-3. No third set.</td>\n</tr>\n<tr>\n<td>Dumbbell shrug</td>\n<td>35 kg each x 15-16 @ RIR 3; 40 kg each x 13 @ RIR 2. Use a controlled one-second top pause.</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-chest-shoulders-targets"
+      }
+    },
+    {
+      "id": "md-411",
+      "level": 2,
+      "title": "Next session",
+      "anchor": "next-session-5",
+      "raw": "**Back + Biceps** is scheduled next under the active six-day split, but only if sleep is Good, starting energy is at least Medium, and there is no meaningful chest, shoulder, back, biceps or leg soreness or pain. Cap resistance work at **16 working sets**, keep all routine sets at RIR 2-3, use only one chest-supported row variation, and do not perform post-lift cardio after today's 20-minute steep walk. If starting energy is Low or soreness is significant, use a recovery/rest day instead.",
+      "html": "<p><strong>Back + Biceps</strong> is scheduled next under the active six-day split, but only if sleep is Good, starting energy is at least Medium, and there is no meaningful chest, shoulder, back, biceps or leg soreness or pain. Cap resistance work at <strong>16 working sets</strong>, keep all routine sets at RIR 2-3, use only one chest-supported row variation, and do not perform post-lift cardio after today&#39;s 20-minute steep walk. If starting energy is Low or soreness is significant, use a recovery/rest day instead.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-session-5"
       }
     }
   ],
