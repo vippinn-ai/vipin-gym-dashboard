@@ -3377,3 +3377,133 @@ Magnesium glycinate remains planned rather than active. Evidence suggests at mos
 ## Next session
 
 **Back + Biceps** is scheduled next under the active six-day split, but only if sleep is Good, starting energy is at least Medium, and there is no meaningful chest, shoulder, back, biceps or leg soreness or pain. Cap resistance work at **16 working sets**, keep all routine sets at RIR 2-3, use only one chest-supported row variation, and do not perform post-lift cardio after today's 20-minute steep walk. If starting energy is Low or soreness is significant, use a recovery/rest day instead.
+
+# Back + Biceps B Workout - 2026-09-05
+
+## Pre-workout readiness and supplements
+
+- Sleep quality: **Good**.
+- Starting energy: **Medium to High**.
+- Pre-session pain: **None**.
+- Pre-session soreness: **To verify**; it was not separately reported.
+- EAA+ Energy: **One half scoop reported**, calculated from the verified full-serving label as approximately **50 mg caffeine** and **3.745 g EAAs** if level; exact powder weight remains **To verify**.
+- Pre-workout: **One half scoop reported**, supplying approximately **100 mg caffeine according to Vipin's stated 200 mg full-scoop value**. Product label and exact dose remain **To verify**.
+- Coffee: **To verify**; not reported for this session.
+- Creatine monohydrate: **To verify** for this session; the standing 3 g post-workout routine was not reconfirmed.
+
+## Completed resistance work
+
+### Iso-lateral high row - plates each side; machine carriage excluded
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 12 kg/side | 15 | 3 | Working |
+| 2 | 15 kg/side | 15 | 3 | Working |
+| 3 | 17.5 kg/side | 12 | 3 | Working |
+| 4 | 20 kg/side | 12 | 3 | Working |
+
+The first set was intended as preparation, but 15 repetitions at RIR 3 constituted meaningful working volume. All four sets are therefore preserved as working sets. The 20 kg/side result exceeded the planned repetition target with greater reserve. Do not add load; remove the extra first working set next time.
+
+### Straight-arm cable pulldown - total stack
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 40 kg | 15 | 3 |
+| 2 | 45 kg | 14 | 2 |
+| 3 | 50 kg | 12 | 2 |
+
+All three sets met their targets. Elbow position and whether the lats remained the limiting muscle throughout remain **To verify**.
+
+### Single-arm seated cable row - selected stack for each working arm
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 15 kg | 15 | 3 |
+| 2 | 20 kg | 12 | 2 |
+| 3 | 25 kg | 10 | 2 |
+
+These sets establish a new unilateral baseline. Exact cable station/calibration, torso rotation and whether both arms matched remain **To verify**.
+
+### Straight-bar curl - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 15 | 2 |
+| 2 | 10 kg/side | 13 | 2 |
+| 3 | 12.5 kg/side | 11 | 1 |
+| 4 | 15 kg/side | 9 | 2 |
+
+The intended preparation set became working volume at RIR 2. The 12.5 kg/side set was the only set of the session to reach RIR 1. Bar type, body swing and the reason reserve improved again on the heavier final set remain **To verify**. Use exactly three working sets next time.
+
+### Plate-loaded curl machine - plates each side
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 10 kg/side | 14 | 2 |
+| 2 | 12.5 kg/side | 11 | 2 |
+
+Both sets stayed controlled at RIR 2. Add repetitions before load.
+
+### Concentration curl - weight per dumbbell
+
+| Set | Load | Reps | RIR | Classification |
+|---:|---:|---:|---:|---|
+| 1 | 7.5 kg each | 15 | 4 | Preparation |
+| 2 | 10 kg each | 12 | 3 | Working |
+| 3 | 12.5 kg each | 10 | 3 | Working |
+
+The 7.5 kg set produced little meaningful stimulus and is retained as preparation. The 10 and 12.5 kg sets improved reserve and establish the current working baseline. Side-to-side matching and exact tempo remain **To verify**.
+
+### Reverse EZ-bar curl - plates each side; bar excluded
+
+| Set | Load | Reps | RIR |
+|---:|---:|---:|---:|
+| 1 | 7.5 kg/side | 13 | 3 |
+| 2 | 10 kg/side | 11 | 3 |
+
+Both sets were comfortably controlled. The 10 kg/side set improved from the historical RIR 1 baseline to RIR 3 at the same repetition count.
+
+## Cardio
+
+- Modality: **Incline treadmill walk**.
+- Duration: **10 minutes**.
+- Incline: **12%**.
+- Speed: **3 km/h**.
+- Rail support: **To verify**.
+- Pain or unusual sensation: **None reported in the session close-out**.
+
+Vipin performed the familiar steep incline despite the recovery-oriented 0-5% recommendation. No progression credit is assigned because this followed 20 resistance working sets on the sixth consecutive training day.
+
+## Post-workout recovery
+
+- Workout completion: **Confirmed**.
+- Pain or unusual sensation: **None**.
+- Back and biceps pump: **Medium**.
+- Final energy: **Medium to Low**.
+- Total duration including cardio: **Approximately 1 hour 30 minutes**.
+- Human-assisted repetitions: **None**.
+- Form breakdown: **To verify**; the close-out did not provide a separate answer after assistance.
+
+## Coaching assessment
+
+The session contained **21 resistance entries**: one low-fatigue preparation set and **20 working sets**. Among working sets, nine ended at RIR 3, ten at RIR 2 and one at RIR 1. No set reached RIR 0, and no pain or assisted repetition was reported.
+
+The exercise-selection correction successfully avoided repeating the prior chest-supported/T-bar rows and hammer curls. The strongest outcomes were 20 kg/side iso-lateral high row for 12 repetitions at RIR 3, completion of the full straight-arm-pulldown target, a new single-arm-row baseline, and improved reserve on concentration and reverse curls. The limiting factor was volume: the planned 18-set ceiling became 20 when the 12 kg high-row and 7.5 kg straight-bar sets became working sets. Final energy fell to Medium-Low, and 12% treadmill work was added on the sixth consecutive training day. This confirms that the next day should be complete recovery rather than additional training.
+
+## Next Back + Biceps B targets
+
+| Exercise | Next target |
+|---|---|
+| Iso-lateral high row | Exactly three sets: 15 kg/side x 15 @ RIR 3; 17.5 kg/side x 13 @ RIR 3; 20 kg/side x 13 @ RIR 2-3. Omit the 12 kg working set. |
+| Straight-arm cable pulldown | 40 kg x 15 @ RIR 3; 45 kg x 15 @ RIR 2; 50 kg x 13 @ RIR 2. |
+| Single-arm seated cable row | 15 kg x 15 @ RIR 3; 20 kg x 13 @ RIR 2; 25 kg x 11 @ RIR 2 for each arm. Verify station and side-to-side match. |
+| Straight-bar curl | Exactly three sets: 10 kg/side x 13 @ RIR 3; 12.5 kg/side x 11-12 @ RIR 2; 15 kg/side x 9-10 @ RIR 2. Omit the 7.5 kg working set. |
+| Plate-loaded curl machine | 10 kg/side x 14-15 @ RIR 3; 12.5 kg/side x 12 @ RIR 2. |
+| Concentration curl | 10 kg each x 12-13 @ RIR 3; 12.5 kg each x 11 @ RIR 2-3. The 7.5 kg set is preparation only. |
+| Reverse EZ-bar curl | 7.5 kg/side x 13-15 @ RIR 3; 10 kg/side x 12 @ RIR 2-3. |
+
+The revised prescription totals exactly **18 working sets** across seven exercises.
+
+## Next session
+
+**Sunday is a complete rest/recovery day.** Use ordinary walking and light mobility only; no formal high-intensity cardio is required. The next scheduled resistance session is **Chest + Triceps on Monday**, subject to Good sleep, at least Medium energy and no meaningful back, biceps, elbow, shoulder or lower-back soreness/pain. Keep Monday within 16-18 working sets, avoid failure and only add cardio if post-lift energy remains at least Medium.
