@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T17:02:25.081Z",
+  "generatedAt": "2026-09-14T16:52:38.562Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "3826befc76db729023a2dcb6d58560be144743136fa4b068f7c0e552c4d3ac9e"
+      "sha256": "21bdd6a1c30fb587cde6626ace866047845d9e2dc6e26189f6fd6c92804e1cab"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "8e824619b0e29b9ba84549ce9cf96ed6fbbbb18f89fd778383d9f5c93cf8f6b1"
+      "sha256": "71098c7f12af5337598a544dad2b20a63ba54e2a33a175b34e5927a72a1dbfd6"
     }
   ],
   "workbook": {
@@ -225,11 +225,11 @@
             "",
             "",
             "",
-            27,
+            29,
             "",
             58,
             "",
-            "6-day active",
+            "Return week",
             "",
             "",
             "Legs",
@@ -335,7 +335,7 @@
           ],
           [
             "Monday",
-            "Chest + Triceps - completed 2026-08-31",
+            "Chest + Triceps completed 2026-09-14",
             "",
             "",
             "",
@@ -349,7 +349,7 @@
           ],
           [
             "Tuesday",
-            "Back + Biceps - completed 2026-09-01",
+            "Back + Biceps: fresh readiness first",
             "",
             "",
             "",
@@ -363,7 +363,7 @@
           ],
           [
             "Wednesday",
-            "Shoulders + Triceps - completed 2026-09-02",
+            "Shoulders + Triceps: conditional",
             "",
             "",
             "",
@@ -377,7 +377,7 @@
           ],
           [
             "Thursday",
-            "Legs + Calves - completed 2026-09-03",
+            "Legs + Calves: conditional",
             "",
             "",
             "",
@@ -391,28 +391,28 @@
           ],
           [
             "Friday",
-            "Chest + Shoulders - completed 2026-09-04",
+            "Chest + Shoulders: conditional",
             "",
-            "Legs",
-            "Hack Squat",
-            "65 kg/side x 8 @ RIR 2",
-            "65 kg/side x 9 @ RIR 2",
-            "In progress",
-            "Hold load",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            "10 x 12 @3; 15 x 12 @2; 17.5 x 10 @2; 20 x 8 @2; 22.5 x 6 @2",
+            "2 sets: 15-17.5 kg/side x10-12 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
           ],
           [
             "Saturday",
-            "Back + Biceps - completed 2026-09-05",
+            "Back + Biceps: conditional",
             "",
-            "Legs",
-            "Leg Press",
-            "160 kg x 7 unassisted @1",
-            "140 kg x 10 @ RIR 2",
-            "Modify volume/effort",
-            "Exactly 3 sets; no 160",
+            "Chest + Triceps",
+            "Incline Barbell Bench Press",
+            "15 x 12 @2; 17.5 x 10 @2; 20 x 6 @3",
+            "2 sets: 12.5-15 kg/side x10-12 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
@@ -421,12 +421,12 @@
             "Sunday",
             "Complete rest / recovery",
             "",
-            "Legs",
-            "DB Romanian Deadlift",
-            "17.5 kg each x 9 @ RIR 2",
-            "15 kg each x 10-11 @ RIR 2",
-            "Modify technique",
-            "17.5 was substitution",
+            "Chest + Triceps",
+            "Cable Fly",
+            "20 x 15 @3; 25 x 10 @2; 25 x 10 @2",
+            "2 sets: 15-20 kg/side x12-15 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
@@ -435,12 +435,12 @@
             "",
             "",
             "",
-            "Legs",
-            "Leg Curl",
-            "35 kg x 9 @ RIR 1",
-            "35 kg x 9-10 @ RIR 2",
-            "Modify effort",
-            "No extra set",
+            "Chest + Triceps",
+            "Straight Bar Pushdown",
+            "50 x 14 @3; 55 x 11 @2; 60 x 8 @2",
+            "2 sets: 40-45 kg x12-15 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
@@ -449,12 +449,12 @@
             "",
             "",
             "",
-            "Legs",
-            "Leg Extension",
-            "50 kg x 11 @ RIR 2",
-            "50 kg x 12 @ RIR 2",
-            "In progress",
-            "Add one rep",
+            "Chest + Triceps",
+            "Overhead Rope Extension",
+            "35 x 14 @3; 40 x 11 @2; 45 x 9 @2",
+            "2 sets: 25-30 kg x12-15 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
@@ -463,12 +463,12 @@
             "",
             "",
             "",
-            "Calves",
-            "Standing Calf Raise",
-            "20 kg/side x 17 @ RIR 2",
-            "Repeat plus third set",
-            "In progress",
-            "Three sets next time",
+            "Chest + Triceps",
+            "Assisted Dip Machine",
+            "60 x 12 @2; 50 x 8 @2",
+            "2 sets: 70 kg assistance x8-12 @3-4",
+            "Return targets",
+            "See dated target notes",
             "",
             "",
             ""
@@ -479,10 +479,10 @@
             "",
             "Recovery",
             "Final energy",
-            "Medium-Low after 90 min",
-            "Complete rest Sunday",
-            "Monitor",
-            "Six consecutive training days completed",
+            "Medium after 90 min",
+            "Monitor delayed symptoms",
+            "No pain reported",
+            "18 working sets exceeded lighter return plan",
             "",
             "",
             ""
@@ -492,11 +492,11 @@
             "",
             "",
             "Next",
-            "Chest + Triceps",
-            "Six-day block completed",
-            "Fresh readiness; 16-18 working sets",
+            "Back + Biceps",
+            "Fresh readiness first",
+            "10-12 work sets, RIR 3-4",
             "Conditional",
-            "No failure; cardio only if recovery supports it",
+            "No automatic load increases",
             "",
             "",
             ""
@@ -9514,6 +9514,310 @@
             "Reserve improved; add rep before load",
             "Working",
             3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            1,
+            10,
+            "kg plates each side; bar excluded",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "User-designated warm-up retained; RIR 3 means not a very easy preparation set",
+            "Warm-up",
+            3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            2,
+            15,
+            "kg plates each side; bar excluded",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            3,
+            17.5,
+            "kg plates each side; bar excluded",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            4,
+            20,
+            "kg plates each side; bar excluded",
+            8,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Flat Bench Press",
+            5,
+            22.5,
+            "kg plates each side; bar excluded",
+            6,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Incline Barbell Bench Press",
+            1,
+            15,
+            "kg plates each side; bar excluded",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Incline Barbell Bench Press",
+            2,
+            17.5,
+            "kg plates each side; bar excluded",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Incline Barbell Bench Press",
+            3,
+            20,
+            "kg plates each side; bar excluded",
+            6,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Cable Fly",
+            1,
+            20,
+            "kg each side; horizontal cable fly",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Cable Fly",
+            2,
+            25,
+            "kg each side; horizontal cable fly",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Cable Fly",
+            3,
+            25,
+            "kg each side; horizontal cable fly",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Straight Bar Pushdown",
+            1,
+            50,
+            "kg total stack",
+            14,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Straight Bar Pushdown",
+            2,
+            55,
+            "kg total stack",
+            11,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Straight Bar Pushdown",
+            3,
+            60,
+            "kg total stack",
+            8,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Overhead Rope Extension",
+            1,
+            35,
+            "kg total stack",
+            14,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Overhead Rope Extension",
+            2,
+            40,
+            "kg total stack",
+            11,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Overhead Rope Extension",
+            3,
+            45,
+            "kg total stack",
+            9,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Assisted Dip Machine",
+            1,
+            60,
+            "kg assistance counterweight; higher is easier",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            "Assisted Dip Machine",
+            2,
+            50,
+            "kg assistance counterweight; higher is easier",
+            8,
+            "No human-assisted reps or reported form breakdown",
+            "No pain or recurrent headache",
+            "Medium start and final",
+            "Good",
+            "Completed above lighter return prescription; hold progression pending recovery",
+            "Working",
+            2
           ]
         ]
       },
@@ -10092,6 +10396,72 @@
             "Torso square; elbow toward hip",
             "New baseline / To verify",
             "Exact cable station/calibration and side-to-side match To verify"
+          ],
+          [
+            "Chest + Triceps",
+            "Flat Bench Press",
+            "10 x 12 @3; 15 x 12 @2; 17.5 x 10 @2; 20 x 8 @2; 22.5 x 6 @2",
+            "kg plates each side; bar excluded",
+            "2 sets: 15-17.5 kg/side x10-12 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Chest + Triceps",
+            "Incline Barbell Bench Press",
+            "15 x 12 @2; 17.5 x 10 @2; 20 x 6 @3",
+            "kg plates each side; bar excluded",
+            "2 sets: 12.5-15 kg/side x10-12 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Chest + Triceps",
+            "Cable Fly",
+            "20 x 15 @3; 25 x 10 @2; 25 x 10 @2",
+            "kg each side; horizontal cable fly",
+            "2 sets: 15-20 kg/side x12-15 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Chest + Triceps",
+            "Straight Bar Pushdown",
+            "50 x 14 @3; 55 x 11 @2; 60 x 8 @2",
+            "kg total stack",
+            "2 sets: 40-45 kg x12-15 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Chest + Triceps",
+            "Overhead Rope Extension",
+            "35 x 14 @3; 40 x 11 @2; 45 x 9 @2",
+            "kg total stack",
+            "2 sets: 25-30 kg x12-15 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Chest + Triceps",
+            "Assisted Dip Machine",
+            "60 x 12 @2; 50 x 8 @2",
+            "kg assistance counterweight; higher is easier",
+            "2 sets: 70 kg assistance x8-12 @3-4",
+            "Adjust downward for target reserve; no automatic increase",
+            "Controlled pain-free motion; no straining",
+            "2026-09-14 return targets",
+            "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
           ]
         ]
       },
@@ -10814,16 +11184,16 @@
             ""
           ],
           [
+            "2026-09-14",
             "",
             "",
+            "Good",
+            "Medium final",
+            "No headache/head pressure, dizziness, neck discomfort or other pain",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "7 min treadmill; 3 km/h; 12% incline; rail support To verify",
+            "90 minutes including 7 min treadmill at 3 km/h, 12% incline; rail support To verify. Good sleep, Medium start/final energy. No headache/head pressure, dizziness, neck discomfort, joint/other pain; no human assistance or reported form breakdown. EAA+, pre-workout, coffee, creatine and magnesium intake today To verify. User reports neurologist cleared exercise.",
             "",
             "",
             "",
@@ -15335,6 +15705,36 @@
             null,
             null,
             null
+          ],
+          [
+            "2026-09-14 return context",
+            "User reports persistent back-of-head pain prompted a training break; MRI reportedly normal, neurologist cleared exercise; symptom-free for three days before return. Massage helped.",
+            "User-reported history, not independently reviewed clinical records; cause remains To verify.",
+            "Do not diagnose a nerve/vascular cause or assume massage establishes one. Follow clinician advice; stop if symptoms recur.",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-09-14 return assessment",
+            "18 working sets plus one user-designated warm-up (RIR 3), six exercises. No pain, headache, dizziness, assistance or form breakdown reported; Medium final energy. Return after approximately one week off exceeded the planned 12 working sets at RIR 3-4: 14 working sets were RIR 2 and four were RIR 3. This was not a light re-entry session. Do not infer recovery or medical cause from performance alone; monitor next-day symptoms and avoid automatic load increases.",
+            "No symptoms at closeout does not establish next-day recovery. Initial plan was lighter than the completed workout.",
+            "Check delayed soreness, headache/neck symptoms, sleep and energy before next session.",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-09-14 next-session targets",
+            "Next scheduled Back + Biceps only after fresh readiness and no recurrent headache, neck symptoms or limiting soreness. Start with 10-12 working sets at RIR 3-4; no failure or extra sets. Easy flat walking 5-10 min optional. Stop and seek clinician advice if headache recurs.",
+            "Avoid compensating for missed sessions with extra volume.",
+            "For each exercise show prior actual loads/reps/RIR alongside current targets and exact load basis.",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -15661,6 +16061,16 @@
             "Good sleep; Medium-High start and Medium-Low final energy; no pain; pre-session soreness To verify; 90 min including 10 min treadmill; medium back/biceps pump; no assistance; form breakdown/unusual sensation To verify; half EAA+ plus half pre-workout; coffee, creatine and exact stimulant exposure To verify",
             "Twenty working sets plus one low-fatigue preparation set were completed without pain or assistance. New single-arm-row and revised curl baselines were established, and most working sets remained at RIR 2-3. The session exceeded the planned 18-set ceiling by two; one straight-bar set reached RIR 1, and steep cardio was added on the sixth consecutive training day despite the recovery-oriented recommendation.",
             "Complete rest Sunday; next Back + Biceps exactly 18 working sets, remove the extra 12 kg high-row and 7.5 kg straight-bar sets, keep routine work at RIR 2-3, and use only easy cardio when recovery supports it"
+          ],
+          [
+            "2026-09-14",
+            "Chest + Triceps",
+            6,
+            19,
+            "Return / monitor",
+            "90 minutes including 7 min treadmill at 3 km/h, 12% incline; rail support To verify. Good sleep, Medium start/final energy. No headache/head pressure, dizziness, neck discomfort, joint/other pain; no human assistance or reported form breakdown.",
+            "18 working sets plus one user-designated warm-up (RIR 3), six exercises. No pain, headache, dizziness, assistance or form breakdown reported; Medium final energy. Return after approximately one week off exceeded the planned 12 working sets at RIR 3-4: 14 working sets were RIR 2 and four were RIR 3. This was not a light re-entry session. Do not infer recovery or medical cause from performance alone; monitor next-day symptoms and avoid automatic load increases.",
+            "Next scheduled Back + Biceps only after fresh readiness and no recurrent headache, neck symptoms or limiting soreness. Start with 10-12 working sets at RIR 3-4; no failure or extra sets. Easy flat walking 5-10 min optional. Stop and seek clinician advice if headache recurs."
           ]
         ]
       },
@@ -29379,6 +29789,424 @@
         "row": 563,
         "range": "A563"
       }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Set": 1,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "User-designated warm-up retained; RIR 3 means not a very easy preparation set",
+      "Set Type": "Warm-up",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 564,
+        "range": "A564"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Set": 2,
+      "Weight": 15,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 565,
+        "range": "A565"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Set": 3,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 566,
+        "range": "A566"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Set": 4,
+      "Weight": 20,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 8,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 567,
+        "range": "A567"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Set": 5,
+      "Weight": 22.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 6,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 568,
+        "range": "A568"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 1,
+      "Weight": 15,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 569,
+        "range": "A569"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 2,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 570,
+        "range": "A570"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Incline Barbell Bench Press",
+      "Set": 3,
+      "Weight": 20,
+      "Unit / Load Basis": "kg plates each side; bar excluded",
+      "Reps": 6,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 571,
+        "range": "A571"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Cable Fly",
+      "Set": 1,
+      "Weight": 20,
+      "Unit / Load Basis": "kg each side; horizontal cable fly",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 572,
+        "range": "A572"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Cable Fly",
+      "Set": 2,
+      "Weight": 25,
+      "Unit / Load Basis": "kg each side; horizontal cable fly",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 573,
+        "range": "A573"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Cable Fly",
+      "Set": 3,
+      "Weight": 25,
+      "Unit / Load Basis": "kg each side; horizontal cable fly",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 574,
+        "range": "A574"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Straight Bar Pushdown",
+      "Set": 1,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 14,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 575,
+        "range": "A575"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Straight Bar Pushdown",
+      "Set": 2,
+      "Weight": 55,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 11,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 576,
+        "range": "A576"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Straight Bar Pushdown",
+      "Set": 3,
+      "Weight": 60,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 8,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 577,
+        "range": "A577"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Overhead Rope Extension",
+      "Set": 1,
+      "Weight": 35,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 14,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 578,
+        "range": "A578"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Overhead Rope Extension",
+      "Set": 2,
+      "Weight": 40,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 11,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 579,
+        "range": "A579"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Overhead Rope Extension",
+      "Set": 3,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 9,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 580,
+        "range": "A580"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Assisted Dip Machine",
+      "Set": 1,
+      "Weight": 60,
+      "Unit / Load Basis": "kg assistance counterweight; higher is easier",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 581,
+        "range": "A581"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercise": "Assisted Dip Machine",
+      "Set": 2,
+      "Weight": 50,
+      "Unit / Load Basis": "kg assistance counterweight; higher is easier",
+      "Reps": 8,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No pain or recurrent headache",
+      "Energy": "Medium start and final",
+      "Sleep": "Good",
+      "Coach Note": "Completed above lighter return prescription; hold progression pending recovery",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 582,
+        "range": "A582"
+      }
     }
   ],
   "sessions": [
@@ -29828,6 +30656,22 @@
         "sheet": "Session Summary",
         "row": 32,
         "range": "A32"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Workout": "Chest + Triceps",
+      "Exercises": 6,
+      "Set Entries": 19,
+      "Readiness": "Return / monitor",
+      "Recovery Notes": "90 minutes including 7 min treadmill at 3 km/h, 12% incline; rail support To verify. Good sleep, Medium start/final energy. No headache/head pressure, dizziness, neck discomfort, joint/other pain; no human assistance or reported form breakdown.",
+      "Coach Assessment": "18 working sets plus one user-designated warm-up (RIR 3), six exercises. No pain, headache, dizziness, assistance or form breakdown reported; Medium final energy. Return after approximately one week off exceeded the planned 12 working sets at RIR 3-4: 14 working sets were RIR 2 and four were RIR 3. This was not a light re-entry session. Do not infer recovery or medical cause from performance alone; monitor next-day symptoms and avoid automatic load increases.",
+      "Next-Session Status": "Next scheduled Back + Biceps only after fresh readiness and no recurrent headache, neck symptoms or limiting soreness. Start with 10-12 working sets at RIR 3-4; no failure or extra sets. Easy flat walking 5-10 min optional. Stop and seek clinician advice if headache recurs.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 33,
+        "range": "A33"
       }
     }
   ],
@@ -30647,6 +31491,108 @@
         "row": 52,
         "range": "A52"
       }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Flat Bench Press",
+      "Current Best Set": "10 x 12 @3; 15 x 12 @2; 17.5 x 10 @2; 20 x 8 @2; 22.5 x 6 @2",
+      "Current Working Zone": "kg plates each side; bar excluded",
+      "Next Target": "2 sets: 15-17.5 kg/side x10-12 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 53,
+        "range": "A53"
+      }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Incline Barbell Bench Press",
+      "Current Best Set": "15 x 12 @2; 17.5 x 10 @2; 20 x 6 @3",
+      "Current Working Zone": "kg plates each side; bar excluded",
+      "Next Target": "2 sets: 12.5-15 kg/side x10-12 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 54,
+        "range": "A54"
+      }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Cable Fly",
+      "Current Best Set": "20 x 15 @3; 25 x 10 @2; 25 x 10 @2",
+      "Current Working Zone": "kg each side; horizontal cable fly",
+      "Next Target": "2 sets: 15-20 kg/side x12-15 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 55,
+        "range": "A55"
+      }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Straight Bar Pushdown",
+      "Current Best Set": "50 x 14 @3; 55 x 11 @2; 60 x 8 @2",
+      "Current Working Zone": "kg total stack",
+      "Next Target": "2 sets: 40-45 kg x12-15 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 56,
+        "range": "A56"
+      }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Overhead Rope Extension",
+      "Current Best Set": "35 x 14 @3; 40 x 11 @2; 45 x 9 @2",
+      "Current Working Zone": "kg total stack",
+      "Next Target": "2 sets: 25-30 kg x12-15 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 57,
+        "range": "A57"
+      }
+    },
+    {
+      "Muscle": "Chest + Triceps",
+      "Exercise": "Assisted Dip Machine",
+      "Current Best Set": "60 x 12 @2; 50 x 8 @2",
+      "Current Working Zone": "kg assistance counterweight; higher is easier",
+      "Next Target": "2 sets: 70 kg assistance x8-12 @3-4",
+      "Progress Rule": "Adjust downward for target reserve; no automatic increase",
+      "Technique Focus": "Controlled pain-free motion; no straining",
+      "Status": "2026-09-14 return targets",
+      "Notes": "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 58,
+        "range": "A58"
+      }
     }
   ],
   "recovery": [
@@ -31248,6 +32194,26 @@
         "sheet": "Recovery & Body",
         "row": 34,
         "range": "A34"
+      }
+    },
+    {
+      "Date": "2026-09-14",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Medium final",
+      "Soreness / Pain": "No headache/head pressure, dizziness, neck discomfort or other pain",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "7 min treadmill; 3 km/h; 12% incline; rail support To verify",
+      "Notes": "90 minutes including 7 min treadmill at 3 km/h, 12% incline; rail support To verify. Good sleep, Medium start/final energy. No headache/head pressure, dizziness, neck discomfort, joint/other pain; no human assistance or reported form breakdown. EAA+, pre-workout, coffee, creatine and magnesium intake today To verify. User reports neurologist cleared exercise.",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 35,
+        "range": "A35"
       }
     }
   ],
@@ -33007,6 +33973,42 @@
         "sheet": "Program Notes",
         "row": 101,
         "range": "A101"
+      }
+    },
+    {
+      "Category": "2026-09-14 return context",
+      "Rule / Observation": "User reports persistent back-of-head pain prompted a training break; MRI reportedly normal, neurologist cleared exercise; symptom-free for three days before return. Massage helped.",
+      "Why It Matters": "User-reported history, not independently reviewed clinical records; cause remains To verify.",
+      "Action": "Do not diagnose a nerve/vascular cause or assume massage establishes one. Follow clinician advice; stop if symptoms recur.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 102,
+        "range": "A102"
+      }
+    },
+    {
+      "Category": "2026-09-14 return assessment",
+      "Rule / Observation": "18 working sets plus one user-designated warm-up (RIR 3), six exercises. No pain, headache, dizziness, assistance or form breakdown reported; Medium final energy. Return after approximately one week off exceeded the planned 12 working sets at RIR 3-4: 14 working sets were RIR 2 and four were RIR 3. This was not a light re-entry session. Do not infer recovery or medical cause from performance alone; monitor next-day symptoms and avoid automatic load increases.",
+      "Why It Matters": "No symptoms at closeout does not establish next-day recovery. Initial plan was lighter than the completed workout.",
+      "Action": "Check delayed soreness, headache/neck symptoms, sleep and energy before next session.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 103,
+        "range": "A103"
+      }
+    },
+    {
+      "Category": "2026-09-14 next-session targets",
+      "Rule / Observation": "Next scheduled Back + Biceps only after fresh readiness and no recurrent headache, neck symptoms or limiting soreness. Start with 10-12 working sets at RIR 3-4; no failure or extra sets. Easy flat walking 5-10 min optional. Stop and seek clinician advice if headache recurs.",
+      "Why It Matters": "Avoid compensating for missed sessions with extra volume.",
+      "Action": "For each exercise show prior actual loads/reps/RIR alongside current targets and exact load basis.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 104,
+        "range": "A104"
       }
     }
   ],
@@ -38121,6 +39123,90 @@
       "source": {
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "next-session-6"
+      }
+    },
+    {
+      "id": "md-427",
+      "level": 1,
+      "title": "Chest + Triceps Workout - 2026-09-14",
+      "anchor": "chest-triceps-workout-2026-09-14",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "chest-triceps-workout-2026-09-14"
+      }
+    },
+    {
+      "id": "md-428",
+      "level": 2,
+      "title": "Return context and readiness",
+      "anchor": "return-context-and-readiness",
+      "raw": "Returned after approximately one week without training. Sleep Good; starting energy Medium. User described persistent pain at the back of the head rather than stress. MRI reportedly showed no abnormality, and the neurologist reportedly said exercise could continue. These are user-reported clinical details, not independently reviewed records. Massage helped and symptoms had been absent for three days before training. The cause remains **To verify**; do not infer a vascular, nerve or muscular diagnosis from the response to massage.\n\nEAA+, pre-workout, coffee, creatine and magnesium intake on this date: **To verify**. Previous supplement habits are not confirmation of today's intake.\n\nThe initial return plan was six exercises with two working sets each, RIR 3-4, lighter loads and an optional easy flat walk. Actual work exceeded that plan. Preserve the completed sets below without retroactively treating the original prescription as completed.",
+      "html": "<p>Returned after approximately one week without training. Sleep Good; starting energy Medium. User described persistent pain at the back of the head rather than stress. MRI reportedly showed no abnormality, and the neurologist reportedly said exercise could continue. These are user-reported clinical details, not independently reviewed records. Massage helped and symptoms had been absent for three days before training. The cause remains <strong>To verify</strong>; do not infer a vascular, nerve or muscular diagnosis from the response to massage.</p>\n<p>EAA+, pre-workout, coffee, creatine and magnesium intake on this date: <strong>To verify</strong>. Previous supplement habits are not confirmation of today&#39;s intake.</p>\n<p>The initial return plan was six exercises with two working sets each, RIR 3-4, lighter loads and an optional easy flat walk. Actual work exceeded that plan. Preserve the completed sets below without retroactively treating the original prescription as completed.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "return-context-and-readiness"
+      }
+    },
+    {
+      "id": "md-429",
+      "level": 2,
+      "title": "Completed resistance work",
+      "anchor": "completed-resistance-work-7",
+      "raw": "| Exercise | Load basis | Sets: kg x reps @ RIR |\n|---|---|---|\n| Flat barbell bench press | Plates each side, bar excluded | 10 x12 @3 (user-designated warm-up); 15 x12 @2; 17.5 x10 @2; 20 x8 @2; 22.5 x6 @2 |\n| Incline barbell bench press | Plates each side, bar excluded | 15 x12 @2; 17.5 x10 @2; 20 x6 @3 |\n| Horizontal cable fly | Weight each side | 20 x15 @3; 25 x10 @2; 25 x10 @2 |\n| Straight-bar pushdown | Total stack | 50 x14 @3; 55 x11 @2; 60 x8 @2 |\n| Overhead rope extension | Total stack | 35 x14 @3; 40 x11 @2; 45 x9 @2 |\n| Assisted dip machine | Assistance counterweight; higher is easier | 60 x12 @2; 50 x8 @2 |\n\nCable fly replaced pec deck because the machine was occupied. The first bench set remains classified as the user's warm-up; at RIR 3 it was not a very easy preparation set. Machine counterweight assistance is not a human-forced repetition. No human-assisted repetitions or form breakdown were reported at closeout; this is self-report, not visual technique verification.",
+      "html": "<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Load basis</th>\n<th>Sets: kg x reps @ RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Flat barbell bench press</td>\n<td>Plates each side, bar excluded</td>\n<td>10 x12 @3 (user-designated warm-up); 15 x12 @2; 17.5 x10 @2; 20 x8 @2; 22.5 x6 @2</td>\n</tr>\n<tr>\n<td>Incline barbell bench press</td>\n<td>Plates each side, bar excluded</td>\n<td>15 x12 @2; 17.5 x10 @2; 20 x6 @3</td>\n</tr>\n<tr>\n<td>Horizontal cable fly</td>\n<td>Weight each side</td>\n<td>20 x15 @3; 25 x10 @2; 25 x10 @2</td>\n</tr>\n<tr>\n<td>Straight-bar pushdown</td>\n<td>Total stack</td>\n<td>50 x14 @3; 55 x11 @2; 60 x8 @2</td>\n</tr>\n<tr>\n<td>Overhead rope extension</td>\n<td>Total stack</td>\n<td>35 x14 @3; 40 x11 @2; 45 x9 @2</td>\n</tr>\n<tr>\n<td>Assisted dip machine</td>\n<td>Assistance counterweight; higher is easier</td>\n<td>60 x12 @2; 50 x8 @2</td>\n</tr>\n</tbody></table>\n<p>Cable fly replaced pec deck because the machine was occupied. The first bench set remains classified as the user&#39;s warm-up; at RIR 3 it was not a very easy preparation set. Machine counterweight assistance is not a human-forced repetition. No human-assisted repetitions or form breakdown were reported at closeout; this is self-report, not visual technique verification.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-resistance-work-7"
+      }
+    },
+    {
+      "id": "md-430",
+      "level": 2,
+      "title": "Cardio and closeout",
+      "anchor": "cardio-and-closeout",
+      "raw": "- Treadmill: **7 minutes, 3 km/h, 12% incline**. Speed unit confirmed. Rail support **To verify**. This was steeper than the recommended 0% cooldown.\n- Workout completion: **Confirmed**.\n- Total duration including walk: **90 minutes**.\n- Final energy: **Medium**.\n- Headache, head pressure, dizziness or neck discomfort: **None reported**.\n- Joint or other pain: **None reported**.\n- Human-assisted reps or form breakdown: **None reported**.\n- No core work reported.",
+      "html": "<ul>\n<li>Treadmill: <strong>7 minutes, 3 km/h, 12% incline</strong>. Speed unit confirmed. Rail support <strong>To verify</strong>. This was steeper than the recommended 0% cooldown.</li>\n<li>Workout completion: <strong>Confirmed</strong>.</li>\n<li>Total duration including walk: <strong>90 minutes</strong>.</li>\n<li>Final energy: <strong>Medium</strong>.</li>\n<li>Headache, head pressure, dizziness or neck discomfort: <strong>None reported</strong>.</li>\n<li>Joint or other pain: <strong>None reported</strong>.</li>\n<li>Human-assisted reps or form breakdown: <strong>None reported</strong>.</li>\n<li>No core work reported.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "cardio-and-closeout"
+      }
+    },
+    {
+      "id": "md-431",
+      "level": 2,
+      "title": "Coaching assessment",
+      "anchor": "coaching-assessment-25",
+      "raw": "Completed **19 resistance entries: 18 working sets plus one user-designated warm-up**, across six exercises. Working-set RIR distribution: **14 sets at RIR 2 and four at RIR 3**. No reported failure sets. Ten working sets were chest movements and eight were direct triceps movements, with additional triceps involvement in presses.\n\nThe symptom-free closeout and Medium final energy are encouraging, but this was **not a light re-entry session**. The 18 working sets exceeded the planned 12, and effort was higher than the intended RIR 3-4 on most sets. Repeated extra sets were performed after reduced-volume advice. Do not assume that feeling energetic proves recovery or that completing all six exercises is necessary. Monitor next-day symptoms, soreness and sleep before deciding the next session's workload. Do not automatically increase load based on today's performance.",
+      "html": "<p>Completed <strong>19 resistance entries: 18 working sets plus one user-designated warm-up</strong>, across six exercises. Working-set RIR distribution: <strong>14 sets at RIR 2 and four at RIR 3</strong>. No reported failure sets. Ten working sets were chest movements and eight were direct triceps movements, with additional triceps involvement in presses.</p>\n<p>The symptom-free closeout and Medium final energy are encouraging, but this was <strong>not a light re-entry session</strong>. The 18 working sets exceeded the planned 12, and effort was higher than the intended RIR 3-4 on most sets. Repeated extra sets were performed after reduced-volume advice. Do not assume that feeling energetic proves recovery or that completing all six exercises is necessary. Monitor next-day symptoms, soreness and sleep before deciding the next session&#39;s workload. Do not automatically increase load based on today&#39;s performance.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-25"
+      }
+    },
+    {
+      "id": "md-432",
+      "level": 2,
+      "title": "Next Chest + Triceps targets",
+      "anchor": "next-chest-triceps-targets-3",
+      "raw": "Conditional on symptom-free recovery. These are a conservative return prescription, not a permanent reduction or a replacement for historical best sets. Use two working sets per exercise and adjust load downward if necessary to maintain RIR 3-4.\n\n| Exercise | Next target |\n|---|---|\n| Flat barbell bench press | 15-17.5 kg/side x10-12 for two sets @ RIR 3-4; easy preparation first |\n| Incline barbell bench press | 12.5-15 kg/side x10-12 for two sets @ RIR 3-4 |\n| Horizontal cable fly | 15-20 kg/side x12-15 for two sets @ RIR 3-4; pec deck can replace it, not add to it |\n| Straight-bar pushdown | 40-45 kg total x12-15 for two sets @ RIR 3-4 |\n| Overhead rope extension | 25-30 kg total x12-15 for two sets @ RIR 3-4 |\n| Assisted dips | 70 kg assistance x8-12 for two sets @ RIR 3-4; increase assistance if needed |",
+      "html": "<p>Conditional on symptom-free recovery. These are a conservative return prescription, not a permanent reduction or a replacement for historical best sets. Use two working sets per exercise and adjust load downward if necessary to maintain RIR 3-4.</p>\n<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Flat barbell bench press</td>\n<td>15-17.5 kg/side x10-12 for two sets @ RIR 3-4; easy preparation first</td>\n</tr>\n<tr>\n<td>Incline barbell bench press</td>\n<td>12.5-15 kg/side x10-12 for two sets @ RIR 3-4</td>\n</tr>\n<tr>\n<td>Horizontal cable fly</td>\n<td>15-20 kg/side x12-15 for two sets @ RIR 3-4; pec deck can replace it, not add to it</td>\n</tr>\n<tr>\n<td>Straight-bar pushdown</td>\n<td>40-45 kg total x12-15 for two sets @ RIR 3-4</td>\n</tr>\n<tr>\n<td>Overhead rope extension</td>\n<td>25-30 kg total x12-15 for two sets @ RIR 3-4</td>\n</tr>\n<tr>\n<td>Assisted dips</td>\n<td>70 kg assistance x8-12 for two sets @ RIR 3-4; increase assistance if needed</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-chest-triceps-targets-3"
+      }
+    },
+    {
+      "id": "md-433",
+      "level": 2,
+      "title": "Next scheduled session and coaching format",
+      "anchor": "next-scheduled-session-and-coaching-format",
+      "raw": "Next scheduled session is **Back + Biceps**, after a fresh readiness check. Begin with **10-12 working sets at RIR 3-4**, no failure or additional unplanned sets, provided there is no recurrent headache/neck symptom or limiting soreness. Easy flat walking for 5-10 minutes is optional if comfortable. Stop training and contact the treating clinician if headache recurs; sudden severe headache or neurological symptoms require urgent assessment. This is not a diagnosis or a replacement for the neurologist's advice.\n\nFor **every exercise**, present the most recent matching variation's actual weight, reps, RIR and load basis alongside the current targets before the user starts. Do not compare different machines or cable directions as interchangeable baselines. Historical targets remain preserved; use the latest dated target revision for current coaching.",
+      "html": "<p>Next scheduled session is <strong>Back + Biceps</strong>, after a fresh readiness check. Begin with <strong>10-12 working sets at RIR 3-4</strong>, no failure or additional unplanned sets, provided there is no recurrent headache/neck symptom or limiting soreness. Easy flat walking for 5-10 minutes is optional if comfortable. Stop training and contact the treating clinician if headache recurs; sudden severe headache or neurological symptoms require urgent assessment. This is not a diagnosis or a replacement for the neurologist&#39;s advice.</p>\n<p>For <strong>every exercise</strong>, present the most recent matching variation&#39;s actual weight, reps, RIR and load basis alongside the current targets before the user starts. Do not compare different machines or cable directions as interchangeable baselines. Historical targets remain preserved; use the latest dated target revision for current coaching.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-scheduled-session-and-coaching-format"
       }
     }
   ],
