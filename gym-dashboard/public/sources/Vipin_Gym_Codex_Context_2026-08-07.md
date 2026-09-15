@@ -3566,3 +3566,66 @@ Conditional on symptom-free recovery. These are a conservative return prescripti
 Next scheduled session is **Back + Biceps**, after a fresh readiness check. Begin with **10-12 working sets at RIR 3-4**, no failure or additional unplanned sets, provided there is no recurrent headache/neck symptom or limiting soreness. Easy flat walking for 5-10 minutes is optional if comfortable. Stop training and contact the treating clinician if headache recurs; sudden severe headache or neurological symptoms require urgent assessment. This is not a diagnosis or a replacement for the neurologist's advice.
 
 For **every exercise**, present the most recent matching variation's actual weight, reps, RIR and load basis alongside the current targets before the user starts. Do not compare different machines or cable directions as interchangeable baselines. Historical targets remain preserved; use the latest dated target revision for current coaching.
+
+# Back + Biceps Workout - 2026-09-15
+
+## Readiness and supplements
+
+- Sleep: **Good**. Starting energy: **Medium to High**.
+- No headache, head pressure, dizziness, neck discomfort, chest pain, triceps/back/joint soreness or other pain reported. Normal chest/triceps pump from the prior session.
+- EAA+ Energy: **Full scoop**, supplying **100 mg label-verified caffeine**.
+- Pre-workout: **Half scoop**. Based on the previously user-stated 200 mg/full scoop, estimated caffeine is 100 mg. Product label and exact serving weight remain **To verify**.
+- Combined estimated caffeine: **approximately 200 mg**, not 150 mg. Coffee: **None**.
+- Creatine and magnesium intake today: **To verify**. No new weight or waist measurement reported.
+
+## Completed resistance work
+
+All entries below are retained as working sets; no set was explicitly identified as warm-up. The first straight-arm set at RIR 4 was relatively easy, but is not silently reclassified.
+
+| Exercise | Load basis | Sets: kg x reps @ RIR |
+|---|---|---|
+| Chest-supported T-bar row | Total added plates; chest support and basis explicitly confirmed | 20 x15 @3; 35 x15 @3; 45 x10 @3 |
+| Straight-arm pulldown | Total stack | 40 x15 @4; 45 x16 @3; 50 x12 @3 |
+| Iso-lateral high row | Plates each side; machine starting resistance excluded | 15 x13 @2; 17.5 x11 @2; 20 x10 @2 |
+| Incline dumbbell curl | Each dumbbell | 10 x15 @1; 12.5 x10 @2; 15 x8 @1 |
+| Hammer curl | Each dumbbell | 15 x12 @2; 17.5 x11 @2 |
+| Plate-loaded biceps curl machine | Plates each side | 7.5 x15 @3; 10 x14 @2; 12.5 x11 @2 |
+
+Lat pulldown and seated cable row were occupied, so neither was performed. T-bar replaced the established chest-supported row machine. The photographed machine was identified in conversation as the scheduled iso-lateral high row and used as the pulldown alternative; its exact model, selected grip and equivalence to the September 5 machine remain **To verify**. No second chest-supported row machine was added. Plate curl machine replaced concentration curls. The September 1 T-bar load-basis uncertainty remains historical; today's total-plates confirmation is not automatically applied retrospectively.
+
+Machine photo: [September 15 high-row machine](evidence/equipment/2026-09-15-high-row-machine.jpg). Photo alone does not establish the full movement path or exact model.
+
+## Cardio and final recovery
+
+- Treadmill: **15 minutes at 3 km/h and 12% incline**, **no rail support** reported.
+- No core work reported.
+- Final energy: **Medium**. Back/biceps pump: **Medium**.
+- Total duration including treadmill: **75 minutes**.
+- Headache, head pressure, dizziness, neck discomfort, joint/other pain: **None reported**.
+- Human-assisted repetitions or form breakdown: **None reported**, not independently verified visually.
+- Workout completion: **Confirmed**.
+
+## Coaching assessment and workload preference
+
+Completed **17 working sets: nine back and eight direct biceps**, across six exercises. RIR distribution: **one set at 4, six at 3, eight at 2, and two at 1**. No reported RIR 0 sets. Hammer curls and the top two plate-curl sets matched the previous session's reps and reserve. Incline curls included two RIR-1 sets; improve reserve before adding load. High-row comparisons are conditional on the same machine and grip.
+
+The session remained symptom-free with Medium final energy and pump, which is encouraging. The actual workload exceeded the initial 10-12-set return plan, and the 12% walk was steeper and longer than the suggested easy cooldown. This is a description of the completed workload, not proof that 17 sets was harmful or that a fixed 12-set cutoff is medically necessary. Delayed soreness, sleep and next-day symptoms remain unknown.
+
+Vipin asked not to have exercise arbitrarily limited when feeling well and specifically wanted three biceps exercises. The coach acknowledged that 12 sets is not a universal safety cutoff. Future sessions should agree a meaningful exercise/set plan and substitutions **before lifting**, considering goals, recent weekly volume, performance and recovery. Feeling energetic is one input, not the sole determinant. Continue candid coaching without repeatedly changing the plan mid-session or treating every extra set as invalid. Previous history and recommendations are preserved.
+
+## Next matching-exercise targets
+
+These are conditional coaching targets, not extra exercises to add to every back session. Agree two versus three sets before starting. Keep most working sets at RIR 2-3 and avoid forced reps. If recovery is poor, reduce workload; if consistently good, progress gradually.
+
+| Exercise | Next target |
+|---|---|
+| Chest-supported T-bar row | Same machine, total plates: 35 x15 @3; 45 x10-11 @2-3. Use 20 kg as preparation only if genuinely easy; otherwise count it as work. |
+| Straight-arm pulldown | 40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3 when three sets are agreed. |
+| Iso-lateral high row | Per side: 15 x13-15 @3; 17.5 x11-12 @2-3; 20 x10 @2-3 if three sets agreed. Verify same machine/grip before comparison. |
+| Incline dumbbell curl | Each: 10 x10-12 @3; 12.5 x8-10 @2-3. Omit 15 kg until lower loads maintain target reserve. |
+| Hammer curl | Each: 15 x12 @2-3; 17.5 x11-12 @2. Hold load. |
+| Plate curl machine | Per side: 10 x14 @2-3; 12.5 x11-12 @2. Use 7.5 kg preparation only if easy; avoid adding fatigue sets. |
+
+## Next scheduled session
+
+**Shoulders + Triceps**, subject to a fresh sleep, energy, soreness and head/neck symptom check. Consider Monday's pressing/triceps work and today's pulling/arm work when agreeing volume. No automatic load increase. Cardio duration and incline should be agreed before the session using comfortable breathing and recovery, not a calorie-machine target. Continue following the neurologist's advice; stop and seek clinical advice if the headache returns.

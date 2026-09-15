@@ -2,6 +2,28 @@ import { describe, expect, it } from 'vitest'
 import { containsUncertainty, data } from './data'
 
 describe('generated coaching dataset', () => {
+  it('records September 15 machine substitutions, recovery and confirmed load basis', () => {
+    const rows = data.journal.filter(row => row.Date === '2026-09-15')
+    expect(rows).toHaveLength(17)
+    expect(rows.every(row => row['Set Type'] === 'Working')).toBe(true)
+    expect(rows.filter(row => row.RIR === 1)).toHaveLength(2)
+    expect(rows.filter(row => row.RIR === 2)).toHaveLength(8)
+    expect(rows.filter(row => row.RIR === 3)).toHaveLength(6)
+    expect(rows.filter(row => row.RIR === 4)).toHaveLength(1)
+    expect(rows.some(row => row.Exercise === 'Lat Pulldown' || row.Exercise === 'Seated Cable Row')).toBe(false)
+    const tbar = rows.filter(row => row.Exercise === 'Chest-Supported T-Bar Row')
+    expect(tbar.map(row => row.Weight)).toEqual([20, 35, 45])
+    expect(tbar.every(row => String(row['Unit / Load Basis']).includes('total added plates'))).toBe(true)
+    const session = data.sessions.find(row => row.Date === '2026-09-15')
+    expect(session?.Exercises).toBe(6)
+    expect(session?.['Set Entries']).toBe(17)
+    const recovery = data.recovery.find(row => row.Date === '2026-09-15')
+    expect(recovery?.Notes).toContain('75 minutes')
+    expect(recovery?.Notes).toContain('~200 mg combined caffeine estimate')
+    expect(recovery?.['Steps / Cardio']).toBe('15 min treadmill; 3 km/h; 12% incline; no rail support')
+    expect(data.targets.filter(row => row.Status === '2026-09-15 targets')).toHaveLength(6)
+    expect(data.journal.filter(row => String(row.Date) < '2026-09-15')).toHaveLength(578)
+  })
   it('records the September 14 return workout and actual closeout', () => {
     const session = data.sessions.find(row => row.Date === '2026-09-14')
     expect(session?.['Set Entries']).toBe(19)
@@ -19,15 +41,15 @@ describe('generated coaching dataset', () => {
     expect(recovery?.Notes).toContain('90 minutes')
     expect(recovery?.['Steps / Cardio']).toContain('7 min treadmill; 3 km/h; 12% incline')
     expect(recovery?.Notes).toContain('intake today To verify')
-    expect(data.journal.filter(row => row.Date !== '2026-09-14')).toHaveLength(559)
+    expect(data.journal.filter(row => String(row.Date) < '2026-09-14')).toHaveLength(559)
     expect(data.targets.filter(row => row.Status === '2026-09-14 return targets')).toHaveLength(6)
   })
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(578)
-    expect(data.sessions).toHaveLength(29)
-    expect(data.markdownSections).toHaveLength(433)
-    expect(data.evidence).toHaveLength(13)
+    expect(data.journal).toHaveLength(595)
+    expect(data.sessions).toHaveLength(30)
+    expect(data.markdownSections).toHaveLength(440)
+    expect(data.evidence).toHaveLength(14)
   })
 
   it('keeps assisted repetitions separate from clean repetitions', () => {

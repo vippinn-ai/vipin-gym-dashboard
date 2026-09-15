@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T16:52:38.562Z",
+  "generatedAt": "2026-09-15T17:24:45.679Z",
   "sourceFiles": [
     {
       "name": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
       "path": "sources/Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
-      "sha256": "21bdd6a1c30fb587cde6626ace866047845d9e2dc6e26189f6fd6c92804e1cab"
+      "sha256": "7f85910513ddb5b2f4a915aef3568eafeb1781d026aacc5a9ca401b7d50499f1"
     },
     {
       "name": "Vipin_Gym_Codex_Context_2026-08-07.md",
       "path": "sources/Vipin_Gym_Codex_Context_2026-08-07.md",
-      "sha256": "71098c7f12af5337598a544dad2b20a63ba54e2a33a175b34e5927a72a1dbfd6"
+      "sha256": "ebc7afe7f3cc507b22ec9014d28223d26a16215b9892ecffb8c7a9ef71ea58d6"
     }
   ],
   "workbook": {
@@ -225,7 +225,7 @@
             "",
             "",
             "",
-            29,
+            30,
             "",
             58,
             "",
@@ -349,7 +349,7 @@
           ],
           [
             "Tuesday",
-            "Back + Biceps: fresh readiness first",
+            "Back + Biceps completed 2026-09-15",
             "",
             "",
             "",
@@ -381,7 +381,7 @@
             "",
             "",
             "",
-            "",
+            "Latest session sets",
             "",
             "",
             "",
@@ -393,12 +393,12 @@
             "Friday",
             "Chest + Shoulders: conditional",
             "",
-            "Chest + Triceps",
-            "Flat Bench Press",
-            "10 x 12 @3; 15 x 12 @2; 17.5 x 10 @2; 20 x 8 @2; 22.5 x 6 @2",
-            "2 sets: 15-17.5 kg/side x10-12 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Chest-Supported T-Bar Row",
+            "20 x15 @3; 35 x15 @3; 45 x10 @3",
+            "20 x12-15 @3 preparation only if genuinely easy; 35 x15 @3; 45 x10-11 @2-3. Same machine and total plates.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -407,12 +407,12 @@
             "Saturday",
             "Back + Biceps: conditional",
             "",
-            "Chest + Triceps",
-            "Incline Barbell Bench Press",
-            "15 x 12 @2; 17.5 x 10 @2; 20 x 6 @3",
-            "2 sets: 12.5-15 kg/side x10-12 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Straight-Arm Pulldown",
+            "40 x15 @4; 45 x16 @3; 50 x12 @3",
+            "40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3. Agree two or three sets before starting.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -421,12 +421,12 @@
             "Sunday",
             "Complete rest / recovery",
             "",
-            "Chest + Triceps",
-            "Cable Fly",
-            "20 x 15 @3; 25 x 10 @2; 25 x 10 @2",
-            "2 sets: 15-20 kg/side x12-15 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Iso-Lateral High Row",
+            "15 x13 @2; 17.5 x11 @2; 20 x10 @2",
+            "15/side x13-15 @3; 17.5/side x11-12 @2-3; 20/side x10 @2-3 if three sets agreed.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -435,12 +435,12 @@
             "",
             "",
             "",
-            "Chest + Triceps",
-            "Straight Bar Pushdown",
-            "50 x 14 @3; 55 x 11 @2; 60 x 8 @2",
-            "2 sets: 40-45 kg x12-15 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Incline Dumbbell Curl",
+            "10 x15 @1; 12.5 x10 @2; 15 x8 @1",
+            "10 each x10-12 @3; 12.5 each x8-10 @2-3. Omit 15 kg until lower loads stay controlled at target reserve.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -449,12 +449,12 @@
             "",
             "",
             "",
-            "Chest + Triceps",
-            "Overhead Rope Extension",
-            "35 x 14 @3; 40 x 11 @2; 45 x 9 @2",
-            "2 sets: 25-30 kg x12-15 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Hammer Curl",
+            "15 x12 @2; 17.5 x11 @2",
+            "15 each x12 @2-3; 17.5 each x11-12 @2. No load increase yet.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -463,12 +463,12 @@
             "",
             "",
             "",
-            "Chest + Triceps",
-            "Assisted Dip Machine",
-            "60 x 12 @2; 50 x 8 @2",
-            "2 sets: 70 kg assistance x8-12 @3-4",
-            "Return targets",
-            "See dated target notes",
+            "Back + Biceps",
+            "Plate Curl Machine",
+            "7.5 x15 @3; 10 x14 @2; 12.5 x11 @2",
+            "10/side x14 @2-3; 12.5/side x11-12 @2. 7.5 kg preparation only if easy; avoid adding fatigue sets.",
+            "Recovery-led targets",
+            "Latest dated revision",
             "",
             "",
             ""
@@ -479,10 +479,10 @@
             "",
             "Recovery",
             "Final energy",
-            "Medium after 90 min",
-            "Monitor delayed symptoms",
-            "No pain reported",
-            "18 working sets exceeded lighter return plan",
+            "Medium after 75 min",
+            "No symptoms reported",
+            "Monitor next day",
+            "17 sets; 15 min walk",
             "",
             "",
             ""
@@ -492,11 +492,11 @@
             "",
             "",
             "Next",
-            "Back + Biceps",
+            "Shoulders + Triceps",
             "Fresh readiness first",
-            "10-12 work sets, RIR 3-4",
+            "Agree workload before lifting",
             "Conditional",
-            "No automatic load increases",
+            "No automatic progression",
             "",
             "",
             ""
@@ -9818,6 +9818,278 @@
             "Completed above lighter return prescription; hold progression pending recovery",
             "Working",
             2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Chest-Supported T-Bar Row",
+            1,
+            20,
+            "kg total added plates; starting resistance excluded",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Chest-Supported T-Bar Row",
+            2,
+            35,
+            "kg total added plates; starting resistance excluded",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Chest-Supported T-Bar Row",
+            3,
+            45,
+            "kg total added plates; starting resistance excluded",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Straight-Arm Pulldown",
+            1,
+            40,
+            "kg total stack",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "First set not explicitly designated warm-up.",
+            "Working",
+            4
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Straight-Arm Pulldown",
+            2,
+            45,
+            "kg total stack",
+            16,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "First set not explicitly designated warm-up.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Straight-Arm Pulldown",
+            3,
+            50,
+            "kg total stack",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "First set not explicitly designated warm-up.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Iso-Lateral High Row",
+            1,
+            15,
+            "kg plates each side; starting resistance excluded",
+            13,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "User identified as scheduled machine; exact model/selected grip To verify.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Iso-Lateral High Row",
+            2,
+            17.5,
+            "kg plates each side; starting resistance excluded",
+            11,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "User identified as scheduled machine; exact model/selected grip To verify.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Iso-Lateral High Row",
+            3,
+            20,
+            "kg plates each side; starting resistance excluded",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "User identified as scheduled machine; exact model/selected grip To verify.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Incline Dumbbell Curl",
+            1,
+            10,
+            "kg each dumbbell",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Two sets near failure; next improve reserve rather than increase load.",
+            "Working",
+            1
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Incline Dumbbell Curl",
+            2,
+            12.5,
+            "kg each dumbbell",
+            10,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Two sets near failure; next improve reserve rather than increase load.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Incline Dumbbell Curl",
+            3,
+            15,
+            "kg each dumbbell",
+            8,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Two sets near failure; next improve reserve rather than increase load.",
+            "Working",
+            1
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Hammer Curl",
+            1,
+            15,
+            "kg each dumbbell",
+            12,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Matched previous repetitions and reserve.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Hammer Curl",
+            2,
+            17.5,
+            "kg each dumbbell",
+            11,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Matched previous repetitions and reserve.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Plate Curl Machine",
+            1,
+            7.5,
+            "kg plates each side",
+            15,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Replaced concentration curl; top two sets matched September 5.",
+            "Working",
+            3
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Plate Curl Machine",
+            2,
+            10,
+            "kg plates each side",
+            14,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Replaced concentration curl; top two sets matched September 5.",
+            "Working",
+            2
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            "Plate Curl Machine",
+            3,
+            12.5,
+            "kg plates each side",
+            11,
+            "No human-assisted reps or reported form breakdown",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+            "Medium-High start; Medium final",
+            "Good",
+            "Replaced concentration curl; top two sets matched September 5.",
+            "Working",
+            2
           ]
         ]
       },
@@ -10462,6 +10734,72 @@
             "Controlled pain-free motion; no straining",
             "2026-09-14 return targets",
             "Dated target revision; prior targets/history retained. Conditional on symptom-free recovery; older best sets are not erased."
+          ],
+          [
+            "Back + Biceps",
+            "Chest-Supported T-Bar Row",
+            "20 x15 @3; 35 x15 @3; 45 x10 @3",
+            "kg total added plates; starting resistance excluded",
+            "20 x12-15 @3 preparation only if genuinely easy; 35 x15 @3; 45 x10-11 @2-3. Same machine and total plates.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical."
+          ],
+          [
+            "Back + Biceps",
+            "Straight-Arm Pulldown",
+            "40 x15 @4; 45 x16 @3; 50 x12 @3",
+            "kg total stack",
+            "40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3. Agree two or three sets before starting.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. First set not explicitly designated warm-up."
+          ],
+          [
+            "Back + Biceps",
+            "Iso-Lateral High Row",
+            "15 x13 @2; 17.5 x11 @2; 20 x10 @2",
+            "kg plates each side; starting resistance excluded",
+            "15/side x13-15 @3; 17.5/side x11-12 @2-3; 20/side x10 @2-3 if three sets agreed.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. User identified as scheduled machine; exact model/selected grip To verify."
+          ],
+          [
+            "Back + Biceps",
+            "Incline Dumbbell Curl",
+            "10 x15 @1; 12.5 x10 @2; 15 x8 @1",
+            "kg each dumbbell",
+            "10 each x10-12 @3; 12.5 each x8-10 @2-3. Omit 15 kg until lower loads stay controlled at target reserve.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. Two sets near failure; next improve reserve rather than increase load."
+          ],
+          [
+            "Back + Biceps",
+            "Hammer Curl",
+            "15 x12 @2; 17.5 x11 @2",
+            "kg each dumbbell",
+            "15 each x12 @2-3; 17.5 each x11-12 @2. No load increase yet.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. Matched previous repetitions and reserve."
+          ],
+          [
+            "Back + Biceps",
+            "Plate Curl Machine",
+            "7.5 x15 @3; 10 x14 @2; 12.5 x11 @2",
+            "kg plates each side",
+            "10/side x14 @2-3; 12.5/side x11-12 @2. 7.5 kg preparation only if easy; avoid adding fatigue sets.",
+            "Progress reps/reserve before load; agree set count first",
+            "Controlled pain-free motion",
+            "2026-09-15 targets",
+            "Dated revision; prior records retained. Replaced concentration curl; top two sets matched September 5."
           ]
         ]
       },
@@ -11205,16 +11543,16 @@
             null
           ],
           [
+            "2026-09-15",
             "",
             "",
+            "Good",
+            "Medium final",
+            "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
             "",
             "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
+            "15 min treadmill; 3 km/h; 12% incline; no rail support",
+            "75 minutes including 15 min treadmill at 3 km/h, 12% incline, no rail support. Good sleep; Medium-High starting energy; Medium final energy and pump. No symptoms, human-assisted reps or reported form breakdown. Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
             "",
             "",
             "",
@@ -15735,6 +16073,46 @@
             null,
             null,
             null
+          ],
+          [
+            "2026-09-15 completion",
+            "17 working sets across six exercises: nine back and eight biceps. No separate warm-up reported; the 40 kg straight-arm set at RIR 4 is retained as performed, not silently reclassified. RIR distribution: one at 4, six at 3, eight at 2, two at 1. Machine availability changed the order and selections. Stable hammer and machine-curl top sets; higher effort on incline curls. No reported symptoms; monitor delayed recovery. Actual volume and incline exceeded the initial return prescription, but 12 sets is not a universal safety cutoff.",
+            "Self-reported symptom-free completion is encouraging; delayed recovery is not yet known.",
+            "Review next-morning symptoms, sleep, energy and soreness.",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-09-15 coaching preference",
+            "Vipin objects to arbitrary limits when feeling well and wants three biceps exercises. Coach acknowledged that 12 sets is not a universal safety cutoff.",
+            "Agree a meaningful workload up front rather than repeatedly changing it mid-session. Preferences do not remove the need to assess fatigue or symptoms.",
+            "Review weekly volume and recovery; retain evidence-based advice without punitive progression language.",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-09-15 supplements",
+            "Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
+            "Pre-workout caffeine amount is not independently label-verified.",
+            "Obtain product label; track sleep response without inferring caffeine caused or resolved prior headache.",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-09-15 next session",
+            "Shoulders + Triceps next after fresh sleep, energy, soreness and head/neck symptom check. Agree exercise count, sets and substitutions before lifting; consider recent pressing/arm workload. Keep most sets at RIR 2-3, no forced reps; adjust to observed recovery, not energy alone. No automatic load increases.",
+            "Second consecutive return-week session completed.",
+            "Use matching historical exercise baselines and exact load basis before each exercise.",
+            null,
+            null,
+            null,
+            null
           ]
         ]
       },
@@ -16071,6 +16449,16 @@
             "90 minutes including 7 min treadmill at 3 km/h, 12% incline; rail support To verify. Good sleep, Medium start/final energy. No headache/head pressure, dizziness, neck discomfort, joint/other pain; no human assistance or reported form breakdown.",
             "18 working sets plus one user-designated warm-up (RIR 3), six exercises. No pain, headache, dizziness, assistance or form breakdown reported; Medium final energy. Return after approximately one week off exceeded the planned 12 working sets at RIR 3-4: 14 working sets were RIR 2 and four were RIR 3. This was not a light re-entry session. Do not infer recovery or medical cause from performance alone; monitor next-day symptoms and avoid automatic load increases.",
             "Next scheduled Back + Biceps only after fresh readiness and no recurrent headache, neck symptoms or limiting soreness. Start with 10-12 working sets at RIR 3-4; no failure or extra sets. Easy flat walking 5-10 min optional. Stop and seek clinician advice if headache recurs."
+          ],
+          [
+            "2026-09-15",
+            "Back + Biceps",
+            6,
+            17,
+            "Symptom-free / monitor recovery",
+            "75 minutes including 15 min treadmill at 3 km/h, 12% incline, no rail support. Good sleep; Medium-High starting energy; Medium final energy and pump. No symptoms, human-assisted reps or reported form breakdown. Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
+            "17 working sets across six exercises: nine back and eight biceps. No separate warm-up reported; the 40 kg straight-arm set at RIR 4 is retained as performed, not silently reclassified. RIR distribution: one at 4, six at 3, eight at 2, two at 1. Machine availability changed the order and selections. Stable hammer and machine-curl top sets; higher effort on incline curls. No reported symptoms; monitor delayed recovery. Actual volume and incline exceeded the initial return prescription, but 12 sets is not a universal safety cutoff.",
+            "Shoulders + Triceps next after fresh sleep, energy, soreness and head/neck symptom check. Agree exercise count, sets and substitutions before lifting; consider recent pressing/arm workload. Keep most sets at RIR 2-3, no forced reps; adjust to observed recovery, not energy alone. No automatic load increases."
           ]
         ]
       },
@@ -30207,6 +30595,380 @@
         "row": 582,
         "range": "A582"
       }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Chest-Supported T-Bar Row",
+      "Set": 1,
+      "Weight": 20,
+      "Unit / Load Basis": "kg total added plates; starting resistance excluded",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 583,
+        "range": "A583"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Chest-Supported T-Bar Row",
+      "Set": 2,
+      "Weight": 35,
+      "Unit / Load Basis": "kg total added plates; starting resistance excluded",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 584,
+        "range": "A584"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Chest-Supported T-Bar Row",
+      "Set": 3,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total added plates; starting resistance excluded",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 585,
+        "range": "A585"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 1,
+      "Weight": 40,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "First set not explicitly designated warm-up.",
+      "Set Type": "Working",
+      "RIR": 4,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 586,
+        "range": "A586"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 2,
+      "Weight": 45,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 16,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "First set not explicitly designated warm-up.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 587,
+        "range": "A587"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Straight-Arm Pulldown",
+      "Set": 3,
+      "Weight": 50,
+      "Unit / Load Basis": "kg total stack",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "First set not explicitly designated warm-up.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 588,
+        "range": "A588"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Iso-Lateral High Row",
+      "Set": 1,
+      "Weight": 15,
+      "Unit / Load Basis": "kg plates each side; starting resistance excluded",
+      "Reps": 13,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "User identified as scheduled machine; exact model/selected grip To verify.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 589,
+        "range": "A589"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Iso-Lateral High Row",
+      "Set": 2,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg plates each side; starting resistance excluded",
+      "Reps": 11,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "User identified as scheduled machine; exact model/selected grip To verify.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 590,
+        "range": "A590"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Iso-Lateral High Row",
+      "Set": 3,
+      "Weight": 20,
+      "Unit / Load Basis": "kg plates each side; starting resistance excluded",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "User identified as scheduled machine; exact model/selected grip To verify.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 591,
+        "range": "A591"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 1,
+      "Weight": 10,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Two sets near failure; next improve reserve rather than increase load.",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 592,
+        "range": "A592"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 2,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 10,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Two sets near failure; next improve reserve rather than increase load.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 593,
+        "range": "A593"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Set": 3,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 8,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Two sets near failure; next improve reserve rather than increase load.",
+      "Set Type": "Working",
+      "RIR": 1,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 594,
+        "range": "A594"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 1,
+      "Weight": 15,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 12,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Matched previous repetitions and reserve.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 595,
+        "range": "A595"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Hammer Curl",
+      "Set": 2,
+      "Weight": 17.5,
+      "Unit / Load Basis": "kg each dumbbell",
+      "Reps": 11,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Matched previous repetitions and reserve.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 596,
+        "range": "A596"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 1,
+      "Weight": 7.5,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 15,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Replaced concentration curl; top two sets matched September 5.",
+      "Set Type": "Working",
+      "RIR": 3,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 597,
+        "range": "A597"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 2,
+      "Weight": 10,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 14,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Replaced concentration curl; top two sets matched September 5.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 598,
+        "range": "A598"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Set": 3,
+      "Weight": 12.5,
+      "Unit / Load Basis": "kg plates each side",
+      "Reps": 11,
+      "Form Note": "No human-assisted reps or reported form breakdown",
+      "Pain / Soreness": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Energy": "Medium-High start; Medium final",
+      "Sleep": "Good",
+      "Coach Note": "Replaced concentration curl; top two sets matched September 5.",
+      "Set Type": "Working",
+      "RIR": 2,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Workout Journal",
+        "row": 599,
+        "range": "A599"
+      }
     }
   ],
   "sessions": [
@@ -30672,6 +31434,22 @@
         "sheet": "Session Summary",
         "row": 33,
         "range": "A33"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Workout": "Back + Biceps",
+      "Exercises": 6,
+      "Set Entries": 17,
+      "Readiness": "Symptom-free / monitor recovery",
+      "Recovery Notes": "75 minutes including 15 min treadmill at 3 km/h, 12% incline, no rail support. Good sleep; Medium-High starting energy; Medium final energy and pump. No symptoms, human-assisted reps or reported form breakdown. Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
+      "Coach Assessment": "17 working sets across six exercises: nine back and eight biceps. No separate warm-up reported; the 40 kg straight-arm set at RIR 4 is retained as performed, not silently reclassified. RIR distribution: one at 4, six at 3, eight at 2, two at 1. Machine availability changed the order and selections. Stable hammer and machine-curl top sets; higher effort on incline curls. No reported symptoms; monitor delayed recovery. Actual volume and incline exceeded the initial return prescription, but 12 sets is not a universal safety cutoff.",
+      "Next-Session Status": "Shoulders + Triceps next after fresh sleep, energy, soreness and head/neck symptom check. Agree exercise count, sets and substitutions before lifting; consider recent pressing/arm workload. Keep most sets at RIR 2-3, no forced reps; adjust to observed recovery, not energy alone. No automatic load increases.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Session Summary",
+        "row": 34,
+        "range": "A34"
       }
     }
   ],
@@ -31593,6 +32371,108 @@
         "row": 58,
         "range": "A58"
       }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Chest-Supported T-Bar Row",
+      "Current Best Set": "20 x15 @3; 35 x15 @3; 45 x10 @3",
+      "Current Working Zone": "kg total added plates; starting resistance excluded",
+      "Next Target": "20 x12-15 @3 preparation only if genuinely easy; 35 x15 @3; 45 x10-11 @2-3. Same machine and total plates.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. Chest support and total plates explicitly confirmed. Prior September 1 load-basis uncertainty remains historical.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 59,
+        "range": "A59"
+      }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Straight-Arm Pulldown",
+      "Current Best Set": "40 x15 @4; 45 x16 @3; 50 x12 @3",
+      "Current Working Zone": "kg total stack",
+      "Next Target": "40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3. Agree two or three sets before starting.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. First set not explicitly designated warm-up.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 60,
+        "range": "A60"
+      }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Iso-Lateral High Row",
+      "Current Best Set": "15 x13 @2; 17.5 x11 @2; 20 x10 @2",
+      "Current Working Zone": "kg plates each side; starting resistance excluded",
+      "Next Target": "15/side x13-15 @3; 17.5/side x11-12 @2-3; 20/side x10 @2-3 if three sets agreed.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. User identified as scheduled machine; exact model/selected grip To verify.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 61,
+        "range": "A61"
+      }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Current Best Set": "10 x15 @1; 12.5 x10 @2; 15 x8 @1",
+      "Current Working Zone": "kg each dumbbell",
+      "Next Target": "10 each x10-12 @3; 12.5 each x8-10 @2-3. Omit 15 kg until lower loads stay controlled at target reserve.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. Two sets near failure; next improve reserve rather than increase load.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 62,
+        "range": "A62"
+      }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Hammer Curl",
+      "Current Best Set": "15 x12 @2; 17.5 x11 @2",
+      "Current Working Zone": "kg each dumbbell",
+      "Next Target": "15 each x12 @2-3; 17.5 each x11-12 @2. No load increase yet.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. Matched previous repetitions and reserve.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 63,
+        "range": "A63"
+      }
+    },
+    {
+      "Muscle": "Back + Biceps",
+      "Exercise": "Plate Curl Machine",
+      "Current Best Set": "7.5 x15 @3; 10 x14 @2; 12.5 x11 @2",
+      "Current Working Zone": "kg plates each side",
+      "Next Target": "10/side x14 @2-3; 12.5/side x11-12 @2. 7.5 kg preparation only if easy; avoid adding fatigue sets.",
+      "Progress Rule": "Progress reps/reserve before load; agree set count first",
+      "Technique Focus": "Controlled pain-free motion",
+      "Status": "2026-09-15 targets",
+      "Notes": "Dated revision; prior records retained. Replaced concentration curl; top two sets matched September 5.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Exercise Targets",
+        "row": 64,
+        "range": "A64"
+      }
     }
   ],
   "recovery": [
@@ -32214,6 +33094,26 @@
         "sheet": "Recovery & Body",
         "row": 35,
         "range": "A35"
+      }
+    },
+    {
+      "Date": "2026-09-15",
+      "Weight (kg)": "",
+      "Waist (cm)": "",
+      "Sleep": "Good",
+      "Energy": "Medium final",
+      "Soreness / Pain": "No headache, head pressure, dizziness, neck discomfort or joint/other pain",
+      "Protein (g)": "",
+      "Water (L)": "",
+      "Steps / Cardio": "15 min treadmill; 3 km/h; 12% incline; no rail support",
+      "Notes": "75 minutes including 15 min treadmill at 3 km/h, 12% incline, no rail support. Good sleep; Medium-High starting energy; Medium final energy and pump. No symptoms, human-assisted reps or reported form breakdown. Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
+      "Column 11": "",
+      "Weekly Measurement Check-In": null,
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Recovery & Body",
+        "row": 36,
+        "range": "A36"
       }
     }
   ],
@@ -34009,6 +34909,54 @@
         "sheet": "Program Notes",
         "row": 104,
         "range": "A104"
+      }
+    },
+    {
+      "Category": "2026-09-15 completion",
+      "Rule / Observation": "17 working sets across six exercises: nine back and eight biceps. No separate warm-up reported; the 40 kg straight-arm set at RIR 4 is retained as performed, not silently reclassified. RIR distribution: one at 4, six at 3, eight at 2, two at 1. Machine availability changed the order and selections. Stable hammer and machine-curl top sets; higher effort on incline curls. No reported symptoms; monitor delayed recovery. Actual volume and incline exceeded the initial return prescription, but 12 sets is not a universal safety cutoff.",
+      "Why It Matters": "Self-reported symptom-free completion is encouraging; delayed recovery is not yet known.",
+      "Action": "Review next-morning symptoms, sleep, energy and soreness.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 105,
+        "range": "A105"
+      }
+    },
+    {
+      "Category": "2026-09-15 coaching preference",
+      "Rule / Observation": "Vipin objects to arbitrary limits when feeling well and wants three biceps exercises. Coach acknowledged that 12 sets is not a universal safety cutoff.",
+      "Why It Matters": "Agree a meaningful workload up front rather than repeatedly changing it mid-session. Preferences do not remove the need to assess fatigue or symptoms.",
+      "Action": "Review weekly volume and recovery; retain evidence-based advice without punitive progression language.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 106,
+        "range": "A106"
+      }
+    },
+    {
+      "Category": "2026-09-15 supplements",
+      "Rule / Observation": "Full EAA+ (100 mg label-verified caffeine) plus half pre-workout (~100 mg user-stated); ~200 mg combined caffeine estimate, pre-workout label To verify. No coffee. Creatine/magnesium today To verify.",
+      "Why It Matters": "Pre-workout caffeine amount is not independently label-verified.",
+      "Action": "Obtain product label; track sleep response without inferring caffeine caused or resolved prior headache.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 107,
+        "range": "A107"
+      }
+    },
+    {
+      "Category": "2026-09-15 next session",
+      "Rule / Observation": "Shoulders + Triceps next after fresh sleep, energy, soreness and head/neck symptom check. Agree exercise count, sets and substitutions before lifting; consider recent pressing/arm workload. Keep most sets at RIR 2-3, no forced reps; adjust to observed recovery, not energy alone. No automatic load increases.",
+      "Why It Matters": "Second consecutive return-week session completed.",
+      "Action": "Use matching historical exercise baselines and exact load basis before each exercise.",
+      "__source": {
+        "file": "Vipin_Gym_Progress_Dashboard_2026-08-07_v2.xlsx",
+        "sheet": "Program Notes",
+        "row": 108,
+        "range": "A108"
       }
     }
   ],
@@ -39208,9 +40156,102 @@
         "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
         "anchor": "next-scheduled-session-and-coaching-format"
       }
+    },
+    {
+      "id": "md-434",
+      "level": 1,
+      "title": "Back + Biceps Workout - 2026-09-15",
+      "anchor": "back-biceps-workout-2026-09-15",
+      "raw": "",
+      "html": "",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "back-biceps-workout-2026-09-15"
+      }
+    },
+    {
+      "id": "md-435",
+      "level": 2,
+      "title": "Readiness and supplements",
+      "anchor": "readiness-and-supplements",
+      "raw": "- Sleep: **Good**. Starting energy: **Medium to High**.\n- No headache, head pressure, dizziness, neck discomfort, chest pain, triceps/back/joint soreness or other pain reported. Normal chest/triceps pump from the prior session.\n- EAA+ Energy: **Full scoop**, supplying **100 mg label-verified caffeine**.\n- Pre-workout: **Half scoop**. Based on the previously user-stated 200 mg/full scoop, estimated caffeine is 100 mg. Product label and exact serving weight remain **To verify**.\n- Combined estimated caffeine: **approximately 200 mg**, not 150 mg. Coffee: **None**.\n- Creatine and magnesium intake today: **To verify**. No new weight or waist measurement reported.",
+      "html": "<ul>\n<li>Sleep: <strong>Good</strong>. Starting energy: <strong>Medium to High</strong>.</li>\n<li>No headache, head pressure, dizziness, neck discomfort, chest pain, triceps/back/joint soreness or other pain reported. Normal chest/triceps pump from the prior session.</li>\n<li>EAA+ Energy: <strong>Full scoop</strong>, supplying <strong>100 mg label-verified caffeine</strong>.</li>\n<li>Pre-workout: <strong>Half scoop</strong>. Based on the previously user-stated 200 mg/full scoop, estimated caffeine is 100 mg. Product label and exact serving weight remain <strong>To verify</strong>.</li>\n<li>Combined estimated caffeine: <strong>approximately 200 mg</strong>, not 150 mg. Coffee: <strong>None</strong>.</li>\n<li>Creatine and magnesium intake today: <strong>To verify</strong>. No new weight or waist measurement reported.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "readiness-and-supplements"
+      }
+    },
+    {
+      "id": "md-436",
+      "level": 2,
+      "title": "Completed resistance work",
+      "anchor": "completed-resistance-work-8",
+      "raw": "All entries below are retained as working sets; no set was explicitly identified as warm-up. The first straight-arm set at RIR 4 was relatively easy, but is not silently reclassified.\n\n| Exercise | Load basis | Sets: kg x reps @ RIR |\n|---|---|---|\n| Chest-supported T-bar row | Total added plates; chest support and basis explicitly confirmed | 20 x15 @3; 35 x15 @3; 45 x10 @3 |\n| Straight-arm pulldown | Total stack | 40 x15 @4; 45 x16 @3; 50 x12 @3 |\n| Iso-lateral high row | Plates each side; machine starting resistance excluded | 15 x13 @2; 17.5 x11 @2; 20 x10 @2 |\n| Incline dumbbell curl | Each dumbbell | 10 x15 @1; 12.5 x10 @2; 15 x8 @1 |\n| Hammer curl | Each dumbbell | 15 x12 @2; 17.5 x11 @2 |\n| Plate-loaded biceps curl machine | Plates each side | 7.5 x15 @3; 10 x14 @2; 12.5 x11 @2 |\n\nLat pulldown and seated cable row were occupied, so neither was performed. T-bar replaced the established chest-supported row machine. The photographed machine was identified in conversation as the scheduled iso-lateral high row and used as the pulldown alternative; its exact model, selected grip and equivalence to the September 5 machine remain **To verify**. No second chest-supported row machine was added. Plate curl machine replaced concentration curls. The September 1 T-bar load-basis uncertainty remains historical; today's total-plates confirmation is not automatically applied retrospectively.\n\nMachine photo: [September 15 high-row machine](evidence/equipment/2026-09-15-high-row-machine.jpg). Photo alone does not establish the full movement path or exact model.",
+      "html": "<p>All entries below are retained as working sets; no set was explicitly identified as warm-up. The first straight-arm set at RIR 4 was relatively easy, but is not silently reclassified.</p>\n<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Load basis</th>\n<th>Sets: kg x reps @ RIR</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Chest-supported T-bar row</td>\n<td>Total added plates; chest support and basis explicitly confirmed</td>\n<td>20 x15 @3; 35 x15 @3; 45 x10 @3</td>\n</tr>\n<tr>\n<td>Straight-arm pulldown</td>\n<td>Total stack</td>\n<td>40 x15 @4; 45 x16 @3; 50 x12 @3</td>\n</tr>\n<tr>\n<td>Iso-lateral high row</td>\n<td>Plates each side; machine starting resistance excluded</td>\n<td>15 x13 @2; 17.5 x11 @2; 20 x10 @2</td>\n</tr>\n<tr>\n<td>Incline dumbbell curl</td>\n<td>Each dumbbell</td>\n<td>10 x15 @1; 12.5 x10 @2; 15 x8 @1</td>\n</tr>\n<tr>\n<td>Hammer curl</td>\n<td>Each dumbbell</td>\n<td>15 x12 @2; 17.5 x11 @2</td>\n</tr>\n<tr>\n<td>Plate-loaded biceps curl machine</td>\n<td>Plates each side</td>\n<td>7.5 x15 @3; 10 x14 @2; 12.5 x11 @2</td>\n</tr>\n</tbody></table>\n<p>Lat pulldown and seated cable row were occupied, so neither was performed. T-bar replaced the established chest-supported row machine. The photographed machine was identified in conversation as the scheduled iso-lateral high row and used as the pulldown alternative; its exact model, selected grip and equivalence to the September 5 machine remain <strong>To verify</strong>. No second chest-supported row machine was added. Plate curl machine replaced concentration curls. The September 1 T-bar load-basis uncertainty remains historical; today&#39;s total-plates confirmation is not automatically applied retrospectively.</p>\n<p>Machine photo: <a href=\"evidence/equipment/2026-09-15-high-row-machine.jpg\">September 15 high-row machine</a>. Photo alone does not establish the full movement path or exact model.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "completed-resistance-work-8"
+      }
+    },
+    {
+      "id": "md-437",
+      "level": 2,
+      "title": "Cardio and final recovery",
+      "anchor": "cardio-and-final-recovery",
+      "raw": "- Treadmill: **15 minutes at 3 km/h and 12% incline**, **no rail support** reported.\n- No core work reported.\n- Final energy: **Medium**. Back/biceps pump: **Medium**.\n- Total duration including treadmill: **75 minutes**.\n- Headache, head pressure, dizziness, neck discomfort, joint/other pain: **None reported**.\n- Human-assisted repetitions or form breakdown: **None reported**, not independently verified visually.\n- Workout completion: **Confirmed**.",
+      "html": "<ul>\n<li>Treadmill: <strong>15 minutes at 3 km/h and 12% incline</strong>, <strong>no rail support</strong> reported.</li>\n<li>No core work reported.</li>\n<li>Final energy: <strong>Medium</strong>. Back/biceps pump: <strong>Medium</strong>.</li>\n<li>Total duration including treadmill: <strong>75 minutes</strong>.</li>\n<li>Headache, head pressure, dizziness, neck discomfort, joint/other pain: <strong>None reported</strong>.</li>\n<li>Human-assisted repetitions or form breakdown: <strong>None reported</strong>, not independently verified visually.</li>\n<li>Workout completion: <strong>Confirmed</strong>.</li>\n</ul>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "cardio-and-final-recovery"
+      }
+    },
+    {
+      "id": "md-438",
+      "level": 2,
+      "title": "Coaching assessment and workload preference",
+      "anchor": "coaching-assessment-and-workload-preference",
+      "raw": "Completed **17 working sets: nine back and eight direct biceps**, across six exercises. RIR distribution: **one set at 4, six at 3, eight at 2, and two at 1**. No reported RIR 0 sets. Hammer curls and the top two plate-curl sets matched the previous session's reps and reserve. Incline curls included two RIR-1 sets; improve reserve before adding load. High-row comparisons are conditional on the same machine and grip.\n\nThe session remained symptom-free with Medium final energy and pump, which is encouraging. The actual workload exceeded the initial 10-12-set return plan, and the 12% walk was steeper and longer than the suggested easy cooldown. This is a description of the completed workload, not proof that 17 sets was harmful or that a fixed 12-set cutoff is medically necessary. Delayed soreness, sleep and next-day symptoms remain unknown.\n\nVipin asked not to have exercise arbitrarily limited when feeling well and specifically wanted three biceps exercises. The coach acknowledged that 12 sets is not a universal safety cutoff. Future sessions should agree a meaningful exercise/set plan and substitutions **before lifting**, considering goals, recent weekly volume, performance and recovery. Feeling energetic is one input, not the sole determinant. Continue candid coaching without repeatedly changing the plan mid-session or treating every extra set as invalid. Previous history and recommendations are preserved.",
+      "html": "<p>Completed <strong>17 working sets: nine back and eight direct biceps</strong>, across six exercises. RIR distribution: <strong>one set at 4, six at 3, eight at 2, and two at 1</strong>. No reported RIR 0 sets. Hammer curls and the top two plate-curl sets matched the previous session&#39;s reps and reserve. Incline curls included two RIR-1 sets; improve reserve before adding load. High-row comparisons are conditional on the same machine and grip.</p>\n<p>The session remained symptom-free with Medium final energy and pump, which is encouraging. The actual workload exceeded the initial 10-12-set return plan, and the 12% walk was steeper and longer than the suggested easy cooldown. This is a description of the completed workload, not proof that 17 sets was harmful or that a fixed 12-set cutoff is medically necessary. Delayed soreness, sleep and next-day symptoms remain unknown.</p>\n<p>Vipin asked not to have exercise arbitrarily limited when feeling well and specifically wanted three biceps exercises. The coach acknowledged that 12 sets is not a universal safety cutoff. Future sessions should agree a meaningful exercise/set plan and substitutions <strong>before lifting</strong>, considering goals, recent weekly volume, performance and recovery. Feeling energetic is one input, not the sole determinant. Continue candid coaching without repeatedly changing the plan mid-session or treating every extra set as invalid. Previous history and recommendations are preserved.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "coaching-assessment-and-workload-preference"
+      }
+    },
+    {
+      "id": "md-439",
+      "level": 2,
+      "title": "Next matching-exercise targets",
+      "anchor": "next-matching-exercise-targets",
+      "raw": "These are conditional coaching targets, not extra exercises to add to every back session. Agree two versus three sets before starting. Keep most working sets at RIR 2-3 and avoid forced reps. If recovery is poor, reduce workload; if consistently good, progress gradually.\n\n| Exercise | Next target |\n|---|---|\n| Chest-supported T-bar row | Same machine, total plates: 35 x15 @3; 45 x10-11 @2-3. Use 20 kg as preparation only if genuinely easy; otherwise count it as work. |\n| Straight-arm pulldown | 40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3 when three sets are agreed. |\n| Iso-lateral high row | Per side: 15 x13-15 @3; 17.5 x11-12 @2-3; 20 x10 @2-3 if three sets agreed. Verify same machine/grip before comparison. |\n| Incline dumbbell curl | Each: 10 x10-12 @3; 12.5 x8-10 @2-3. Omit 15 kg until lower loads maintain target reserve. |\n| Hammer curl | Each: 15 x12 @2-3; 17.5 x11-12 @2. Hold load. |\n| Plate curl machine | Per side: 10 x14 @2-3; 12.5 x11-12 @2. Use 7.5 kg preparation only if easy; avoid adding fatigue sets. |",
+      "html": "<p>These are conditional coaching targets, not extra exercises to add to every back session. Agree two versus three sets before starting. Keep most working sets at RIR 2-3 and avoid forced reps. If recovery is poor, reduce workload; if consistently good, progress gradually.</p>\n<table>\n<thead>\n<tr>\n<th>Exercise</th>\n<th>Next target</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Chest-supported T-bar row</td>\n<td>Same machine, total plates: 35 x15 @3; 45 x10-11 @2-3. Use 20 kg as preparation only if genuinely easy; otherwise count it as work.</td>\n</tr>\n<tr>\n<td>Straight-arm pulldown</td>\n<td>40 x12-15 @3-4; 45 x15-16 @3; 50 x12-13 @2-3 when three sets are agreed.</td>\n</tr>\n<tr>\n<td>Iso-lateral high row</td>\n<td>Per side: 15 x13-15 @3; 17.5 x11-12 @2-3; 20 x10 @2-3 if three sets agreed. Verify same machine/grip before comparison.</td>\n</tr>\n<tr>\n<td>Incline dumbbell curl</td>\n<td>Each: 10 x10-12 @3; 12.5 x8-10 @2-3. Omit 15 kg until lower loads maintain target reserve.</td>\n</tr>\n<tr>\n<td>Hammer curl</td>\n<td>Each: 15 x12 @2-3; 17.5 x11-12 @2. Hold load.</td>\n</tr>\n<tr>\n<td>Plate curl machine</td>\n<td>Per side: 10 x14 @2-3; 12.5 x11-12 @2. Use 7.5 kg preparation only if easy; avoid adding fatigue sets.</td>\n</tr>\n</tbody></table>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-matching-exercise-targets"
+      }
+    },
+    {
+      "id": "md-440",
+      "level": 2,
+      "title": "Next scheduled session",
+      "anchor": "next-scheduled-session",
+      "raw": "**Shoulders + Triceps**, subject to a fresh sleep, energy, soreness and head/neck symptom check. Consider Monday's pressing/triceps work and today's pulling/arm work when agreeing volume. No automatic load increase. Cardio duration and incline should be agreed before the session using comfortable breathing and recovery, not a calorie-machine target. Continue following the neurologist's advice; stop and seek clinical advice if the headache returns.",
+      "html": "<p><strong>Shoulders + Triceps</strong>, subject to a fresh sleep, energy, soreness and head/neck symptom check. Consider Monday&#39;s pressing/triceps work and today&#39;s pulling/arm work when agreeing volume. No automatic load increase. Cardio duration and incline should be agreed before the session using comfortable breathing and recovery, not a calorie-machine target. Continue following the neurologist&#39;s advice; stop and seek clinical advice if the headache returns.</p>\n",
+      "source": {
+        "file": "Vipin_Gym_Codex_Context_2026-08-07.md",
+        "anchor": "next-scheduled-session"
+      }
     }
   ],
   "evidence": [
+    {
+      "id": "equipment-2026-09-15-high-row-machine-jpg",
+      "name": "09 15 high row machine",
+      "category": "equipment",
+      "path": "evidence/equipment/2026-09-15-high-row-machine.jpg",
+      "sourcePath": "evidence/equipment/2026-09-15-high-row-machine.jpg",
+      "bytes": 211823,
+      "sha256": "fdaa43219a5cfa2d6b08a467abd81666f1aac7ac5d4db5b1311d7d016e5706db"
+    },
     {
       "id": "nutrition-labels-2026-08-09-atta-roti-01-atta-nutrition-label-jpg",
       "name": "atta nutrition label",
