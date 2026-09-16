@@ -2,6 +2,22 @@ import { describe, expect, it } from 'vitest'
 import { containsUncertainty, data } from './data'
 
 describe('generated coaching dataset', () => {
+  it('records September 16 shoulders and triceps with confirmed unassisted completion', () => {
+    const rows = data.journal.filter(row => row.Date === '2026-09-16')
+    expect(rows).toHaveLength(19)
+    expect(rows.every(row => row['Set Type'] === 'Working')).toBe(true)
+    expect(rows.filter(row => row.RIR === 3)).toHaveLength(10)
+    expect(rows.filter(row => row.RIR === 2)).toHaveLength(9)
+    expect(new Set(rows.map(row => row.Exercise)).size).toBe(6)
+    const session = data.sessions.find(row => row.Date === '2026-09-16')
+    expect(session?.['Set Entries']).toBe(19)
+    const recovery = data.recovery.find(row => row.Date === '2026-09-16')
+    expect(recovery?.Notes).toContain('90 minutes')
+    expect(recovery?.Notes).toContain('Very good pump')
+    expect(recovery?.['Steps / Cardio']).toBe('15 min treadmill; average 3.3 km/h; 12% incline; no rail support')
+    expect(data.targets.filter(row => row.Status === '2026-09-16 targets')).toHaveLength(6)
+    expect(data.journal.filter(row => String(row.Date) < '2026-09-16')).toHaveLength(595)
+  })
   it('records September 15 machine substitutions, recovery and confirmed load basis', () => {
     const rows = data.journal.filter(row => row.Date === '2026-09-15')
     expect(rows).toHaveLength(17)
@@ -46,9 +62,9 @@ describe('generated coaching dataset', () => {
   })
   it('preserves the complete source inventory', () => {
     expect(data.workbook.sheets).toHaveLength(11)
-    expect(data.journal).toHaveLength(595)
-    expect(data.sessions).toHaveLength(30)
-    expect(data.markdownSections).toHaveLength(440)
+    expect(data.journal).toHaveLength(614)
+    expect(data.sessions).toHaveLength(31)
+    expect(data.markdownSections).toHaveLength(447)
     expect(data.evidence).toHaveLength(14)
   })
 

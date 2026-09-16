@@ -3629,3 +3629,57 @@ These are conditional coaching targets, not extra exercises to add to every back
 ## Next scheduled session
 
 **Shoulders + Triceps**, subject to a fresh sleep, energy, soreness and head/neck symptom check. Consider Monday's pressing/triceps work and today's pulling/arm work when agreeing volume. No automatic load increase. Cardio duration and incline should be agreed before the session using comfortable breathing and recovery, not a calorie-machine target. Continue following the neurologist's advice; stop and seek clinical advice if the headache returns.
+
+# Shoulders + Triceps Workout - 2026-09-16
+
+## Readiness and supplements
+
+- Sleep Good; starting energy Medium to High. No headache, head pressure, dizziness, stomach discomfort or shoulder pain reported at readiness.
+- Full EAA+ scoop: 100 mg label-verified caffeine. Half pre-workout: approximately 100 mg based on the user-stated 200 mg/full serving, product label and serving weight **To verify**. Combined estimate approximately 200 mg. No coffee.
+- Creatine and magnesium intake today **To verify**. No new body measurements reported.
+
+## Completed resistance work
+
+No set was designated warm-up. All 19 entries are retained as working sets. Loads use established matching-exercise conventions.
+
+| Exercise | Load basis | Sets: kg x reps @ RIR |
+|---|---|---|
+| Dumbbell shoulder press | Each dumbbell | 17.5 x12 @3; 20 x12 @3; 22.5 x10 @2; 25 x7 @2 |
+| Plate-loaded lateral raise machine | Plates each side; unloaded resistance excluded and To verify | 2.5 x20 @3; 5 x14 @3; 7.5 x10 @2 |
+| Reverse pec deck | Total stack | 30 x15 @3; 35 x12 @2; 40 x8 @2 |
+| Rope pushdown | Total stack | 30 x17 @2; 35 x11 @2; 40 x9 @3 |
+| Single-arm cable pushdown | Stack setting per arm; same reps both arms confirmed | 5 x20 @3; 10 x15 @3; 15 x11 @3 |
+| Seated two-hand overhead dumbbell extension | One dumbbell total held with both hands | 20 x15 @3; 25 x12 @2; 30 x8 @2 |
+
+## Cardio and final recovery
+
+- Treadmill: **15 minutes, 12% incline, average speed 3.3 km/h, no rail support** explicitly confirmed. No core reported.
+- User says he never uses treadmill rails. Record this as a standing self-reported habit as of September 16; preserve historical uncertain entries unchanged.
+- Total duration **90 minutes including walk**. Final energy **Medium to High (initially described Medium)**; pump **Very good**.
+- No headache, head pressure, dizziness, neck or joint pain. No human-assisted repetitions and no form breakdown, explicitly confirmed by user; not visually verified.
+- Workout completion confirmed.
+
+## Coaching assessment
+
+**19 working sets across six exercises: ten shoulder and nine direct triceps sets. Ten sets at RIR 3 and nine at RIR 2.** Paired single-arm sets count once under the journal convention. No failure sets reported.
+
+Compared with September 2, lateral raise 7.5 kg/side x10 @2 improves by two reps, and overhead dumbbell extension 30 kg x8 @2 improves by one. Shoulder press 25 kg x7 @2 remains below the earlier nine reps; hold the load and rebuild reps. Rope pushdown has fewer reps at the top loads with differing reserve, so it does not justify an automatic load increase.
+
+Symptom-free completion, very good pump and remaining energy are encouraging, not proof of complete recovery. Delayed recovery remains unknown. Actual volume was 19 rather than the initially planned 15 sets. Agree workload before lifting using recent weekly volume, performance and recovery; there is no arbitrary universal set-count safety cutoff. This was the third consecutive return-week training day.
+
+## Next matching-exercise targets
+
+These are per-load options, not instructions to add every optional set. Agree two versus three work sets and substitutions before starting, with most work at RIR 2-3 and no forced reps. Maintain the same loads while improving controlled repetitions.
+
+| Exercise | Next target |
+|---|---|
+| Dumbbell shoulder press | Each: 17.5 x12-15 @3; 20 x12-13 @2-3; 22.5 x10-11 @2. Optional 25 x7-8 @2 replaces a set if agreed, rather than automatically adding one. |
+| Lateral raise machine | Per side: 2.5 x15-20 @3; 5 x14-15 @2-3; 7.5 x10-11 @2. |
+| Reverse pec deck | 30 x15 @3; 35 x12-13 @2; 40 x8-9 @2 if three sets agreed. |
+| Rope pushdown | 30 x15-17 @3; 35 x11-13 @2; 40 x9-10 @2-3 if third set agreed. |
+| Single-arm cable pushdown | Each arm: 10 x15 @3; 15 x11-12 @2-3. Use 5 kg as preparation only if genuinely easy; today's set remains working. |
+| Overhead dumbbell extension | One dumbbell total: 20 x15 @3; 25 x12-13 @2; 30 x8-9 @2 if third set agreed. |
+
+## Next scheduled session
+
+**Thursday Legs + Calves**, following fresh sleep, energy, soreness and head/neck symptom checks. Keep the goal of stronger legs and fuller thighs. Agree working sets and any cardio before lifting, show the last matching exercise's actual loads/reps/RIR, and use recovery-led progression. Follow the treating neurologist's advice if symptoms recur.
